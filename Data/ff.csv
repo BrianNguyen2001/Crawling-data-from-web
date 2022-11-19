@@ -1,0 +1,2260 @@
+,Date,Town,District,Province,Spare,Length,Width,Amenities,Direction,Price
+0,9/29/2022,Xã Tiến Xuân,Huyện Thạch Thất,TP. Hà Nội,1420.0,0.0,0.0,0,Unknow,31.24
+1,9/29/2022,Phường Ea Tam,TP. Buôn Ma Thuột,Đắk Lắk,155.0,31.0,5.0,0,Unknow,2.1
+3,9/29/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,85.0,17.0,5.0,1,Unknow,0.95
+4,9/29/2022,Phường 8,TP. Đà Lạt,Lâm Đồng,650.0,0.0,0.0,1,Bắc,30.5
+5,9/29/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+8,9/29/2022,Phường Hưng Phúc,TP. Vinh,Nghệ An,150.0,7.5,20.0,1,Đông,10.5
+9,9/29/2022,Phường Minh Hưng,Thị xã Chơn Thành,Bình Phước,830.0,32.0,29.99,0,Unknow,0.48
+10,9/29/2022,Phường Thới An,Quận 12,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,2.15
+12,9/29/2022,Phường Long Bình,TP. Thủ Đức,TP. Hồ Chí Minh,90.0,0.0,0.0,1,Unknow,1.99
+14,9/29/2022,Xã Phước Minh,Huyện Bù Gia Mập,Bình Phước,13378.0,0.0,0.0,0,Unknow,4.0
+19,9/29/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,6.0,22.0,1,Đông,0.899
+20,9/29/2022,Thị trấn NT Mộc Châu,Huyện Mộc Châu,Sơn La,288.0,0.0,0.0,1,Unknow,1.62
+22,9/29/2022,Thị trấn Bến Cầu,Huyện Bến Cầu,Tây Ninh,400.0,0.0,0.0,0,Unknow,0.999
+23,9/29/2022,Xã Sơn Mỹ,Huyện Hàm Tân,Bình Thuận,2590.0,50.0,48.0,1,Đông,9.6
+24,9/29/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,85.0,5.0,17.0,1,Unknow,1.3
+27,9/29/2022,Xã An Nhơn Tây,Huyện Củ Chi,TP. Hồ Chí Minh,180.0,0.0,0.0,0,Unknow,0.5
+28,9/29/2022,Phường Hải Thành,Quận Dương Kinh,TP. Hải Phòng,88.0,22.0,4.0,1,Unknow,2.33
+29,9/29/2022,Xã Bàu Đồn,Huyện Gò Dầu,Tây Ninh,157.0,34.0,5.0,1,Unknow,0.78
+30,9/29/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+32,9/29/2022,Xã Thuận Lợi,Huyện Đồng Phú,Bình Phước,220.0,6.0,42.99,0,Unknow,0.6
+33,9/29/2022,Xã Thuận Lợi,Huyện Đồng Phú,Bình Phước,200.0,5.0,40.0,0,Unknow,0.58
+35,9/29/2022,Phường 6,TP. Đà Lạt,Lâm Đồng,123.0,0.0,0.0,1,T.Bắc,6.5
+37,9/29/2022,Xã Hương Mạc,Thị xã Từ Sơn,Bắc Ninh,51.0,0.0,0.0,0,Unknow,1.29
+45,9/29/2022,Phường 7,Quận 8,TP. Hồ Chí Minh,90.0,0.0,0.0,1,Unknow,1.89
+46,9/29/2022,Phường Hiệp Bình Phước,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,16.0,5.0,1,Unknow,2.4
+47,9/29/2022,Phường Sa Pa,Thị xã Sa Pa,Lào Cai,320.0,0.0,0.0,1,Unknow,16.0
+49,9/29/2022,Phường Tân Thành,Quận Dương Kinh,TP. Hải Phòng,139.0,14.0,10.0,1,Unknow,3.53
+51,9/29/2022,Xã Tả Phìn,Thị xã Sa Pa,Lào Cai,320.0,0.0,20.0,1,Unknow,1.5
+52,9/29/2022,Xã Hương Mạc,Thị xã Từ Sơn,Bắc Ninh,115.0,0.0,0.0,1,Unknow,2.19
+53,9/29/2022,Phường Vĩnh Phú,TP. Thuận An,Bình Dương,85.0,17.0,5.0,1,Unknow,1.65
+54,9/29/2022,Xã Hương Mạc,Thị xã Từ Sơn,Bắc Ninh,115.0,0.0,0.0,0,Unknow,2.19
+55,9/29/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+56,9/29/2022,Xã Khánh Hiệp,Huyện Khánh Vĩnh,Khánh Hòa,1066.0,0.0,0.0,0,Unknow,0.385
+57,9/29/2022,Xã Khánh Hiệp,Huyện Khánh Vĩnh,Khánh Hòa,1066.0,0.0,0.0,0,Unknow,0.42
+58,9/29/2022,Xã Vạn Long,Huyện Vạn Ninh,Khánh Hòa,103.0,6.0,0.0,0,Unknow,1.62
+59,9/29/2022,Thị trấn Bến Lức,Huyện Bến Lức,Long An,1409.0,10.0,100.0,1,Đông,1.45
+60,9/29/2022,Phường Phước Long B,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,1.9
+61,9/29/2022,Xã Phước Hòa,Huyện Tuy Phước,Bình Định,80.0,16.0,5.0,1,Unknow,2.0
+62,9/29/2022,Phường Phú Mỹ,Quận 7,TP. Hồ Chí Minh,90.0,0.0,0.0,1,Unknow,2.99
+63,9/29/2022,Xã Đồi 61,Huyện Trảng Bom,Đồng Nai,1115.0,0.0,0.0,0,Unknow,11.0
+64,9/29/2022,Xã Long Phước,TP. Bà Rịa,Bà Rịa - Vũng Tàu,398.0,10.0,39.0,1,Unknow,2.79
+65,9/29/2022,Xã Gia Bình,Huyện Trảng Bàng,Tây Ninh,100.0,5.8,18.0,1,Unknow,0.73
+66,9/29/2022,Xã Xuân Thọ,TP. Đà Lạt,Lâm Đồng,233.0,0.0,0.0,1,Đ.Nam,6.1
+69,9/29/2022,phường 6,quận Gò Vấp,TP.Hồ Chí Minh,120.0,20.0,6.0,0,Unknow,11.5
+70,9/29/2022,Phường Hòa Hiệp Bắc,Quận Liên Chiểu,TP. Đà Nẵng,640.0,0.0,0.0,1,Unknow,70.0
+71,9/28/2022,thị trấn Đông Anh,huyện Đông Anh,TP.Hà Nội,85.0,18.0,4.75,0,Unknow,3.93
+72,9/28/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,85.0,17.0,5.0,1,Unknow,1.24
+73,9/28/2022,Thị trấn M'Đrắk,Huyện M'Đrắk,Đắk Lắk,41000.0,350.0,120.0,0,Unknow,75.0
+74,9/28/2022,Xã An Hòa,Huyện Trảng Bàng,Tây Ninh,126.0,0.0,0.0,0,Unknow,0.92
+77,9/28/2022,Phường Thạnh Mỹ Lợi,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,1.89
+79,9/28/2022,Xã Hương Mạc,Thị xã Từ Sơn,Bắc Ninh,56.0,0.0,0.0,0,Unknow,1.15
+81,9/28/2022,Xã Gia Bình,Huyện Trảng Bàng,Tây Ninh,400.0,0.0,0.0,0,Unknow,0.999
+82,9/28/2022,Phường Long Trường,TP. Thủ Đức,TP. Hồ Chí Minh,100.0,0.0,0.0,1,Unknow,1.69
+83,9/28/2022,Xã Phước Kiển,Huyện Nhà Bè,TP. Hồ Chí Minh,90.0,0.0,0.0,1,Unknow,1.99
+84,9/28/2022,Phường Thạnh Mỹ Lợi,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,1.85
+85,9/28/2022,Phường Thạnh Mỹ Lợi,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,1.85
+86,9/28/2022,Xã An Thạnh,Huyện Bến Cầu,Tây Ninh,300.0,0.0,0.0,0,Unknow,0.777
+87,9/28/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Đ.Bắc,0.9
+88,9/28/2022,Phường Tân Thành,Quận Dương Kinh,TP. Hải Phòng,48.0,12.0,4.0,1,Unknow,1.28
+89,9/28/2022,Xã Lộc An,Huyện Bảo Lâm,Lâm Đồng,921.0,92.0,10.0,1,Unknow,1.32
+91,9/28/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,100.0,20.0,5.0,1,Unknow,1.36
+92,9/28/2022,Phường 17,Quận Bình Thạnh,TP. Hồ Chí Minh,50.0,10.0,5.0,1,Unknow,4.75
+93,9/28/2022,xã Việt Hùng,huyện Đông Anh,TP.Hà Nội,53.0,13.0,4.4,0,Unknow,4.4
+95,9/28/2022,Xã Điện Hồng,Thị xã Điện Bàn,Quảng Nam,175.0,25.0,20.0,1,Đ.Nam,0.62
+98,9/28/2022,Phường 5,TP. Đà Lạt,Lâm Đồng,341.0,0.0,12.0,1,T.Nam,9.6
+99,9/28/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,100.0,20.0,5.0,1,Unknow,1.69
+100,9/28/2022,Xã Long Phước,TP. Bà Rịa,Bà Rịa - Vũng Tàu,429.0,10.0,42.0,1,Unknow,2.92
+104,9/28/2022,Phường Thống Nhất,TP. Biên Hòa,Đồng Nai,144.0,0.0,8.0,0,Nam,10.5
+105,9/28/2022,Xã Lộc Châu,TP. Bảo Lộc,Lâm Đồng,1020.0,100.0,10.0,1,Unknow,6.0
+106,9/28/2022,Xã Lộc Ngãi,Huyện Bảo Lâm,Lâm Đồng,1082.0,108.0,10.0,1,Unknow,6.49
+107,9/28/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1000.0,0.0,0.0,0,Unknow,3.2
+108,9/28/2022,Xã Bàu Cạn,Huyện Long Thành,Đồng Nai,1087.0,0.0,0.0,1,Unknow,2.5
+109,9/28/2022,Phường Bình Trưng Tây,TP. Thủ Đức,TP. Hồ Chí Minh,90.0,0.0,0.0,0,Unknow,2.09
+110,9/28/2022,Phường Bình Thọ,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,0.0,0.0,0,Unknow,1.65
+111,9/28/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1000.0,0.0,0.0,0,Unknow,3.6
+112,9/28/2022,Phường Minh Hưng,Thị xã Chơn Thành,Bình Phước,520.0,35.0,15.0,0,Unknow,0.5
+113,9/28/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1180.0,0.0,0.0,0,Unknow,3.1
+114,9/28/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,300.0,10.0,30.0,1,Đông,1.5
+115,9/28/2022,Xã Điện Thọ,Thị xã Điện Bàn,Quảng Nam,416.0,42.0,10.0,1,Đ.Nam,0.87
+116,9/28/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,100.0,20.0,5.0,1,Unknow,1.45
+117,9/28/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+118,9/28/2022,Xã Thanh Phước,Huyện Gò Dầu,Tây Ninh,210.0,22.0,10.0,1,Unknow,1.33
+119,9/28/2022,Xã Lai Hưng,Huyện Bàu Bàng,Bình Dương,75.0,15.0,5.0,1,Unknow,2.09
+120,9/28/2022,Phường Thạnh Xuân,Quận 12,TP. Hồ Chí Minh,50.4,12.4,4.0,1,Unknow,2.25
+121,9/28/2022,Phường Tân Thiện,TP. Đồng Xoài,Bình Phước,600.0,23.0,5.0,1,Đông,0.55
+122,9/28/2022,Xã Hương Mạc,Thị xã Từ Sơn,Bắc Ninh,56.0,0.0,0.0,0,Unknow,1.15
+123,9/28/2022,Phường Cát Lái,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,1.84
+124,9/28/2022,Phường 12,TP. Đà Lạt,Lâm Đồng,200.0,0.0,0.0,1,Đ.Nam,7.2
+125,9/28/2022,Phường 10,TP. Đà Lạt,Lâm Đồng,360.0,0.0,0.0,1,Đ.Bắc,10.8
+126,9/28/2022,Xã Lệ Chi,Huyện Gia Lâm,TP. Hà Nội,40.0,0.0,0.0,0,Unknow,1.38
+127,9/28/2022,Xã Ninh Tân,Thị xã Ninh Hòa,Khánh Hòa,264.0,26.0,10.0,0,Đ.Nam,1.9
+128,9/28/2022,Xã Lộc Đức,Huyện Bảo Lâm,Lâm Đồng,496.0,49.0,10.0,1,Unknow,1.4
+129,9/28/2022,Xã Lộc An,Huyện Bảo Lâm,Lâm Đồng,297.0,29.0,10.0,1,Unknow,1.49
+130,9/28/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,100.0,20.0,5.0,1,Unknow,1.76
+131,9/28/2022,Xã Đức Hòa Thượng,Huyện Đức Hòa,Long An,100.0,0.0,0.0,1,Unknow,1.9
+132,9/28/2022,Xã Đức Hòa Thượng,Huyện Đức Hòa,Long An,100.0,0.0,0.0,1,Unknow,1.8
+133,9/28/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,0.0,0.0,0,Unknow,0.9
+134,9/28/2022,Xã Cư ÊBur,TP. Buôn Ma Thuột,Đắk Lắk,102.0,5.0,20.0,1,Bắc,0.9
+135,9/28/2022,Xã Cư ÊBur,TP. Buôn Ma Thuột,Đắk Lắk,105.0,5.0,21.0,0,Bắc,0.9
+136,9/28/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1000.0,0.0,0.0,0,Unknow,3.2
+137,9/28/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1039.0,0.0,0.0,0,Unknow,2.79
+138,9/28/2022,Phường 3,TP. Đà Lạt,Lâm Đồng,2500.0,0.0,0.0,1,Đ.Nam,55.0
+139,9/28/2022,Phường 11,TP. Đà Lạt,Lâm Đồng,412.0,0.0,0.0,1,Đ.Nam,9.0
+140,9/28/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,85.0,20.0,5.0,1,Unknow,1.43
+141,9/28/2022,Phường Hiệp Bình Chánh,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,0.0,0.0,0,Unknow,1.5
+142,9/28/2022,Phường Điện An,Thị xã Điện Bàn,Quảng Nam,304.0,0.0,0.0,1,Unknow,1.25
+143,9/28/2022,Phường Hòa Xuân,Quận Cẩm Lệ,TP. Đà Nẵng,120.0,0.0,0.0,1,Unknow,3.6
+144,9/28/2022,Phường 15,Quận 8,TP. Hồ Chí Minh,80.0,16.0,5.0,1,Unknow,1.8
+145,9/28/2022,Phường Tân Phú,TP. Đồng Xoài,Bình Phước,600.0,5.0,23.0,1,Đông,0.55
+146,9/28/2022,Phường Hòa Xuân,Quận Cẩm Lệ,TP. Đà Nẵng,100.0,0.0,0.0,1,Unknow,3.7
+147,9/28/2022,Xã Điện Hồng,Thị xã Điện Bàn,Quảng Nam,93.0,0.0,0.0,1,Unknow,0.58
+148,9/28/2022,Phường Phú Hữu,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,18.0,5.0,1,Unknow,2.65
+149,9/28/2022,Phường Tam Bình,TP. Thủ Đức,TP. Hồ Chí Minh,90.0,18.0,5.0,1,Unknow,2.45
+150,9/27/2022,Xã Hương Mạc,Thị xã Từ Sơn,Bắc Ninh,56.0,0.0,0.0,0,Unknow,1.15
+151,9/27/2022,Phường 11,TP. Đà Lạt,Lâm Đồng,105.0,0.0,0.0,1,T.Nam,1.8
+152,9/27/2022,Xã Điện Hồng,Thị xã Điện Bàn,Quảng Nam,197.0,20.0,10.0,1,Đ.Nam,0.75
+153,9/27/2022,Phường Hóa An,TP. Biên Hòa,Đồng Nai,95.0,0.0,0.0,0,Unknow,2.75
+154,9/27/2022,Thị trấn Tân Túc,Huyện Bình Chánh,TP. Hồ Chí Minh,90.0,0.0,0.0,1,Unknow,1.89
+155,9/27/2022,Xã Nhị Thành,Huyện Thủ Thừa,Long An,1344.0,0.0,0.0,1,Bắc,3.0
+156,9/27/2022,Xã Bàu Cạn,Huyện Long Thành,Đồng Nai,1110.0,77.0,14.0,1,Unknow,2.8
+157,9/27/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,100.0,20.0,5.0,1,Unknow,1.47
+158,9/27/2022,Phường Hóa An,TP. Biên Hòa,Đồng Nai,136.0,18.0,7.0,1,Bắc,3.85
+159,9/27/2022,Xã Tân Thành,Huyện Thủ Thừa,Long An,170.0,0.0,0.0,0,Unknow,0.85
+160,9/27/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,100.0,20.0,5.0,1,Unknow,1.24
+161,9/27/2022,Phường Tân Phú,TP. Đồng Xoài,Bình Phước,600.0,23.0,5.0,1,Đông,0.55
+162,9/27/2022,Phường Minh Thành,Thị xã Chơn Thành,Bình Phước,234.0,42.99,5.0,0,Đ.Nam,0.79
+163,9/27/2022,Phường 14,Quận Gò Vấp,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,1.89
+164,9/27/2022,Phường Thạnh Xuân,Quận 12,TP. Hồ Chí Minh,53.0,14.0,4.0,1,Unknow,3.0
+165,9/27/2022,Xã Nhuận Đức,Huyện Củ Chi,TP. Hồ Chí Minh,90.0,0.0,0.0,1,Unknow,1.57
+166,9/27/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+167,9/27/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.9
+168,9/27/2022,Phường Phú Lợi,TP. Thủ Dầu Một,Bình Dương,80.0,0.0,0.0,1,Unknow,1.59
+169,9/27/2022,Phường Trung Hoà,Quận Cầu Giấy,TP. Hà Nội,50.0,0.0,0.0,0,Unknow,6.9
+170,9/27/2022,Phường Bình Chiểu,TP. Thủ Đức,TP. HCM,1101.0,0.0,0.0,1,Unknow,0.47
+171,9/27/2022,Phường Tân Thành,Quận Dương Kinh,TP. Hải Phòng,135.0,27.0,5.0,1,Unknow,2.7
+172,9/27/2022,Phường An Bình,Quận Ninh Kiều,TP. Cần Thơ,63.0,0.0,0.0,0,Unknow,2.9
+173,9/27/2022,Thị trấn Hậu Nghĩa,Huyện Đức Hòa,Long An,90.0,18.0,5.0,1,Unknow,0.8
+174,9/27/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,85.0,17.0,5.0,1,Unknow,1.45
+175,9/27/2022,Xã Tân Hiệp,Huyện Long Thành,Đồng Nai,1050.0,0.0,0.0,1,Unknow,3.9
+176,9/27/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1000.0,0.0,0.0,0,Unknow,3.6
+177,9/27/2022,Phường Tân Thới Hòa,Quận Tân Phú,TP. Hồ Chí Minh,83.0,5.0,17.0,1,Unknow,3.5
+178,9/27/2022,Phường An Phú,TP. Thủ Đức,TP. Hồ Chí Minh,100.0,20.0,5.0,1,Unknow,1.8
+179,9/27/2022,Phường Hiệp Thành,TP. Thủ Dầu Một,Bình Dương,100.0,0.0,0.0,1,Unknow,1.85
+180,9/27/2022,Phường Minh Hưng,Thị xã Chơn Thành,Bình Phước,300.0,60.0,5.0,1,Unknow,0.45
+181,9/27/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+182,9/27/2022,Phường Hiệp Hòa,TP. Biên Hòa,Đồng Nai,84.0,0.0,5.0,0,Unknow,3.9
+183,9/27/2022,Xã Phan,Huyện Dương Minh Châu,Tây Ninh,180.0,37.0,5.0,1,Unknow,0.35
+184,9/27/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1040.0,0.0,0.0,0,Unknow,2.8
+185,9/27/2022,Xã Xuân Đông,Huyện Cẩm Mỹ,Đồng Nai,1194.0,0.0,0.0,0,Unknow,1.67
+186,9/27/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1039.0,0.0,0.0,0,Unknow,2.8
+187,9/27/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1000.0,17.0,58.0,0,Unknow,3.2
+188,9/27/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,100.0,20.0,5.0,1,Unknow,1.65
+189,9/27/2022,Xã Diên Lâm,Huyện Diên Khánh,Khánh Hòa,463.0,46.0,10.0,0,T.Bắc,2.65
+190,9/27/2022,Xã Diên Đồng,Huyện Diên Khánh,Khánh Hòa,2602.0,95.0,28.0,0,Bắc,3.15
+191,9/27/2022,Phường Ninh Thủy,Thị xã Ninh Hòa,Khánh Hòa,308.0,40.0,8.0,0,Đông,9.55
+192,9/27/2022,Xã Ninh Bình,Thị xã Ninh Hòa,Khánh Hòa,367.0,21.0,17.0,0,Bắc,2.5
+193,9/27/2022,Xã Vĩnh Phương,Tp. Nha Trang,Khánh Hòa,107.0,18.0,6.0,0,Đ.Nam,1.11
+194,9/27/2022,Xã Diên Đồng,Huyện Diên Khánh,Khánh Hòa,1350.0,59.98,23.0,0,T.Nam,4.73
+195,9/27/2022,Xã Diên Lạc,Huyện Diên Khánh,Khánh Hòa,200.0,26.0,9.0,0,Nam,1.9
+196,9/27/2022,Phường Hợp Đức,Quận Đồ Sơn,TP. Hải Phòng,200.0,20.0,9.99,1,Unknow,5.2
+197,9/27/2022,Phường Tân Thới Hiệp,Quận 12,TP. Hồ Chí Minh,90.0,18.0,5.0,1,Unknow,2.2
+198,9/27/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,1,Đông,1.75
+199,9/27/2022,Thị trấn Chơn Thành,Huyện Chơn Thành,Bình Phước,231.0,46.0,5.0,1,Unknow,0.7
+200,9/27/2022,Phường Mỹ Phước,Thị xã Bến Cát,Bình Dương,801.0,54.0,15.0,1,Unknow,0.89
+201,9/27/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+202,9/27/2022,Thị trấn Trâu Quỳ,Huyện Gia Lâm,TP. Hà Nội,87.0,0.0,0.0,0,Unknow,3.95
+203,9/27/2022,Phường Lộc Phát,TP. Bảo Lộc,Lâm Đồng,297.9,29.0,10.0,1,Unknow,0.699
+204,9/27/2022,Phường Điện An,Thị xã Điện Bàn,Quảng Nam,200.0,0.0,0.0,1,Unknow,1.45
+205,9/27/2022,Xã Điện Phương,Thị xã Điện Bàn,Quảng Nam,71.0,0.0,0.0,1,Unknow,0.57
+206,9/27/2022,Xã Bàu Cạn,Huyện Long Thành,Đồng Nai,1109.0,0.0,0.0,0,Unknow,2.5
+207,9/27/2022,Xã Cư Suê,Huyện Cư M'gar,Đắk Lắk,300.0,10.0,30.0,1,Đ.Bắc,1.15
+208,9/27/2022,Phường Hoà Nghĩa,Quận Dương Kinh,TP. Hải Phòng,366.0,32.0,11.99,1,Unknow,5.49
+209,9/27/2022,Xã Tân Hưng,Huyện Hớn Quản,Bình Phước,1000.0,100.0,5.0,1,Unknow,0.56
+210,9/27/2022,Phường Bình Thọ,TP. Thủ Đức,TP. Hồ Chí Minh,60.0,20.0,5.0,1,Unknow,1.4
+211,9/27/2022,Phường Hòa Minh,Quận Liên Chiểu,TP. Đà Nẵng,108.0,0.0,0.0,0,Unknow,4.0
+212,9/27/2022,Xã Tân Hưng,Huyện Hớn Quản,Bình Phước,4000.0,100.0,5.0,1,Unknow,0.75
+213,9/27/2022,Phường Hiệp Bình Chánh,TP. Thủ Đức,TP. Hồ Chí Minh,100.0,20.0,5.0,1,Unknow,2.55
+214,9/27/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+215,9/27/2022,Phường 7,TP. Đà Lạt,Lâm Đồng,240.0,0.0,0.0,1,T.Bắc,6.0
+216,9/27/2022,Thị trấn Tân Túc,Huyện Bình Chánh,TP. Hồ Chí Minh,100.0,20.0,5.0,1,Unknow,1.07
+217,9/27/2022,Phường 10,TP. Đà Lạt,Lâm Đồng,520.0,0.0,0.0,1,Tây,2.5
+218,9/27/2022,Xã Tân Hưng,Huyện Hớn Quản,Bình Phước,500.0,100.0,5.0,1,Unknow,0.94
+219,9/27/2022,Xã Minh Hưng,Huyện Chơn Thành,Bình Phước,2200.0,80.0,5.0,1,Unknow,2.2
+220,9/26/2022,Xã Minh Hưng,Huyện Chơn Thành,Bình Phước,250.0,50.0,5.0,1,Unknow,0.65
+221,9/26/2022,Xã Bình Lợi,Huyện Vĩnh Cửu,Đồng Nai,2500.0,39.0,80.0,0,Unknow,18.75
+222,9/26/2022,Phường Ngọc Xuyên,Quận Đồ Sơn,TP. Hải Phòng,100.0,20.0,5.0,0,Unknow,2.4
+223,9/26/2022,Phường 7,TP. Đà Lạt,Lâm Đồng,288.0,0.0,0.0,1,Nam,6.6
+224,9/26/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+225,9/26/2022,Phường 12,TP. Đà Lạt,Lâm Đồng,75.0,0.0,0.0,1,T.Bắc,2.6
+226,9/26/2022,Phường 8,TP. Đà Lạt,Lâm Đồng,149.0,0.0,0.0,1,Đông,13.0
+227,9/26/2022,Phường Thống Nhất,TP. Biên Hòa,Đồng Nai,84.0,0.0,4.2,0,Unknow,6.7
+228,9/26/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,0.99
+229,9/26/2022,Phường Ngọc Hải,Quận Đồ Sơn,TP. Hải Phòng,100.0,20.0,5.0,1,Unknow,2.45
+230,9/26/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+231,9/26/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+232,9/26/2022,Xã Gia Bình,Huyện Trảng Bàng,Tây Ninh,100.0,18.0,5.8,1,Unknow,0.73
+233,9/26/2022,Phường Tân Hiệp,TP. Biên Hòa,Đồng Nai,90.0,0.0,4.5,1,Đ.Nam,5.0
+234,9/26/2022,Xã Hữu Hoà,Huyện Thanh Trì,TP. Hà Nội,37.0,3.68,10.0,1,Đ.Bắc,3.0
+235,9/26/2022,Phường Hợp Đức,Quận Đồ Sơn,TP. Hải Phòng,79.0,0.0,5.0,0,Unknow,3.1
+236,9/26/2022,Phường Tân Thành,Quận Dương Kinh,TP. Hải Phòng,110.0,22.0,5.0,1,Unknow,2.15
+237,9/26/2022,Xã Sơn Mỹ,Huyện Hàm Tân,Bình Thuận,1900.0,50.0,38.0,1,Đông,8.36
+238,9/26/2022,Xã Phù Khê,Thị xã Từ Sơn,Bắc Ninh,55.5,0.0,0.0,0,Unknow,0.97
+239,9/26/2022,Phường Định Hoà,TP. Thủ Dầu Một,Bình Dương,3500.0,80.0,45.0,1,Unknow,0.28
+240,9/26/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,100.0,20.0,5.0,1,Unknow,1.24
+241,9/26/2022,Phường Phước Long B,TP. Thủ Đức,TP. Hồ Chí Minh,90.0,0.0,0.0,1,Unknow,1.59
+242,9/26/2022,Xã Phước Thạnh,Huyện Gò Dầu,Tây Ninh,1085.0,30.0,37.0,1,Đông,0.95
+243,9/26/2022,Xã Đức Hòa Đông,Huyện Đức Hòa,Long An,250.0,10.0,25.0,1,Unknow,5.0
+244,9/26/2022,Xã Ninh Xuân,Thị xã Ninh Hòa,Khánh Hòa,7624.0,117.0,65.0,0,Đ.Bắc,12.0
+245,9/26/2022,Phường Minh Thành,Thị xã Chơn Thành,Bình Phước,1000.0,100.0,10.0,1,Unknow,0.45
+246,9/26/2022,Phường Minh Hưng,Thị xã Chơn Thành,Bình Phước,2000.0,100.0,20.0,1,Unknow,2.2
+247,9/26/2022,Phường Hải Thành,Quận Dương Kinh,TP. Hải Phòng,81.0,17.0,4.5,1,Unknow,2.32
+248,9/26/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+249,9/26/2022,Phường Linh Xuân,TP. Thủ Đức,TP. Hồ Chí Minh,100.0,20.0,5.0,1,Unknow,2.1
+250,9/26/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+251,9/26/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+252,9/26/2022,Phường 7,TP. Đà Lạt,Lâm Đồng,75.0,0.0,0.0,1,T.Bắc,1.2
+253,9/26/2022,Phường Bình Chiểu,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,1.95
+254,9/26/2022,Phường Hòa Khánh Nam,Quận Liên Chiểu,TP. Đà Nẵng,127.0,18.6,6.9,1,Unknow,1.95
+255,9/26/2022,Xã Phước Hoà,Huyện Phú Giáo,Bình Dương,80.0,0.0,0.0,1,Unknow,1.99
+256,9/26/2022,Xã Phong Phú,Huyện Bình Chánh,TP. Hồ Chí Minh,90.0,0.0,0.0,1,Unknow,2.49
+257,9/26/2022,Phường Ninh Thủy,Thị xã Ninh Hòa,Khánh Hòa,134.0,11.0,12.0,0,Đ.Nam,2.45
+258,9/26/2022,Xã Diên An,Huyện Diên Khánh,Khánh Hòa,200.0,30.0,7.0,0,T.Nam,2.65
+259,9/26/2022,Phường Phú Hữu,TP. Thủ Đức,TP. Hồ Chí Minh,85.0,17.0,5.0,1,Unknow,2.65
+260,9/26/2022,Xã Phú Trung,Huyện Phú Riềng,Bình Phước,250.0,50.0,5.0,0,Unknow,0.3
+261,9/26/2022,Phường Thống Nhất,TP. Biên Hòa,Đồng Nai,80.0,0.0,4.0,0,Unknow,6.4
+262,9/26/2022,Phường Ngọc Hải,Quận Đồ Sơn,TP. Hải Phòng,120.0,0.0,6.0,0,Unknow,1.68
+263,9/26/2022,Xã Thuận Lợi,Huyện Đồng Phú,Bình Phước,250.0,50.0,5.0,1,Unknow,0.69
+264,9/26/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+265,9/26/2022,Phường 4,TP. Tân An,Long An,64.0,16.0,4.0,1,Unknow,1.55
+266,9/26/2022,Xã Phù Linh,Huyện Sóc Sơn,TP. Hà Nội,115.0,0.0,0.0,1,Unknow,1.84
+267,9/26/2022,Xã Phước Kiển,Huyện Nhà Bè,TP. Hồ Chí Minh,250.0,25.0,10.0,0,Unknow,1.65
+268,9/26/2022,Phường Bình Trưng Tây,TP. Thủ Đức,TP. Hồ Chí Minh,120.0,6.0,20.0,0,Unknow,1.9
+269,9/26/2022,Phường Rạch Sỏi,TP. Rạch Giá,Kiên Giang,324.0,0.0,0.0,0,Unknow,2.7
+270,9/26/2022,Xã Bàu Cạn,Huyện Long Thành,Đồng Nai,100.0,20.0,5.0,1,Unknow,1.7
+271,9/26/2022,Phường Phước Long A,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,16.0,5.0,1,Unknow,2.85
+272,9/26/2022,Phường IV,TP. Vị Thanh,Hậu Giang,100.0,12.0,5.0,1,Unknow,1.4
+273,9/26/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+274,9/26/2022,Xã An Điền,Thị xã Bến Cát,Bình Dương,80.0,0.0,0.0,0,Unknow,1.25
+275,9/26/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+276,9/26/2022,Xã An Điền,Thị xã Bến Cát,Bình Dương,175.0,0.0,0.0,0,Unknow,1.9
+277,9/26/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+278,9/26/2022,Xã Ninh Quang,Thị xã Ninh Hòa,Khánh Hòa,607.0,40.0,14.99,0,Nam,2.35
+279,9/26/2022,Xã Phong Phú,Huyện Bình Chánh,TP. Hồ Chí Minh,100.0,0.0,0.0,0,Unknow,1.8
+280,9/26/2022,Phường Phước Long B,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,16.0,5.0,1,Unknow,2.35
+281,9/26/2022,Phường Phước Long B,TP. Thủ Đức,TP. Hồ Chí Minh,100.0,20.0,5.0,1,Unknow,2.15
+282,9/26/2022,Phường 5,TP. Đà Lạt,Lâm Đồng,2225.0,60.0,40.0,1,T.Bắc,20.0
+283,9/26/2022,Xã Điện Thọ,Thị xã Điện Bàn,Quảng Nam,416.0,41.0,12.0,1,Đ.Nam,0.87
+284,9/26/2022,Xã Ea Bông,Huyện Krông A Na,Đắk Lắk,1000.0,20.0,50.0,0,Đ.Nam,0.9
+285,9/26/2022,Phường An Phú,TP. Thuận An,Bình Dương,153.0,6.5,25.12,1,Đông,4.75
+286,9/26/2022,Xã Ea Tu,TP. Buôn Ma Thuột,Đắk Lắk,215.0,5.0,43.0,0,Nam,1.2
+287,9/26/2022,Xã Đồng Tâm,Huyện Đồng Phú,Bình Phước,1000.0,40.0,25.0,1,Unknow,0.48
+288,9/26/2022,Xã Vĩnh Tân,Thị xã Tân Uyên,Bình Dương,150.0,0.0,0.0,1,Unknow,2.32
+289,9/26/2022,Xã Vĩnh Tân,Thị xã Tân Uyên,Bình Dương,150.0,0.0,0.0,1,Unknow,2.32
+290,9/26/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+291,9/26/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+292,9/26/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+293,9/26/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+294,9/26/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+295,9/25/2022,Phường Ngọc Xuyên,Quận Đồ Sơn,TP. Hải Phòng,175.0,0.0,5.0,0,Unknow,5.68
+296,9/25/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+297,9/25/2022,Thị trấn Tân Túc,Huyện Bình Chánh,TP. Hồ Chí Minh,100.0,0.0,0.0,1,Unknow,0.86
+298,9/25/2022,Xã Kông Lơng Khơng,Huyện KBang,Gia Lai,300.0,0.0,0.0,0,Unknow,0.37
+299,9/25/2022,Phường Bửu Hòa,TP. Biên Hòa,Đồng Nai,103.0,0.0,5.0,0,Đ.Bắc,2.15
+300,9/25/2022,Phường 4,TP. Tân An,Long An,64.0,15.0,4.5,1,Unknow,1.55
+301,9/25/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,264.0,22.0,12.0,1,Unknow,1.8
+302,9/25/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,5.99,1,Unknow,0.792
+303,9/25/2022,Xã Ea Bông,Huyện Krông A Na,Đắk Lắk,1000.0,20.0,49.97,1,Đ.Nam,0.91
+304,9/25/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.9
+305,9/25/2022,Xã Phạm Văn Hai,Huyện Bình Chánh,TP. Hồ Chí Minh,130.0,5.0,26.0,1,Unknow,2.29
+306,9/25/2022,Phường Ngọc Hải,Quận Đồ Sơn,TP. Hải Phòng,100.0,0.0,0.0,0,Unknow,2.8
+307,9/25/2022,Phường An Hải Bắc,Quận Sơn Trà,TP. Đà Nẵng,90.0,0.0,0.0,0,Unknow,3.7
+308,9/25/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+309,9/25/2022,Xã Bình Hưng,Huyện Bình Chánh,TP. Hồ Chí Minh,100.0,20.0,5.0,1,Unknow,2.2
+310,9/25/2022,Xã Tân Hiệp,Huyện Long Thành,Đồng Nai,1510.0,0.0,0.0,0,Unknow,3.66
+311,9/25/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1040.0,0.0,0.0,0,Unknow,2.8
+312,9/25/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1000.0,0.0,0.0,0,Unknow,3.2
+313,9/25/2022,Xã Bàu Đồn,Huyện Gò Dầu,Tây Ninh,3400.0,5.0,40.0,1,Đông,0.71
+314,9/25/2022,Xã Ninh Xuân,Thị xã Ninh Hòa,Khánh Hòa,3096.0,0.0,42.0,1,Đ.Nam,1.6
+315,9/25/2022,Xã Bàu Cạn,Huyện Long Thành,Đồng Nai,1058.0,0.0,0.0,0,Unknow,3.1
+316,9/25/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,300.0,30.0,10.0,1,Đông,1.5
+317,9/25/2022,Xã An Thới Đông,Huyện Cần Giờ,TP. Hồ Chí Minh,96.0,16.0,6.0,1,Unknow,2.3
+318,9/25/2022,Phường Phước Long A,TP. Thủ Đức,TP. Hồ Chí Minh,100.0,25.0,4.0,1,Unknow,1.95
+319,9/25/2022,Phường Tân Thiện,TP. Đồng Xoài,Bình Phước,125.0,0.0,0.0,1,Unknow,1.45
+320,9/25/2022,Phường Bửu Long,TP. Biên Hòa,Đồng Nai,205.0,0.0,10.0,0,Nam,9.2
+321,9/25/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+322,9/25/2022,Xã Phước Thạnh,Huyện Gò Dầu,Tây Ninh,1085.0,30.0,37.0,1,Đông,0.95
+323,9/25/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+324,9/25/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+325,9/25/2022,Phường Tân Phong,TP. Biên Hòa,Đồng Nai,1000.0,0.0,0.0,1,Unknow,18.0
+326,9/25/2022,Xã Thuận Lợi,Huyện Đồng Phú,Bình Phước,250.0,50.0,5.0,1,Unknow,0.69
+327,9/25/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+328,9/25/2022,Phường 7,TP. Đà Lạt,Lâm Đồng,74.0,0.0,0.0,0,Unknow,1.15
+329,9/25/2022,Phường Bửu Long,TP. Biên Hòa,Đồng Nai,1000.0,0.0,20.0,0,Unknow,12.0
+330,9/25/2022,Thị trấn Trâu Quỳ,Huyện Gia Lâm,TP. Hà Nội,60.0,0.0,0.0,0,Unknow,4.3
+331,9/25/2022,Xã Phù Khê,Thị xã Từ Sơn,Bắc Ninh,67.0,0.0,0.0,0,Unknow,0.1295
+332,9/25/2022,Phường Vĩnh Phú,TP. Thuận An,Bình Dương,130.0,0.0,0.0,1,Unknow,1.8
+333,9/25/2022,Xã Ea Tu,TP. Buôn Ma Thuột,Đắk Lắk,110.0,5.0,22.0,1,Nam,1.39
+334,9/25/2022,Phường Tân Thành,Quận Dương Kinh,TP. Hải Phòng,90.0,18.0,5.0,1,Unknow,1.85
+335,9/24/2022,Xã Điện Thọ,Thị xã Điện Bàn,Quảng Nam,324.0,18.0,18.0,1,T.Nam,1.65
+336,9/24/2022,Phường Vạn Hương,Quận Đồ Sơn,TP. Hải Phòng,128.0,0.0,5.1,1,Unknow,1.41
+337,9/24/2022,Phường Hiệp Phú,TP. Thủ Đức,TP. Hồ Chí Minh,100.0,20.0,5.0,1,Unknow,1.75
+338,9/24/2022,Phường 7,Quận 8,TP. Hồ Chí Minh,80.0,16.0,5.0,1,Unknow,1.8
+339,9/24/2022,Phường Vĩnh Phú,TP. Thuận An,Bình Dương,80.0,16.0,5.0,1,Unknow,1.99
+340,9/24/2022,Xã Tân Phước,Huyện Đồng Phú,Bình Phước,247.0,30.0,10.0,1,Nam,0.48
+341,9/24/2022,Xã Ea Păl,Huyện Ea Kar,Đắk Lắk,28500.0,81.0,350.0,0,Unknow,1.9
+342,9/24/2022,Phường Đông Hưng Thuận,Quận 12,TP. Hồ Chí Minh,100.0,20.0,5.0,1,Unknow,2.1
+343,9/24/2022,Xã Ea Tu,TP. Buôn Ma Thuột,Đắk Lắk,215.0,5.0,43.0,1,Nam,1.2
+344,9/24/2022,Phường Bình Chuẩn,TP. Thuận An,Bình Dương,80.0,16.0,5.0,1,Unknow,1.85
+345,9/24/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+346,9/24/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,300.0,30.0,10.0,1,Đông,1.5
+347,9/24/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+348,9/24/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+349,9/24/2022,Phường 6,TP. Tân An,Long An,431.0,0.0,0.0,0,Unknow,2.2
+350,9/24/2022,Xã Bình Thuận,Thị Xã Buôn Hồ,Đắk Lắk,381.0,54.0,7.0,1,Unknow,0.56
+351,9/24/2022,Thị trấn Trâu Quỳ,Huyện Gia Lâm,TP. Hà Nội,54.0,0.0,0.0,0,Unknow,4.1
+352,9/24/2022,Phường Khương Đình,Quận Thanh Xuân,TP. Hà Nội,42.0,0.0,0.0,0,Unknow,5.45
+353,9/24/2022,Xã Xuân Thọ,TP. Đà Lạt,Lâm Đồng,2000.0,0.0,0.0,1,T.Nam,4.5
+354,9/24/2022,Xã Cẩm Hà,TP. Hội An,Quảng Nam,99.0,0.0,0.0,1,Unknow,1.7
+355,9/24/2022,Phường Cẩm Nam,TP. Hội An,Quảng Nam,110.0,0.0,0.0,1,Unknow,1.65
+356,9/24/2022,Phường Hòa Hiệp Nam,Quận Liên Chiểu,TP. Đà Nẵng,113.0,0.0,0.0,1,Unknow,1.7
+357,9/24/2022,Phường Tân Lợi,TP. Buôn Ma Thuột,Đắk Lắk,100.0,20.0,5.0,0,Đông,2.2
+358,9/24/2022,Phường Minh Hưng,Thị xã Chơn Thành,Bình Phước,2000.0,100.0,20.0,1,Unknow,0.6
+359,9/24/2022,Phường Minh Hưng,Thị xã Chơn Thành,Bình Phước,500.0,50.0,10.0,1,Unknow,0.45
+360,9/24/2022,Phường Hoà Nghĩa,Quận Dương Kinh,TP. Hải Phòng,183.0,0.0,10.5,1,Unknow,2.29
+361,9/24/2022,Phường Bửu Long,TP. Biên Hòa,Đồng Nai,79.0,0.0,4.2,0,Unknow,3.5
+362,9/24/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+363,9/24/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+364,9/24/2022,Xã Vạn Long,Huyện Vạn Ninh,Khánh Hòa,1066.0,0.0,0.0,0,Unknow,0.39
+365,9/24/2022,Xã Vạn Long,Huyện Vạn Ninh,Khánh Hòa,103.0,0.0,6.0,0,Đông,1.62
+366,9/24/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,1,Đông,1.75
+367,9/24/2022,Phường Tân Phú,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,16.0,5.0,1,Unknow,2.5
+368,9/24/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+369,9/24/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Đ.Nam,1.6
+370,9/24/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,95.0,21.0,4.5,1,Unknow,1.6
+371,9/24/2022,Phường Minh Đức,Quận Đồ Sơn,TP. Hải Phòng,150.0,25.0,6.0,1,Unknow,2.93
+372,9/24/2022,Phường Tân Thành,Quận Tân Phú,TP. Hồ Chí Minh,80.0,20.0,4.0,1,Unknow,2.75
+373,9/24/2022,Xã Tân Hòa,Huyện Đồng Phú,Bình Phước,500.0,50.0,10.0,1,Đông,0.6
+374,9/24/2022,Xã Tân Hòa,Huyện Đồng Phú,Bình Phước,500.0,50.0,10.0,1,Đông,1.4
+375,9/24/2022,Xã Tân Hòa,Huyện Đồng Phú,Bình Phước,500.0,50.0,10.0,1,Đông,2.8
+376,9/24/2022,Xã Tân Hưng,Huyện Đồng Phú,Bình Phước,1000.0,50.0,22.0,1,Đông,0.7
+377,9/24/2022,Xã Đồng Tâm,Huyện Đồng Phú,Bình Phước,5162.0,120.0,41.0,1,Nam,1.4
+378,9/24/2022,Thị trấn Tân Phú,Huyện Đồng Phú,Bình Phước,120.0,20.0,6.0,1,Đông,0.7
+379,9/24/2022,Xã Tân Hưng,Huyện Đồng Phú,Bình Phước,1000.0,100.0,9.99,0,Nam,0.7
+380,9/24/2022,Thị trấn Tân Phú,Huyện Đồng Phú,Bình Phước,250.0,50.0,4.99,0,Bắc,0.8
+381,9/24/2022,Xã Đức Lập Thượng,Huyện Đức Hòa,Long An,140.0,20.0,7.0,1,Unknow,1.85
+382,9/24/2022,Xã Phú Trung,Huyện Phú Riềng,Bình Phước,400.0,0.0,0.0,0,Unknow,0.56
+383,9/24/2022,Xã Vĩnh Thạnh,Tp. Nha Trang,Khánh Hòa,111.0,6.0,20.0,0,Nam,1.55
+384,9/24/2022,Xã Vĩnh Trung,TP. Nha Trang,Khánh Hòa,103.0,18.0,6.0,0,Đ.Bắc,1.11
+385,9/24/2022,Xã Đất Cuốc,Huyện Bắc Tân Uyên,Bình Dương,1100.0,110.0,10.0,1,Unknow,0.75
+386,9/24/2022,Thị trấn Khánh Hải,Huyện Ninh Hải,Ninh Thuận,1047.53,28.0,4.99,1,Unknow,2.3
+387,9/24/2022,Thị trấn Trâu Quỳ,Huyện Gia Lâm,TP. Hà Nội,110.0,0.0,0.0,0,Unknow,12.0
+388,9/24/2022,Thị trấn Sao Vàng,Huyện Thọ Xuân,Thanh Hóa,353.0,0.0,0.0,0,Unknow,1.74
+389,9/24/2022,Phường Bình Chuẩn,TP. Thuận An,Bình Dương,80.0,16.0,5.0,1,Unknow,2.45
+390,9/24/2022,Phường Tân Phong,TP. Biên Hòa,Đồng Nai,99.0,0.0,5.8,0,Unknow,2.4
+391,9/24/2022,Thị trấn Trâu Quỳ,Huyện Gia Lâm,TP. Hà Nội,69.0,0.0,0.0,0,Unknow,3.66
+392,9/24/2022,Phường Hòa An,Quận Cẩm Lệ,TP. Đà Nẵng,100.0,0.0,0.0,0,Unknow,2.3
+393,9/23/2022,Phường Đông Hòa,TP. Dĩ An,Bình Dương,80.0,16.0,5.0,1,Unknow,1.5
+394,9/23/2022,Phường Hợp Đức,Quận Đồ Sơn,TP. Hải Phòng,68.0,0.0,4.1,1,Unknow,0.92
+395,9/23/2022,Xã Suối Tiên,Huyện Diên Khánh,Khánh Hòa,310.0,31.0,11.0,0,T.Nam,1.2
+396,9/23/2022,Phường Thống Nhất,TP. Biên Hòa,Đồng Nai,72.0,0.0,3.99,0,Unknow,7.6
+397,9/23/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+398,9/23/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+399,9/23/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+400,9/23/2022,Xã Thuận Lợi,Huyện Đồng Phú,Bình Phước,250.0,50.0,5.0,0,Unknow,0.69
+401,9/23/2022,Phường An Phú,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,16.0,5.0,0,Unknow,1.88
+402,9/23/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Unknow,1.9
+403,9/23/2022,Phường 8,TP. Đà Lạt,Lâm Đồng,201.0,0.0,0.0,1,T.Nam,8.7
+404,9/23/2022,Phường Hóa An,TP. Biên Hòa,Đồng Nai,127.0,0.0,4.4,0,Unknow,4.0
+405,9/23/2022,Phường Tân Phong,TP. Biên Hòa,Đồng Nai,268.0,0.0,12.3,0,Unknow,14.7
+406,9/23/2022,Phường Tân Lập,TP. Buôn Ma Thuột,Đắk Lắk,125.0,5.0,25.0,1,T.Bắc,2.75
+407,9/23/2022,Phường Hoà Nghĩa,Quận Dương Kinh,TP. Hải Phòng,100.0,20.0,5.0,1,Unknow,1.6
+408,9/23/2022,Xã Bình Chánh,Huyện Bình Chánh,TP. Hồ Chí Minh,64.0,16.0,4.0,1,Đông,1.45
+409,9/23/2022,Xã Phước Trạch,Huyện Gò Dầu,Tây Ninh,108.0,21.5,5.0,1,Unknow,0.46
+410,9/23/2022,Xã Phước Trạch,Huyện Gò Dầu,Tây Ninh,112.0,22.5,5.0,1,Unknow,0.425
+411,9/23/2022,Xã Hiệp Thạnh,Huyện Gò Dầu,Tây Ninh,116.0,23.0,5.0,1,Unknow,0.485
+412,9/23/2022,Xã Thạnh Đức,Huyện Gò Dầu,Tây Ninh,118.0,23.0,5.0,1,Unknow,0.495
+413,9/23/2022,Xã Thanh Phước,Huyện Gò Dầu,Tây Ninh,90.0,23.0,5.0,1,Unknow,0.625
+414,9/23/2022,Xã Thanh Phước,Huyện Gò Dầu,Tây Ninh,90.0,18.0,5.0,1,Unknow,0.625
+415,9/23/2022,Xã Thanh Phước,Huyện Gò Dầu,Tây Ninh,98.0,19.5,5.0,1,Unknow,0.635
+416,9/23/2022,Xã Gia Lộc,Huyện Trảng Bàng,Tây Ninh,98.0,19.5,5.0,1,Unknow,0.588
+417,9/23/2022,Xã Thanh Phước,Huyện Gò Dầu,Tây Ninh,99.0,20.0,5.0,1,Unknow,0.575
+418,9/23/2022,Xã Đôn Thuận,Huyện Trảng Bàng,Tây Ninh,103.0,20.5,5.0,1,Unknow,0.61
+419,9/23/2022,Xã Gia Lộc,Huyện Trảng Bàng,Tây Ninh,95.0,19.0,5.0,1,Unknow,0.56
+420,9/23/2022,Xã Gia Lộc,Huyện Trảng Bàng,Tây Ninh,103.0,21.0,5.0,1,Unknow,0.615
+421,9/23/2022,Xã Phước Đông,Huyện Gò Dầu,Tây Ninh,103.0,21.0,5.0,1,Unknow,0.585
+422,9/23/2022,Phường 5,TP. Đà Lạt,Lâm Đồng,131.0,0.0,0.0,1,T.Bắc,0.685
+423,9/23/2022,Xã Phước Đông,Huyện Gò Dầu,Tây Ninh,99.0,20.0,5.0,1,Unknow,0.545
+424,9/23/2022,Phường 6,TP. Đà Lạt,Lâm Đồng,200.0,0.0,0.0,1,T.Bắc,6.8
+425,9/23/2022,Xã Phước Đông,Huyện Gò Dầu,Tây Ninh,127.0,25.5,5.0,1,Unknow,0.645
+426,9/23/2022,Xã La Ngà,Huyện Định Quán,Đồng Nai,1005.0,0.0,0.0,1,Unknow,0.78
+427,9/23/2022,Phường 7,TP. Đà Lạt,Lâm Đồng,1000.0,0.0,0.0,1,Tây,12.0
+428,9/23/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1088.0,0.0,0.0,0,Unknow,2.7
+429,9/23/2022,Xã Bàu Đồn,Huyện Gò Dầu,Tây Ninh,3400.0,5.0,40.0,1,Unknow,0.71
+430,9/23/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1000.0,0.0,0.0,0,Unknow,3.2
+431,9/23/2022,Phường Thạnh Mỹ Lợi,TP. Thủ Đức,TP. Hồ Chí Minh,100.0,20.0,5.0,1,Unknow,2.75
+432,9/23/2022,Xã Hiệp Thạnh,Huyện Gò Dầu,Tây Ninh,105.0,21.0,5.0,1,Unknow,0.575
+433,9/23/2022,Xã Cẩm Giang,Huyện Gò Dầu,Tây Ninh,97.0,19.5,5.0,1,Unknow,0.485
+434,9/23/2022,Xã Trường Đông,Huyện Hòa Thành,Tây Ninh,112.0,22.5,5.0,1,Unknow,0.595
+435,9/23/2022,Xã Trường Đông,Huyện Hòa Thành,Tây Ninh,109.0,22.0,5.0,1,Unknow,0.425
+436,9/23/2022,Phường Minh Hưng,Thị xã Chơn Thành,Bình Phước,250.0,50.0,5.5,1,Unknow,0.67
+437,9/23/2022,Xã Phù Khê,Thị xã Từ Sơn,Bắc Ninh,90.0,0.0,0.0,0,Unknow,3.2
+438,9/23/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1038.0,0.0,0.0,0,Unknow,2.8
+439,9/23/2022,Xã Long Thành Nam,Huyện Hòa Thành,Tây Ninh,215.0,36.0,6.0,1,Unknow,0.625
+440,9/23/2022,Xã Túc Trưng,Huyện Định Quán,Đồng Nai,1200.0,0.0,0.0,1,Unknow,0.82
+441,9/23/2022,Xã Long Thành Nam,Huyện Hòa Thành,Tây Ninh,98.0,20.0,5.0,1,Unknow,0.485
+442,9/23/2022,Xã La Ngà,Huyện Định Quán,Đồng Nai,1000.0,0.0,0.0,0,Unknow,1.2
+443,9/23/2022,Xã Hiệp Tân,Huyện Hòa Thành,Tây Ninh,105.0,21.0,5.0,1,Unknow,0.485
+444,9/23/2022,Xã Hiệp Tân,Huyện Hòa Thành,Tây Ninh,101.0,20.0,5.0,1,Unknow,0.565
+445,9/23/2022,Xã Hiệp Tân,Huyện Hòa Thành,Tây Ninh,107.0,21.5,5.0,1,Unknow,0.585
+446,9/23/2022,Xã Hiệp Tân,Huyện Hòa Thành,Tây Ninh,94.0,19.0,5.0,1,Unknow,0.575
+447,9/23/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+448,9/23/2022,Xã Hảo Đước,Huyện Châu Thành,Tây Ninh,119.0,24.0,5.0,1,Unknow,0.595
+449,9/23/2022,Xã Hảo Đước,Huyện Châu Thành,Tây Ninh,119.0,24.0,5.0,1,Unknow,0.375
+450,9/23/2022,Xã Hảo Đước,Huyện Châu Thành,Tây Ninh,132.0,22.0,6.0,1,Unknow,0.395
+451,9/23/2022,Xã Hảo Đước,Huyện Châu Thành,Tây Ninh,126.0,21.0,6.0,1,Unknow,0.41
+452,9/23/2022,Xã Hảo Đước,Huyện Châu Thành,Tây Ninh,111.0,22.0,5.0,1,Unknow,0.41
+453,9/23/2022,Xã Ninh Điền,Huyện Châu Thành,Tây Ninh,354.0,71.0,5.0,1,Unknow,0.45
+454,9/23/2022,Xã Ninh Điền,Huyện Châu Thành,Tây Ninh,155.0,31.0,5.0,1,Unknow,0.38
+455,9/22/2022,Xã Ninh Điền,Huyện Châu Thành,Tây Ninh,157.0,31.5,5.0,1,Unknow,0.39
+456,9/22/2022,Xã Ninh Điền,Huyện Châu Thành,Tây Ninh,340.0,68.0,5.0,1,Unknow,0.455
+457,9/22/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+458,9/22/2022,Xã Thạnh Đức,Huyện Gò Dầu,Tây Ninh,165.0,5.0,33.0,1,Unknow,0.32
+459,9/22/2022,Phường Bửu Hòa,TP. Biên Hòa,Đồng Nai,200.0,0.0,10.0,0,Unknow,3.0
+460,9/22/2022,Phường Bửu Long,TP. Biên Hòa,Đồng Nai,105.0,0.0,5.9,0,Unknow,3.7
+461,9/22/2022,Thị trấn Trâu Quỳ,Huyện Gia Lâm,TP. Hà Nội,88.0,0.0,0.0,0,Unknow,3.8
+462,9/22/2022,Thị trấn Thạnh Phú,Huyện Thạnh Phú,Bến Tre,275.0,22.98,12.97,0,Unknow,6.88
+463,9/22/2022,Xã Quảng Yên,Huyện Quảng Xương,Thanh Hóa,252.0,29.0,9.0,1,Nam,6.0
+464,9/22/2022,Phường Quảng Thành,TP. Thanh Hóa,Thanh Hóa,90.0,0.0,0.0,0,Unknow,0.92
+465,9/22/2022,Xã Ngọc Lĩnh,Thị xã Nghi Sơn,Thanh Hóa,200.0,0.0,0.0,0,Unknow,0.78
+466,9/22/2022,Phường Phú Lợi,TP. Thủ Dầu Một,Bình Dương,100.0,20.0,5.0,1,Unknow,3.0
+467,9/22/2022,Thị trấn Lai Uyên,Huyện Bàu Bàng,Bình Dương,1000.0,100.0,10.0,1,Unknow,0.76
+468,9/22/2022,Xã Cư Suê,Huyện Cư M'gar,Đắk Lắk,1097.0,63.5,5.4,1,Đ.Bắc,1.22
+469,9/22/2022,Phường Hoà Nghĩa,Quận Dương Kinh,TP. Hải Phòng,60.0,13.99,4.5,1,Unknow,1.1
+470,9/22/2022,Phường Hoà Nghĩa,Quận Dương Kinh,TP. Hải Phòng,135.0,0.0,4.5,0,Unknow,2.4
+471,9/22/2022,Phường Tân An,TP. Buôn Ma Thuột,Đắk Lắk,120.0,24.0,5.0,1,Đ.Nam,4.15
+472,9/22/2022,Xã Phước Lộc,Huyện Nhà Bè,TP. Hồ Chí Minh,80.0,5.0,16.0,1,Unknow,1.8
+473,9/22/2022,Phường Tân Thành,Quận Tân Phú,TP. Hồ Chí Minh,80.0,20.0,4.0,1,Unknow,2.5
+474,9/22/2022,Xã Bảo Quang,TP. Long Khánh,Đồng Nai,150.0,0.0,0.0,0,Unknow,1.0
+475,9/22/2022,Xã Long Phước,TP. Bà Rịa,Bà Rịa - Vũng Tàu,425.0,10.0,42.0,1,Unknow,2.98
+476,9/22/2022,Phường Hóa An,TP. Biên Hòa,Đồng Nai,126.0,0.0,6.0,0,Unknow,4.0
+477,9/22/2022,Xã Hoà Long,TP. Bà Rịa,Bà Rịa - Vũng Tàu,200.0,10.0,20.0,1,Unknow,3.1
+478,9/22/2022,Thị trấn Ngãi Giao,Huyện Châu Đức,Bà Rịa - Vũng Tàu,100.0,17.0,4.0,1,Unknow,1.9
+479,9/22/2022,Xã Suối Tiên,Huyện Diên Khánh,Khánh Hòa,310.0,11.0,31.0,0,T.Nam,1.18
+480,9/22/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+481,9/22/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+482,9/22/2022,Phường Dịch Vọng Hậu,Quận Cầu Giấy,TP. Hà Nội,140.0,0.0,0.0,0,Unknow,13.0
+483,9/22/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,128.0,17.0,7.5,1,Unknow,1.0
+484,9/22/2022,Xã Xuân Thọ,TP. Đà Lạt,Lâm Đồng,400.0,0.0,20.0,1,Bắc,8.5
+485,9/22/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+486,9/22/2022,Phường Hạ Đình,Quận Thanh Xuân,TP. Hà Nội,270.0,27.0,10.0,0,Unknow,42.0
+487,9/22/2022,Xã Tân Hiệp,Huyện Phú Giáo,Bình Dương,1100.0,87.0,12.5,1,Đ.Nam,2.1
+488,9/22/2022,Thị trấn Lai Uyên,Huyện Bàu Bàng,Bình Dương,150.0,0.0,0.0,1,Nam,1.45
+489,9/22/2022,Thị trấn Trâu Quỳ,Huyện Gia Lâm,TP. Hà Nội,40.0,0.0,3.16,1,Unknow,4.2
+490,9/22/2022,Xã Phù Khê,Thị xã Từ Sơn,Bắc Ninh,55.0,0.0,0.0,0,Unknow,0.97
+491,9/22/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,0.0,0.0,1,Unknow,1.9
+492,9/22/2022,Xã Xuân Trường,TP. Đà Lạt,Lâm Đồng,600.0,0.0,0.0,1,T.Bắc,4.8
+493,9/22/2022,Phường Hợp Đức,Quận Đồ Sơn,TP. Hải Phòng,117.0,23.0,5.0,1,Unknow,3.4
+494,9/22/2022,Phường Bàng La,Quận Đồ Sơn,TP. Hải Phòng,183.0,0.0,6.0,0,T.Bắc,4.3
+495,9/22/2022,Phường Định Hoà,TP. Thủ Dầu Một,Bình Dương,420.0,30.0,14.99,1,Unknow,1.55
+496,9/22/2022,Phường Vĩnh Phú,TP. Thuận An,Bình Dương,300.0,25.0,6.0,1,Unknow,4.75
+497,9/22/2022,Xã Xuân Trường,TP. Đà Lạt,Lâm Đồng,5563.0,0.0,0.0,1,T.Bắc,10.0
+498,9/22/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+499,9/22/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+500,9/22/2022,Thị trấn Thạnh Phú,Huyện Thạnh Phú,Bến Tre,120.0,24.0,5.0,1,Unknow,1.8
+501,9/22/2022,Xã Yên Bài,Huyện Ba Vì,TP. Hà Nội,1800.0,0.0,0.0,0,Unknow,6.5
+502,9/22/2022,Phường 5,Quận Gò Vấp,TP. Hồ Chí Minh,95.0,19.0,5.0,1,Unknow,3.2
+503,9/22/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.49,1,Đ.Nam,1.9
+504,9/22/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,300.0,10.0,30.0,1,Đông,1.6
+505,9/22/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,0.0,0.0,1,Unknow,1.9
+506,9/22/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+507,9/22/2022,Phường An Lạc,Quận Bình Tân,TP. Hồ Chí Minh,100.0,20.0,5.0,1,Unknow,2.65
+508,9/22/2022,Xã Ea Drông,Thị Xã Buôn Hồ,Đắk Lắk,300.0,60.0,5.0,1,Unknow,4.3
+509,9/22/2022,Phường An Phú,TP. Thủ Đức,TP. Hồ Chí Minh,126.0,18.0,7.0,1,Unknow,3.85
+510,9/22/2022,Phường 11,TP. Đà Lạt,Lâm Đồng,3000.0,0.0,0.0,1,Đ.Bắc,15.6
+511,9/22/2022,Xã Lộc Châu,TP. Bảo Lộc,Lâm Đồng,150.0,0.0,0.0,1,Unknow,0.55
+512,9/22/2022,Phường Bửu Long,TP. Biên Hòa,Đồng Nai,133.0,0.0,4.5,0,Unknow,3.8
+513,9/22/2022,Xã Bình Sơn,Huyện Hòn Đất,Kiên Giang,900.0,90.0,10.0,1,T.Nam,1.0
+514,9/21/2022,Phường Phú Hữu,TP. Thủ Đức,TP. Hồ Chí Minh,100.0,20.0,5.0,1,Unknow,2.8
+515,9/21/2022,Phường Lộc Tiến,TP. Bảo Lộc,Lâm Đồng,200.0,20.0,10.0,1,Unknow,1.6
+516,9/21/2022,Phường Hiệp Bình Chánh,TP. Thủ Đức,TP. Hồ Chí Minh,200.0,20.0,10.0,0,Nam,14.7
+517,9/21/2022,Phường Linh Chiểu,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,20.0,4.0,0,T.Bắc,5.9
+518,9/21/2022,Phường Hiệp Bình Chánh,TP. Thủ Đức,TP. Hồ Chí Minh,66.0,12.5,4.0,0,Đông,4.8
+519,9/21/2022,Phường Hiệp Bình Phước,TP. Thủ Đức,TP. Hồ Chí Minh,58.0,14.5,4.0,0,Đông,4.1
+520,9/21/2022,Xã Lộc Phú,Huyện Bảo Lâm,Lâm Đồng,150.0,15.0,10.0,1,Unknow,1.2
+521,9/21/2022,Xã Lộc Châu,TP. Bảo Lộc,Lâm Đồng,500.0,0.0,0.0,1,Unknow,2.7
+522,9/21/2022,Phường Phú Mỹ,TP. Thủ Dầu Một,Bình Dương,250.0,5.0,50.0,1,Unknow,2.0
+523,9/21/2022,Phường Long Thạnh Mỹ,TP. Thủ Đức,TP. Hồ Chí Minh,90.0,18.0,5.0,1,Unknow,1.5
+524,9/21/2022,Phường Minh Long,Thị xã Chơn Thành,Bình Phước,270.0,55.0,5.0,1,Unknow,0.6
+525,9/21/2022,Xã Tân Hưng,Huyện Hớn Quản,Bình Phước,4000.0,100.0,20.0,1,Unknow,0.94
+526,9/21/2022,Phường An Đông,TP. Huế,Thừa Thiên Huế,60.0,11.0,5.9,1,Tây,2.53
+527,9/21/2022,Phường Ngọc Hải,Quận Đồ Sơn,TP. Hải Phòng,99.0,0.0,0.0,1,Unknow,1.3
+528,9/21/2022,Phường Bửu Long,TP. Biên Hòa,Đồng Nai,81.0,0.0,4.0,0,T.Nam,2.65
+529,9/21/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+530,9/21/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+531,9/21/2022,Thị trấn Bến Lức,Huyện Bến Lức,Long An,200.0,0.0,0.0,0,Unknow,2.0
+532,9/21/2022,Phường Hiệp Ninh,TP. Tây Ninh,Tây Ninh,114.0,5.0,22.8,1,Unknow,0.42
+533,9/21/2022,Xã Ea Drông,Thị Xã Buôn Hồ,Đắk Lắk,250.0,50.0,5.0,1,Unknow,0.405
+534,9/21/2022,Xã Lộc Phú,Huyện Bảo Lâm,Lâm Đồng,180.0,18.0,10.0,1,Unknow,1.6
+535,9/21/2022,Phường Vạn Sơn,Quận Đồ Sơn,TP. Hải Phòng,76.0,0.0,0.0,0,Unknow,1.3
+536,9/21/2022,Phường Ngọc Hải,Quận Đồ Sơn,TP. Hải Phòng,68.0,4.7,0.0,0,Unknow,1.25
+537,9/21/2022,Xã Long Bình,Huyện Phú Riềng,Bình Phước,1100.0,110.0,10.0,1,Đ.Nam,0.556
+538,9/21/2022,Xã Tân Lợi,Huyện Đồng Phú,Bình Phước,1000.0,10.0,1000.0,1,Unknow,0.45
+539,9/21/2022,Phường Hải Thành,Quận Dương Kinh,TP. Hải Phòng,77.0,0.0,4.5,1,Unknow,1.97
+540,9/21/2022,Phường 5,TP. Đà Lạt,Lâm Đồng,4500.0,0.0,0.0,1,Nam,30.0
+541,9/21/2022,Xã Lộc Thành,Huyện Bảo Lâm,Lâm Đồng,500.0,10.0,50.0,1,Unknow,0.5
+542,9/21/2022,Xã Trạm Hành,TP. Đà Lạt,Lâm Đồng,6100.0,0.0,0.0,1,T.Nam,6.1
+543,9/21/2022,Phường Phú Mỹ,TP. Thủ Dầu Một,Bình Dương,250.0,50.0,5.0,1,Unknow,2.0
+544,9/21/2022,Phường 7,TP. Đà Lạt,Lâm Đồng,100.0,20.0,5.0,1,Đ.Nam,1.4
+545,9/21/2022,Phường 7,TP. Đà Lạt,Lâm Đồng,292.0,0.0,0.0,1,T.Nam,20.15
+546,9/21/2022,Xã Trạm Hành,TP. Đà Lạt,Lâm Đồng,3400.0,0.0,0.0,1,Tây,3.6
+547,9/21/2022,Phường 4,TP. Đà Lạt,Lâm Đồng,230.0,0.0,0.0,1,Tây,17.5
+548,9/21/2022,Phường 5,TP. Đà Lạt,Lâm Đồng,211.0,13.0,0.0,1,T.Nam,7.5
+549,9/21/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+550,9/21/2022,Xã Ea Drông,Thị Xã Buôn Hồ,Đắk Lắk,250.0,50.0,5.0,1,Unknow,0.4
+551,9/21/2022,Xã Tân Hưng,Huyện Hớn Quản,Bình Phước,2000.0,100.0,20.0,1,Unknow,0.94
+552,9/21/2022,Phường Minh Hưng,Thị xã Chơn Thành,Bình Phước,500.0,50.0,10.0,1,Unknow,0.45
+553,9/21/2022,Hoàng Sa,Thuận An,Thừa Thiên Huế,226.0,22.0,10.0,1,Đ.Bắc,4.2
+554,9/21/2022,Xã Hàm Trí,Huyện Hàm Thuận Bắc,Bình Thuận,5500.0,0.0,0.0,0,Unknow,2.2
+555,9/21/2022,Xã Bàu Đồn,Huyện Gò Dầu,Tây Ninh,1000.0,30.0,10.0,1,Đông,0.8
+556,9/21/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,300.0,30.0,10.0,1,Đông,1.6
+557,9/21/2022,Xã Cư Bao,Thị Xã Buôn Hồ,Đắk Lắk,187.0,37.0,5.0,1,Unknow,0.48
+558,9/21/2022,Phường Bình Chiểu,TP. Thủ Đức,TP. Hồ Chí Minh,74.0,0.0,0.0,1,Unknow,3.3
+559,9/21/2022,Phường Bình Chiểu,TP. Thủ Đức,TP. Hồ Chí Minh,64.0,0.0,0.0,1,Unknow,3.2
+560,9/21/2022,Phường Xuân An,TP. Phan Thiết,Bình Thuận,100.0,20.0,5.0,1,Đ.Nam,4.2
+561,9/21/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+562,9/21/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,0.0,0.0,1,Unknow,1.9
+563,9/21/2022,Xã Ea Drông,Thị Xã Buôn Hồ,Đắk Lắk,256.0,32.0,8.0,1,Unknow,0.349
+564,9/21/2022,Phường Lộc Tiến,TP. Bảo Lộc,Lâm Đồng,150.0,30.0,5.0,1,Unknow,0.8
+565,9/21/2022,Phường Thảo Điền,TP. Thủ Đức,TP. Hồ Chí Minh,746.0,0.0,0.0,0,Unknow,200.0
+566,9/21/2022,Xã Lộc Ngãi,Huyện Bảo Lâm,Lâm Đồng,160.0,16.0,10.0,1,Unknow,0.7
+567,9/21/2022,Xã Lộc An,Huyện Bảo Lâm,Lâm Đồng,203.0,20.0,10.0,1,Unknow,0.95
+568,9/21/2022,Phường Trung Liệt,Quận Đống Đa,TP. Hà Nội,80.0,0.0,0.0,0,Unknow,12.5
+569,9/21/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1000.0,0.0,0.0,0,Unknow,3.2
+570,9/21/2022,Phường Lộc Phát,TP. Bảo Lộc,Lâm Đồng,200.0,10.0,20.0,1,Unknow,4.0
+571,9/21/2022,Xã Khánh Bình,Huyện Khánh Vĩnh,Khánh Hòa,358.0,49.0,7.0,1,Đ.Bắc,0.4
+572,9/21/2022,Phường Tân Thới Hòa,Quận Tân Phú,TP. Hồ Chí Minh,88.0,0.0,0.0,1,Unknow,6.1
+573,9/21/2022,Phường Vạn Hương,Quận Đồ Sơn,TP. Hải Phòng,335.0,26.0,13.0,1,Unknow,5.52
+574,9/21/2022,Phường Tân Lập,TP. Buôn Ma Thuột,Đắk Lắk,48.0,11.99,4.0,1,T.Bắc,0.96
+575,9/21/2022,Xã Nha Bích,Thị xã Chơn Thành,Bình Phước,270.0,50.0,5.5,1,Unknow,0.85
+576,9/20/2022,Xã Pơng Drang,Huyện Krông Búk,Đắk Lắk,250.0,50.0,5.0,1,Unknow,0.405
+577,9/20/2022,Phường Hòa Khánh Bắc,Quận Liên Chiểu,TP. Đà Nẵng,161.0,32.0,4.99,1,Unknow,2.75
+578,9/20/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+579,9/20/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,93.0,0.0,0.0,0,Unknow,1.7
+580,9/20/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,300.0,10.0,30.0,1,Đông,1.6
+581,9/20/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+582,9/20/2022,Xã Tân Đông,Huyện Tân Châu,Tây Ninh,187.0,0.0,0.0,0,Unknow,0.24
+583,9/20/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,0.0,0.0,0,Unknow,1.9
+584,9/20/2022,Phường Bửu Long,TP. Biên Hòa,Đồng Nai,493.0,0.0,22.0,0,Unknow,19.0
+585,9/20/2022,Xã Lộc Quảng,Huyện Bảo Lâm,Lâm Đồng,280.0,28.0,10.0,1,Unknow,1.4
+586,9/20/2022,Xã Nha Bích,Thị xã Chơn Thành,Bình Phước,233.0,48.0,5.0,1,Unknow,0.8
+587,9/20/2022,Xã Bàu Đồn,Huyện Gò Dầu,Tây Ninh,1000.0,30.0,10.0,1,Đông,1.6
+588,9/20/2022,Phường Lái Thiêu,TP. Thuận An,Bình Dương,2000.0,100.0,20.0,1,Unknow,0.45
+589,9/20/2022,Xã Long Chữ,Huyện Bến Cầu,Tây Ninh,225.0,5.0,45.0,1,Unknow,1.0
+590,9/20/2022,Xã Xuân Đông,Huyện Cẩm Mỹ,Đồng Nai,1500.0,0.0,0.0,0,Unknow,1.65
+591,9/20/2022,Phường Kim Long,TP. Huế,Thừa Thiên Huế,176.0,0.0,0.0,0,Unknow,4.2
+592,9/20/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,300.0,30.0,10.0,1,Đông,1.6
+593,9/20/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,0.0,0.0,1,Unknow,1.9
+594,9/20/2022,Xã Nhơn Thạnh Trung,TP. Tân An,Long An,187.0,37.0,5.0,1,Unknow,0.48
+595,9/20/2022,Phường Tân Hiệp,TP. Biên Hòa,Đồng Nai,6516.0,0.0,54.0,0,Unknow,75.0
+596,9/20/2022,Phường Phước Tân,TP. Biên Hòa,Đồng Nai,200.0,8.0,25.0,1,Đông,6.0
+597,9/20/2022,Xã Tiên Thuận,Huyện Bến Cầu,Tây Ninh,200.0,10.0,20.0,1,Unknow,0.25
+598,9/20/2022,Xã Đất Cuốc,Huyện Bắc Tân Uyên,Bình Dương,1100.0,0.0,0.0,0,Unknow,0.39
+599,9/20/2022,Xã Sơn Mỹ,Huyện Hàm Tân,Bình Thuận,4700.0,47.0,100.0,1,Nam,16.9
+600,9/20/2022,Phường Mỹ Phước,Thị xã Bến Cát,Bình Dương,250.0,0.0,0.0,1,Unknow,0.35
+601,9/20/2022,Xã Cẩm Giang,Huyện Gò Dầu,Tây Ninh,320.0,10.0,31.99,1,Unknow,0.46
+602,9/20/2022,Phường Mỹ Phước,Thị xã Bến Cát,Bình Dương,470.0,47.0,10.0,1,Unknow,0.4
+603,9/20/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1000.0,0.0,0.0,0,Unknow,3.2
+604,9/20/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+605,9/20/2022,Xã Đạm Bri,TP. Bảo Lộc,Lâm Đồng,250.0,0.0,0.0,0,Unknow,0.88
+606,9/20/2022,Thị trấn Thạnh Phú,Huyện Thạnh Phú,Bến Tre,120.0,24.0,5.0,1,Unknow,1.65
+607,9/20/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,93.0,0.0,0.0,0,Unknow,1.7
+608,9/20/2022,Phường Hòa Hiệp Nam,Quận Liên Chiểu,TP. Đà Nẵng,90.0,5.0,18.0,0,Unknow,1.0
+609,9/20/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,0.0,0.0,0,Unknow,1.9
+610,9/20/2022,Xã Cư Bao,Thị Xã Buôn Hồ,Đắk Lắk,124.5,24.9,5.0,1,Unknow,0.47
+611,9/20/2022,Xã Pơng Drang,Huyện Krông Búk,Đắk Lắk,250.0,50.0,5.0,1,Unknow,0.405
+612,9/20/2022,Thị trấn Thạnh Phú,Huyện Thạnh Phú,Bến Tre,120.0,24.0,5.0,1,Unknow,1.8
+613,9/20/2022,Phường Uyên Hưng,Thị xã Tân Uyên,Bình Dương,65.0,0.0,0.0,0,Unknow,1.0
+614,9/20/2022,Phường Hóa An,TP. Biên Hòa,Đồng Nai,126.0,7.0,0.0,0,Unknow,2.85
+615,9/20/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1040.0,0.0,0.0,0,Unknow,2.8
+616,9/20/2022,Xã Bình Lợi,Huyện Vĩnh Cửu,Đồng Nai,4000.0,0.0,35.0,0,Unknow,19.0
+617,9/20/2022,Xã Hảo Đước,Huyện Châu Thành,Tây Ninh,150.0,5.0,30.0,1,Unknow,0.395
+618,9/20/2022,Xã Tiên Thuận,Huyện Bến Cầu,Tây Ninh,200.0,10.0,20.0,1,Unknow,0.25
+619,9/20/2022,Xã Cư Bao,Thị Xã Buôn Hồ,Đắk Lắk,114.0,23.0,5.0,1,Unknow,0.42
+620,9/20/2022,Phường Uyên Hưng,Thị xã Tân Uyên,Bình Dương,80.0,0.0,0.0,0,Unknow,0.85
+621,9/20/2022,Phường Khương Mai,Quận Thanh Xuân,TP. Hà Nội,450.0,0.0,0.0,0,Unknow,27.5
+622,9/20/2022,Phường Kỳ Phương,Thị xã Kỳ Anh,Hà Tĩnh,179.5,30.0,6.0,1,Đ.Nam,0.9786
+623,9/20/2022,Phường Quang Vinh,TP. Biên Hòa,Đồng Nai,80.0,0.0,4.2,0,Unknow,4.2
+624,9/20/2022,Xã Pơng Drang,Huyện Krông Búk,Đắk Lắk,250.0,50.0,5.0,1,Unknow,0.45
+625,9/20/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,0.0,0.0,1,Unknow,1.9
+626,9/20/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,300.0,30.0,10.0,1,Đông,1.6
+627,9/20/2022,Xã Cư Bao,Thị Xã Buôn Hồ,Đắk Lắk,187.0,37.38,5.0,1,Unknow,0.24
+628,9/20/2022,Phường Bửu Long,TP. Biên Hòa,Đồng Nai,79.0,0.0,4.2,0,Unknow,3.5
+629,9/20/2022,Thị trấn Trâu Quỳ,Huyện Gia Lâm,TP. Hà Nội,30.0,0.0,0.0,0,Unknow,1.5
+630,9/20/2022,Xã Kim Hoa,Huyện Mê Linh,TP. Hà Nội,120.0,20.0,6.0,1,Unknow,4.5
+631,9/20/2022,Phường Phước Tân,TP. Biên Hòa,Đồng Nai,200.0,25.0,8.0,1,Đông,6.0
+632,9/20/2022,Phường Ô Chợ Dừa,Quận Đống Đa,TP. Hà Nội,150.0,0.0,0.0,0,Unknow,49.0
+633,9/20/2022,Xã Tiên Thuận,Huyện Bến Cầu,Tây Ninh,200.0,10.0,20.0,1,Unknow,0.25
+634,9/20/2022,Thị trấn Trâu Quỳ,Huyện Gia Lâm,TP. Hà Nội,54.0,0.0,0.0,0,Unknow,2.85
+635,9/19/2022,Phường Lộc Phát,TP. Bảo Lộc,Lâm Đồng,190.0,19.0,10.0,1,Unknow,1.2
+636,9/19/2022,Phường Minh Thành,Thị xã Chơn Thành,Bình Phước,200.0,40.0,5.0,1,Unknow,0.4
+637,9/19/2022,Xã Sơn Mỹ,Huyện Hàm Tân,Bình Thuận,1150.0,45.0,25.0,1,Đông,0.45
+638,9/19/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,110.0,20.0,5.5,1,Đ.Nam,1.9
+639,9/19/2022,Xã Lộc Khánh,Huyện Lộc Ninh,Bình Phước,250.0,5.0,50.0,1,Đ.Nam,0.679
+640,9/19/2022,Xã Tiên Thuận,Huyện Bến Cầu,Tây Ninh,200.0,10.0,20.0,1,Unknow,0.25
+641,9/19/2022,Phường Uyên Hưng,Thị xã Tân Uyên,Bình Dương,80.0,0.0,0.0,0,Unknow,1.0
+642,9/19/2022,Phường Tân Hạnh,TP. Biên Hòa,Đồng Nai,3774.0,0.0,9.5,0,Unknow,17.0
+643,9/19/2022,Phường Lộc Sơn,TP. Bảo Lộc,Lâm Đồng,270.0,27.0,10.0,1,Đ.Nam,0.78
+644,9/19/2022,Phường Chánh Phú Hòa,Thị xã Bến Cát,Bình Dương,197.0,20.0,10.0,1,Đông,0.97
+645,9/19/2022,Xã Phù Khê,Thị xã Từ Sơn,Bắc Ninh,66.6,0.0,0.0,0,Unknow,0.1295
+646,9/19/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,3200.0,0.0,0.0,0,Unknow,7.32
+647,9/19/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,300.0,30.0,10.0,1,Unknow,1.6
+648,9/19/2022,Phường Hiệp Hòa,TP. Biên Hòa,Đồng Nai,89.0,0.0,5.0,0,Unknow,4.0
+649,9/19/2022,Xã Cư Bao,Thị Xã Buôn Hồ,Đắk Lắk,187.0,37.38,5.0,1,Unknow,0.48
+650,9/19/2022,Phường Hóa An,TP. Biên Hòa,Đồng Nai,65.0,0.0,4.0,0,Unknow,2.2
+651,9/19/2022,Xã Đức Lập Thượng,Huyện Đức Hòa,Long An,140.0,20.0,7.0,1,Unknow,1.6
+652,9/19/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,100.0,20.0,5.0,1,Unknow,1.4
+653,9/19/2022,Phường Tân Bình,TP. Dĩ An,Bình Dương,85.0,0.0,0.0,0,Unknow,1.3
+654,9/19/2022,Phường Hiệp Hòa,TP. Biên Hòa,Đồng Nai,80.0,0.0,4.0,0,Unknow,4.2
+655,9/19/2022,Phường Lộc Tiến,TP. Bảo Lộc,Lâm Đồng,280.0,28.0,10.0,1,Unknow,0.78
+656,9/19/2022,Phường Thuận Lộc,TP. Huế,Thừa Thiên Huế,127.0,15.0,15.0,1,T.Bắc,2.68
+657,9/19/2022,Xã Đạm Bri,TP. Bảo Lộc,Lâm Đồng,150.0,30.0,5.0,1,Unknow,0.48
+658,9/19/2022,Xã Bàu Đồn,Huyện Gò Dầu,Tây Ninh,1722.0,50.0,29.99,1,Unknow,0.695
+659,9/19/2022,Xã Long Chữ,Huyện Bến Cầu,Tây Ninh,225.0,5.0,45.0,1,Unknow,0.92
+660,9/19/2022,Phường Tân An,TP. Thủ Dầu Một,Bình Dương,90.0,5.0,18.0,1,Unknow,1.5
+661,9/19/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,300.0,30.0,10.0,1,Đông,1.6
+662,9/19/2022,Phường 7,TP. Đà Lạt,Lâm Đồng,200.0,11.0,16.99,0,T.Nam,4.2
+663,9/19/2022,Phường 8,TP. Đà Lạt,Lâm Đồng,352.0,12.5,28.0,1,Nam,14.08
+664,9/19/2022,Xã Tiên Thuận,Huyện Bến Cầu,Tây Ninh,2000.0,40.0,50.0,1,Unknow,0.15
+665,9/19/2022,Xã Tả Thanh Oai,Huyện Thanh Trì,TP. Hà Nội,45.0,0.0,0.0,0,Unknow,2.8
+666,9/18/2022,Xã Bình Chánh,Huyện Bình Chánh,TP. Hồ Chí Minh,80.0,16.0,5.0,1,Unknow,1.5
+667,9/18/2022,Xã Cư Bao,Thị Xã Buôn Hồ,Đắk Lắk,187.0,37.38,5.0,1,Unknow,0.48
+668,9/18/2022,Xã Hòa Khánh,TP. Buôn Ma Thuột,Đắk Lắk,240.0,6.0,40.0,1,Bắc,0.9
+669,9/18/2022,Xã Đông Thanh,Huyện Lâm Hà,Lâm Đồng,3560.0,70.0,50.0,1,Unknow,5.7
+670,9/18/2022,Phường Hòa Xuân,Quận Cẩm Lệ,Đà Nẵng,100.0,5.0,20.0,1,Đ.Nam,4.35
+671,9/18/2022,Xã Nhã Nam,Huyện Tân Yên,Bắc Giang,90.0,18.0,6.0,0,Unknow,1.92
+672,9/18/2022,Xã Điện Hồng,Thị xã Điện Bàn,Quảng Nam,114.0,5.0,22.0,0,Unknow,0.5
+673,9/18/2022,Xã Xuân Tây,Huyện Cẩm Mỹ,Đồng Nai,1000.0,0.0,0.0,0,Unknow,1.7
+674,9/18/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,1,Unknow,2.06
+675,9/18/2022,Xã Mỹ Hà,Huyện Lạng Giang,Bắc Giang,232.0,20.0,11.0,1,Đông,0.6
+676,9/18/2022,Thị trấn Gia Khánh,Huyện Bình Xuyên,Vĩnh Phúc,100.0,20.0,5.0,1,Đ.Nam,1.4
+677,9/18/2022,Xã Xuân Thiện,Huyện Thống Nhất,Đồng Nai,1000.0,50.0,21.0,1,Tây,1.7
+678,9/18/2022,Xã Ka Đô,Huyện Đơn Dương,Lâm Đồng,188.0,29.0,6.5,0,Nam,0.75
+679,9/18/2022,Xã Minh Thành,Huyện Chơn Thành,Bình Phước,150.0,30.0,5.0,1,Đ.Nam,1.2
+680,9/18/2022,Xã Đông Yên,Huyện Đông Sơn,Thanh Hóa,100.0,0.0,0.0,0,Unknow,1.24
+681,9/18/2022,Phường Lê Lợi,Tp. Vinh,Nghệ An,153.3,21.68,7.27,1,Đ.Nam,6.0
+682,9/18/2022,Xã Đạm Bri,Tp. Bảo Lộc,Lâm Đồng,239.0,23.9,10.0,1,Unknow,1.65
+683,9/18/2022,Xã Nghi Phú,Tp. Vinh,Nghệ An,192.2,24.3,7.5,1,T.Bắc,8.6
+684,9/18/2022,Xã Xuân Tây,Huyện Cẩm Mỹ,Đồng Nai,1280.0,64.0,20.0,1,Unknow,4.4
+685,9/18/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,300.0,30.0,5.0,1,Unknow,2.07
+686,9/17/2022,Xã Nhựt Chánh,Huyện Bến Lức,Long An,115.0,23.0,5.0,0,Unknow,1.25
+687,9/17/2022,Xã Chà Là,Huyện Dương Minh Châu,Tây Ninh,150.0,12.0,30.0,0,Unknow,0.62
+688,9/17/2022,Xã Lộc An,Huyện Bảo Lâm,Lâm Đồng,200.0,0.0,0.0,1,Unknow,0.7
+689,9/17/2022,Phường Tân Định,Thị xã Bến Cát,Bình Dương,103.0,20.6,5.0,0,T.Nam,0.81
+690,9/17/2022,Thị trấn Phố Mới,Huyện Quế Võ,Bắc Ninh,60.0,4.0,0.0,0,Unknow,2.08
+691,9/17/2022,Xã Phật Tích,Huyện Tiên Du,Bắc Ninh,180.0,12.0,0.0,0,Unknow,4.23
+692,9/17/2022,Phường Trường Thọ,Tp. Thủ Đức,TP. Hồ Chí Minh,88.6,19.26,4.6,0,T.Nam,7.09
+693,9/17/2022,Xã Lộc Thanh,Tp. Bảo Lộc,Lâm Đồng,200.0,0.0,0.0,0,Unknow,1.6
+694,9/17/2022,Xã Y Tý,Huyện Bát Xát,Lào Cai,730.0,0.0,0.0,0,Unknow,1.11
+695,9/17/2022,Xã Thạnh Phú,Huyện Vĩnh Cửu,Đồng Nai,224.0,0.0,8.0,0,Unknow,2.0
+696,9/17/2022,Xã Hựu Thạnh,Huyện Đức Hòa,Long An,90.0,18.0,5.0,1,Unknow,1.8
+697,9/17/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,0,Unknow,1.78
+698,9/17/2022,Xã Tân Quan,Huyện Hớn Quản,Bình Phước,210.0,43.0,55.0,1,Unknow,0.7
+699,9/17/2022,Xã Minh Tân,Huyện Vị Xuyên,Hà Giang,212.0,0.0,0.0,0,Unknow,0.9
+700,9/17/2022,Xã Hòa Khánh,Huyện Cái Bè,Tiền Giang,120.0,20.0,6.0,1,Đông,0.7
+701,9/17/2022,Xã Mỹ Hạnh Bắc,Huyện Đức Hòa,Long An,90.0,5.0,18.0,1,Unknow,0.89
+702,9/17/2022,Xã Nhơn Đức,Huyện Nhà Bè,TP. Hồ Chí Minh,98.0,0.0,0.0,0,Unknow,3.1
+703,9/17/2022,phường An Hòa,Biên Hòa,Đồng Nai,74.0,4.0,18.0,1,Unknow,1.67
+704,9/16/2022,Xã Phước Đồng,Tp. Nha Trang,Khánh Hòa,500.0,38.0,13.0,1,Bắc,7.5
+705,9/16/2022,Thị trấn Gia Khánh,Huyện Bình Xuyên,Vĩnh Phúc,1600.0,0.0,0.0,1,Unknow,4.1
+706,9/16/2022,Xã Thanh Phước,Huyện Gò Dầu,Tây Ninh,389.0,38.0,10.0,1,Unknow,0.63
+707,9/16/2022,Xã Nhơn Đức,Huyện Nhà Bè,TP. Hồ Chí Minh,98.0,0.0,0.0,0,Unknow,3.1
+708,9/16/2022,Phường Sa Pa,Thị xã Sa Pa,Lào Cai,300.0,20.0,15.0,1,Đ.Nam,8.4
+709,9/16/2022,Thị trấn Gò Dầu,Huyện Gò Dầu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.43
+710,9/16/2022,Phường Lái Thiêu,Tp. Thuận An,Bình Dương,250.0,50.0,5.0,1,Unknow,0.39
+711,9/16/2022,Xã Thạnh Bình,Huyện Tân Biên,Tây Ninh,220.0,44.0,5.0,1,Unknow,0.479
+712,9/16/2022,Xã Lộc Ngãi,Huyện Bảo Lâm,Lâm Đồng,120.0,5.0,24.0,1,Unknow,0.8
+713,9/16/2022,Xã Xuân Hiệp,Huyện Xuân Lộc,Đồng Nai,2160.0,139.0,15.5,1,Unknow,1.94
+714,9/16/2022,Xã Đồng Tiến,Huyện Đồng Phú,Bình Phước,275.0,55.0,5.0,1,Unknow,0.4
+715,9/16/2022,Phường Thủy Châu,Thị xã Hương Thủy,Thừa Thiên Huế,156.0,31.0,5.0,0,Tây,2.11
+716,9/16/2022,Phường An Đông,Tp. Huế,Thừa Thiên Huế,273.0,22.0,12.0,1,Tây,10.65
+717,9/16/2022,Xã Thuận Lợi,Huyện Đồng Phú,Bình Phước,120.0,6.0,20.0,1,T.Nam,0.85
+718,9/16/2022,Phường 1,Tp. Tây Ninh,Tây Ninh,120.0,5.0,24.0,1,Unknow,0.63
+719,9/16/2022,Xã Long Khánh,Huyện Bến Cầu,Tây Ninh,90.0,5.0,16.0,1,Unknow,0.3
+720,9/16/2022,Xã Phước Đông,Huyện Gò Dầu,Tây Ninh,125.0,25.0,5.0,1,Unknow,0.859
+721,9/16/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,12010.0,0.0,0.0,0,Unknow,2.26
+722,9/16/2022,Xã Đặng Cương,Huyện An Dương,TP. Hải Phòng,700.0,0.0,14.0,1,Unknow,1.4
+723,9/16/2022,Xã Bãi Sậy,Huyện Ân Thi,Hưng Yên,81.0,0.0,0.0,1,Unknow,0.87
+724,9/16/2022,Xã Tân Thành,Huyện Mộc Hóa,Long An,4108.5,0.0,0.0,0,Unknow,9.96
+725,9/16/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,3182.0,0.0,0.0,0,Unknow,6.8
+726,9/15/2022,Xã Bình Hòa,Huyện Vĩnh Cửu,Đồng Nai,1000.0,0.0,0.0,0,Unknow,13.5
+727,9/15/2022,Xã Diên Lạc,Huyện Diên Khánh,Khánh Hòa,200.0,0.0,0.0,0,Unknow,1.9
+728,9/15/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1000.0,0.0,0.0,0,Unknow,2.0
+729,9/15/2022,Phường Tân An,Tp. Buôn Ma Thuột,Đắk Lắk,100.0,5.0,20.0,1,Unknow,5.5
+730,9/15/2022,Xã Phú Thượng,Huyện Phú Vang,Thừa Thiên Huế,279.0,11.0,24.0,1,Nam,6.7
+731,9/15/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,1,Unknow,1.8
+732,9/15/2022,Xã Lộc Ngãi,Huyện Bảo Lâm,Lâm Đồng,120.0,5.0,24.0,1,Unknow,0.43
+733,9/15/2022,Xã Mỹ Hà,Huyện Lạng Giang,Bắc Giang,110.0,0.0,0.0,1,Unknow,0.6
+734,9/15/2022,Xã Định Thành,Huyện Dầu Tiếng,Bình Dương,319.0,60.0,5.0,1,Unknow,1.4
+735,9/15/2022,Xã Minh Thạnh,Huyện Dầu Tiếng,Bình Dương,369.0,35.0,10.0,1,Unknow,0.95
+736,9/15/2022,Phường Tân An,Tp. Buôn Ma Thuột,Đắk Lắk,120.0,5.0,23.99,1,Đ.Bắc,5.0
+737,9/15/2022,Xã Tân Hưng,Huyện Hớn Quản,Bình Phước,729.0,55.0,13.0,0,Unknow,0.325
+738,9/15/2022,Xã Minh Thạnh,Huyện Dầu Tiếng,Bình Dương,350.0,10.0,35.0,1,Unknow,1.2
+739,9/15/2022,Xã Tân Lợi,Huyện Đồng Phú,Bình Phước,1000.0,100.0,10.0,1,T.Bắc,0.66
+740,9/15/2022,Xã Minh Thạnh,Huyện Dầu Tiếng,Bình Dương,360.0,10.0,36.0,0,Unknow,0.95
+741,9/15/2022,Xã Thạnh Bình,Huyện Tân Biên,Tây Ninh,175.0,0.0,0.0,0,Unknow,0.479
+742,9/15/2022,Phường Hòa Cường Nam,Quận Hải Châu,TP. Đà Nẵng,50.0,0.0,0.0,0,Unknow,2.35
+743,9/15/2022,phường Thống Nhất,Biên Hòa,Đồng Nai,135.7,18.0,6.0,1,Unknow,4.1
+744,9/15/2022,Xã Vạn Long,Huyện Vạn Ninh,Khánh Hòa,120.0,0.0,0.0,0,Unknow,1.92
+745,9/15/2022,Phường 25,Quận Bình Thạnh,TP. Hồ Chí Minh,250.0,50.0,5.0,1,Unknow,0.32
+746,9/15/2022,Xã Sông Xoài,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,200.0,40.0,5.0,1,Đ.Nam,1.54
+747,9/15/2022,Xã Tân Phúc,Huyện Hàm Tân,Bình Thuận,100000.0,0.0,0.0,0,Unknow,230.0
+748,9/15/2022,Phường Phú Mỹ,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,100.0,20.0,5.0,1,Đ.Nam,1.7
+749,9/15/2022,Phường An Phú,Tp. Thuận An,Bình Dương,98.0,17.5,5.5,1,Đ.Nam,2.5
+750,9/15/2022,Xã Ninh Tân,Thị xã Ninh Hòa,Khánh Hòa,264.0,28.0,10.0,0,Nam,2.1
+751,9/15/2022,Xã Hàm Trí,Huyện Hàm Thuận Bắc,Bình Thuận,3582.0,0.0,0.0,1,Unknow,1.15
+752,9/15/2022,Thị trấn Củ Chi,Huyện Củ Chi,TP. Hồ Chí Minh,96.0,0.0,0.0,0,Unknow,0.52
+753,9/15/2022,Phường Hưng Phú,Quận Cái Răng,TP. Cần Thơ,60.0,10.0,6.0,1,Bắc,3.0
+754,9/14/2022,Phường Hoà Quý,Quận Ngũ Hành Sơn,TP. Đà Nẵng,108.5,18.42,5.99,1,Unknow,3.55
+755,9/14/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,0,Unknow,1.68
+756,9/14/2022,Xã Nhơn Đức,Huyện Nhà Bè,TP. Hồ Chí Minh,98.0,0.0,0.0,0,Unknow,3.1
+757,9/14/2022,Phường Long Bình Tân,Tp. Biên Hòa,Đồng Nai,100.0,20.0,5.0,1,Nam,3.3
+758,9/14/2022,Xã Y Tý,Huyện Bát Xát,Lào Cai,700.0,0.0,0.0,0,Unknow,1.23
+759,9/14/2022,Xã Phú Đông,Huyện Nhơn Trạch,Đồng Nai,496.0,0.0,0.0,1,Unknow,8.5
+760,9/14/2022,Xã Định An,Huyện Dầu Tiếng,Bình Dương,1009.0,100.0,10.0,1,Tây,0.76
+761,9/14/2022,Phường Hố Nai,Tp. Biên Hòa,Đồng Nai,62.0,4.0,16.0,1,Unknow,2.25
+762,9/14/2022,Phường Vĩnh Phú,Tp. Thuận An,Bình Dương,130.0,20.0,6.5,1,Unknow,4.55
+763,9/14/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,2252.0,0.0,0.0,1,Đông,0.6756
+764,9/14/2022,Thị trấn Phố Mới,Huyện Quế Võ,Bắc Ninh,60.0,4.0,0.0,0,Unknow,2.08
+765,9/14/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,4838.0,0.0,0.0,1,Đông,1.21
+766,9/14/2022,Xã Gia Lộc,Huyện Trảng Bàng,Tây Ninh,299.0,6.0,42.0,1,Unknow,0.45
+767,9/14/2022,Xã Tân Xã,Huyện Thạch Thất,TP. Hà Nội,60.0,0.0,0.0,1,Unknow,1.02
+768,9/14/2022,Phường Phú Mỹ,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,130.0,27.0,5.0,1,T.Nam,5.0
+769,9/14/2022,Xã Thạnh Hoà,Huyện Tân Phước,Tiền Giang,12.1,384.0,31.0,0,Unknow,2.8
+770,9/14/2022,Xã Tân Lạc,Huyện Bảo Lâm,Lâm Đồng,2306.0,40.0,70.0,1,Unknow,0.8
+771,9/14/2022,Xã Cẩm Giang,Huyện Gò Dầu,Tây Ninh,150.0,29.0,6.0,1,Unknow,0.862
+772,9/13/2022,Phường Tân Biên,Tp. Biên Hòa,Đồng Nai,72.0,18.0,4.0,1,Unknow,2.15
+773,9/13/2022,Phường Hiệp Hòa,Tp. Biên Hòa,Đồng Nai,550.0,46.0,12.4,1,T.Nam,14.5
+774,9/13/2022,Phường Long Trường,Tp. Thủ Đức,TP. Hồ Chí Minh,95.0,0.0,0.0,0,Unknow,5.5
+775,9/13/2022,Xã Mỹ Lệ,Huyện Cần Đước,Long An,80.0,4.0,20.0,1,Unknow,0.8
+776,9/13/2022,Xã Lạc Xuân,Huyện Đơn Dương,Lâm Đồng,300.0,30.0,10.0,0,Nam,1.18
+777,9/13/2022,Xã Lộc An,Huyện Bảo Lâm,Lâm Đồng,100.0,19.0,6.0,0,Unknow,0.8
+778,9/13/2022,Thị trấn Tân Phú,Huyện Đồng Phú,Bình Phước,100.0,20.0,5.0,1,Unknow,0.3
+779,9/13/2022,Thị trấn Trảng Bàng,Huyện Trảng Bàng,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.688
+780,9/13/2022,Thị trấn Trảng Bàng,Huyện Trảng Bàng,Tây Ninh,100.0,5.0,20.0,1,Unknow,0.7
+781,9/13/2022,Phường Long Trường,Tp. Thủ Đức,TP. Hồ Chí Minh,58.3,14.0,4.2,1,Đ.Nam,3.2
+782,9/13/2022,Xã Đồng Phúc,Huyện Yên Dũng,Bắc Giang,1022.0,0.0,0.0,1,Unknow,15.34
+783,9/13/2022,Xã Phước Đông,Huyện Gò Dầu,Tây Ninh,170.0,5.0,34.0,1,Bắc,0.75
+784,9/13/2022,Phường Tân Biên,Tp. Biên Hòa,Đồng Nai,72.0,18.0,4.0,1,Unknow,2.1
+785,9/13/2022,Xã Liên Bão,Huyện Tiên Du,Bắc Ninh,90.0,5.0,0.0,1,Unknow,4.45
+786,9/13/2022,Xã Chà Là,Huyện Dương Minh Châu,Tây Ninh,155.0,31.0,5.0,1,Unknow,0.6
+787,9/13/2022,Phường 9,Quận Gò Vấp,TP. Hồ Chí Minh,175.0,22.0,8.0,1,Đ.Nam,15.8
+788,9/13/2022,Thị trấn Bến Cầu,Huyện Bến Cầu,Tây Ninh,80.0,0.0,0.0,1,Unknow,0.58
+789,9/13/2022,Phường Tân Hồng,Thị xã Từ Sơn,Bắc Ninh,90.0,0.0,0.0,0,Unknow,6.0
+790,9/13/2022,Phường Khắc Niệm,Tp. Bắc Ninh,Bắc Ninh,100.0,0.0,0.0,0,Unknow,1.4
+791,9/13/2022,Phường Võ Cường,Tp. Bắc Ninh,Bắc Ninh,64.0,0.0,0.0,1,Unknow,0.87
+792,9/13/2022,Phường Tân Hồng,Thị xã Từ Sơn,Bắc Ninh,90.0,5.0,0.0,1,Unknow,6.1
+793,9/13/2022,Phường Khắc Niệm,Tp. Bắc Ninh,Bắc Ninh,60.0,8.0,0.0,1,Unknow,1.4
+794,9/13/2022,Xã Hoàn Sơn,Huyện Tiên Du,Bắc Ninh,100.0,0.0,0.0,0,Unknow,3.0
+795,9/13/2022,Xã Phước Vĩnh An,Huyện Củ Chi,TP. Hồ Chí Minh,80.0,16.0,5.0,1,Unknow,1.3
+796,9/13/2022,Xã Tân Phước,Huyện Đồng Phú,Bình Phước,100.0,20.0,5.0,1,Unknow,0.85
+797,9/13/2022,Xã Chiềng Sơn,Huyện Mộc Châu,Sơn La,660.0,30.0,20.0,1,Unknow,1.4
+798,9/13/2022,Thị trấn Trảng Bàng,Huyện Trảng Bàng,Tây Ninh,90.0,0.0,0.0,0,Unknow,0.45
+799,9/13/2022,Thị trấn Củ Chi,Huyện Củ Chi,TP. Hồ Chí Minh,100.0,0.0,0.0,0,Unknow,0.65
+800,9/13/2022,Xã Thạnh Bình,Huyện Tân Biên,Tây Ninh,175.0,0.0,0.0,0,Unknow,0.479
+801,9/13/2022,Xã Thanh Hòa,Huyện Bù Đốp,Bình Phước,250.0,0.0,0.0,1,Unknow,0.45
+802,9/12/2022,Thị trấn Dầu Tiếng,Huyện Dầu Tiếng,Bình Dương,319.0,48.0,5.0,1,Unknow,1.2
+803,9/12/2022,Xã Minh Thạnh,Huyện Dầu Tiếng,Bình Dương,369.0,36.0,10.0,1,Unknow,0.95
+804,9/12/2022,Phường Thủy Dương,Thị xã Hương Thủy,Thừa Thiên Huế,108.0,0.0,0.0,1,T.Bắc,4.15
+805,9/12/2022,Phường Linh Trung,Tp. Thủ Đức,TP. Hồ Chí Minh,217.0,0.0,7.0,0,Đ.Nam,18.45
+806,9/12/2022,Xã Tân Lợi,Huyện Đồng Phú,Bình Phước,1000.0,0.0,0.0,1,T.Bắc,0.9
+807,9/12/2022,Xã Lộc Châu,Tp. Bảo Lộc,Lâm Đồng,500.0,10.0,50.0,1,Unknow,0.5
+808,9/12/2022,Phường Tam Phú,Tp. Thủ Đức,TP. Hồ Chí Minh,94.0,0.0,5.0,0,Đ.Nam,8.8
+809,9/12/2022,Thị trấn Nhã Nam,Huyện Tân Yên,Bắc Giang,100.0,0.0,0.0,0,Unknow,2.0
+810,9/12/2022,Xã Xuân Tây,Huyện Cẩm Mỹ,Đồng Nai,2100.0,100.0,21.0,1,Unknow,2.1
+811,9/12/2022,Xã Lộc Nga,Tp. Bảo Lộc,Lâm Đồng,180.0,36.0,5.0,1,Đ.Nam,0.99
+812,9/12/2022,Xã Long Cang,Huyện Cần Đước,Long An,100.0,0.0,0.0,0,Unknow,0.92
+813,9/12/2022,Xã Nhơn Lý,Tp. Qui Nhơn,Bình Định,80.0,16.0,5.0,1,Unknow,4.0
+814,9/12/2022,Xã Long Thành Nam,Huyện Hòa Thành,Tây Ninh,126.9,31.8,4.0,1,Unknow,0.93
+815,9/12/2022,Thị trấn Tân Khai,Huyện Hớn Quản,Bình Phước,500.0,10.0,50.0,1,Đông,0.65
+816,9/12/2022,Phường Phú Mỹ,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,100.0,22.0,5.0,1,Tây,3.9
+817,9/12/2022,Xã Tà Nung,Tp. Đà Lạt,Lâm Đồng,1125.0,20.0,55.0,1,Unknow,11.25
+818,9/12/2022,Xã Lê Minh Xuân,Huyện Bình Chánh,TP. Hồ Chí Minh,30000.0,200.0,150.0,1,Unknow,120.0
+819,9/12/2022,Xã Phạm Văn Cội,Huyện Củ Chi,TP. Hồ Chí Minh,306.0,7.0,43.0,1,Unknow,2.85
+820,9/12/2022,Thị trấn Bến Cầu,Huyện Bến Cầu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.65
+821,9/12/2022,Xã Lộc An,Huyện Bảo Lâm,Lâm Đồng,100.0,0.0,0.0,1,Unknow,0.6
+822,9/12/2022,Xã An Tịnh,Huyện Trảng Bàng,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.67
+823,9/12/2022,Phường Linh Chiểu,Tp. Thủ Đức,TP. Hồ Chí Minh,206.0,0.0,0.0,0,T.Nam,7.0
+824,9/12/2022,Thị trấn Củ Chi,Huyện Củ Chi,TP. Hồ Chí Minh,100.0,20.0,5.0,1,Unknow,0.65
+825,9/12/2022,Xã Hợp Thanh,Huyện Mỹ Đức,TP. Hà Nội,770.0,22.0,20.0,1,Unknow,5.39
+826,9/12/2022,Xã Lộc An,Huyện Long Thành,Đồng Nai,100.0,20.0,5.0,1,T.Nam,3.3
+827,9/12/2022,Xã Đông Xá,Huyện Vân Đồn,Quảng Ninh,90.0,0.0,0.0,0,Unknow,1.9
+828,9/12/2022,Xã An Hải,Huyện Ninh Phước,Ninh Thuận,80.0,20.0,4.0,1,Bắc,1.16
+829,9/12/2022,Xã Tân Phúc,Huyện Hàm Tân,Bình Thuận,100000.0,0.0,0.0,0,Unknow,230.0
+830,9/12/2022,Phường 28,Quận Bình Thạnh,TP. Hồ Chí Minh,750.0,50.0,15.0,1,Unknow,0.49
+831,9/12/2022,Phường Bình Chuẩn,Tp. Thuận An,Bình Dương,70.0,15.0,5.0,0,Unknow,1.7
+832,9/12/2022,Xã Xuy Xá,Huyện Mỹ Đức,TP. Hà Nội,415.0,29.0,13.0,1,Bắc,6.5
+833,9/11/2022,Phường Tân Bình,Tp. Đồng Xoài,Bình Phước,540.0,54.0,10.0,1,Unknow,0.43
+834,9/11/2022,Xã Đặng Xá,Huyện Gia Lâm,TP. Hà Nội,160.0,17.8,9.0,1,Unknow,17.0
+835,9/11/2022,Xã Phước Vĩnh An,Huyện Củ Chi,TP. Hồ Chí Minh,84.0,0.0,0.0,1,Unknow,1.8
+836,9/11/2022,Thị trấn Tân Nghĩa,Huyện Hàm Tân,Bình Thuận,5000.0,0.0,0.0,0,Unknow,15.0
+837,9/10/2022,Phường Thanh Bình,Quận Hải Châu,TP. Đà Nẵng,108.0,15.0,7.2,0,Unknow,9.6
+838,9/10/2022,Xã Minh Lập,Huyện Chơn Thành,Bình Phước,250.0,50.0,5.0,1,Unknow,0.4
+839,9/10/2022,Phường Linh Xuân,Tp. Thủ Đức,TP. Hồ Chí Minh,179.0,17.2,10.42,0,T.Bắc,9.0
+840,9/10/2022,Xã Tân Hoà,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,125.0,25.0,5.0,0,Đ.Nam,1.69
+841,9/10/2022,Xã Tân Hoà,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,125.0,25.0,5.0,0,Đ.Nam,1.69
+842,9/10/2022,Xã Phú Tân,Huyện Định Quán,Đồng Nai,200.0,40.0,5.0,1,Unknow,0.79
+843,9/10/2022,Xã Đức Hòa Đông,Huyện Đức Hòa,Long An,100.0,20.0,5.0,1,Đông,1.8
+844,9/10/2022,Phường Lộc Sơn,Tp. Bảo Lộc,Lâm Đồng,213.0,7.0,30.0,1,Unknow,0.8
+845,9/10/2022,Phường Khuê Mỹ,Quận Ngũ Hành Sơn,TP. Đà Nẵng,322.0,0.0,0.0,0,Unknow,64.0
+846,9/10/2022,Phường Khuê Mỹ,Quận Ngũ Hành Sơn,TP. Đà Nẵng,300.0,0.0,0.0,0,Unknow,64.2
+847,9/10/2022,Phường Mỹ An,Quận Ngũ Hành Sơn,TP. Đà Nẵng,230.0,0.0,0.0,0,Unknow,11.0
+848,9/10/2022,Xã Định Thành,Huyện Dầu Tiếng,Bình Dương,319.0,67.0,5.0,1,T.Nam,1.39
+849,9/10/2022,Xã Diên Thọ,Huyện Diên Khánh,Khánh Hòa,136.0,25.0,5.0,0,Unknow,1.2
+850,9/10/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,20000.0,0.0,0.0,1,Unknow,2.7
+851,9/10/2022,Thị trấn Phố Mới,Huyện Quế Võ,Bắc Ninh,60.0,4.0,0.0,1,Unknow,2.08
+852,9/10/2022,Phường Vân Dương,Tp. Bắc Ninh,Bắc Ninh,66.0,4.95,0.0,1,Unknow,2.15
+853,9/10/2022,Xã Bình Thạnh,Huyện Tuy Phong,Bình Thuận,7527.0,67.0,107.0,1,Unknow,1.1
+854,9/9/2022,Xã Minh Thắng,Huyện Chơn Thành,Bình Phước,270.0,9.0,30.0,1,Unknow,0.7
+855,9/9/2022,Phường Tân Lập,Tp. Buôn Ma Thuột,Đắk Lắk,84.0,12.0,4.0,1,Unknow,0.96
+856,9/9/2022,Xã Minh Hưng,Huyện Chơn Thành,Bình Phước,150.0,30.0,5.0,1,Unknow,0.65
+857,9/9/2022,Xã Minh Thắng,Huyện Chơn Thành,Bình Phước,225.0,5.0,45.0,1,Unknow,1.16
+858,9/9/2022,Thị trấn Nhã Nam,Huyện Tân Yên,Bắc Giang,100.0,20.0,5.0,1,Bắc,3.1
+859,9/9/2022,Xã Vạn Long,Huyện Vạn Ninh,Khánh Hòa,154.0,22.0,7.0,1,T.Nam,1.8
+860,9/9/2022,Xã Ninh Quang,Thị xã Ninh Hòa,Khánh Hòa,141.0,25.0,5.5,0,Đ.Bắc,0.54
+861,9/9/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1059.0,0.0,0.0,0,Unknow,2.65
+862,9/9/2022,Phường Tam Quan,Thị xã Hoài Nhơn,Bình Định,100.0,0.0,0.0,0,Unknow,0.9
+863,9/9/2022,Xã Minh Hoà,Huyện Dầu Tiếng,Bình Dương,163.0,24.0,8.0,1,Unknow,0.96
+864,9/9/2022,Xã Vạn Long,Huyện Vạn Ninh,Khánh Hòa,154.0,22.0,7.0,1,Đ.Bắc,1.85
+865,9/9/2022,Thị trấn Chợ Chùa,Huyện Nghĩa Hành,Quảng Ngãi,100.0,5.0,20.0,1,Đông,0.645
+866,9/9/2022,Phường Phước Vĩnh,Tp. Huế,Thừa Thiên Huế,131.0,17.7,7.3,0,Unknow,3.14
+867,9/9/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,427.0,0.0,0.0,0,Unknow,3.4
+868,9/9/2022,Phường Tân Đồng,Tp. Đồng Xoài,Bình Phước,100.0,0.0,0.0,1,Unknow,0.9
+869,9/9/2022,Phường Trường An,Tp. Huế,Thừa Thiên Huế,131.0,17.5,7.5,1,Bắc,3.14
+870,9/9/2022,Phường Định Hoà,Tp. Thủ Dầu Một,Bình Dương,487.0,35.0,14.0,1,Unknow,1.44
+871,9/9/2022,Xã Tiên Thuận,Huyện Bến Cầu,Tây Ninh,150.0,5.0,20.0,1,Unknow,0.6
+872,9/9/2022,Phường Vĩnh Ninh,Tp. Huế,Thừa Thiên Huế,131.0,17.0,7.0,1,Bắc,3.14
+873,9/9/2022,Thị trấn Bến Cầu,Huyện Bến Cầu,Tây Ninh,150.0,30.0,5.0,1,T.Nam,0.689
+874,9/9/2022,Phường Hòa Xuân,Quận Cẩm Lệ,TP. Đà Nẵng,100.0,20.0,5.0,1,Đ.Nam,4.55
+875,9/9/2022,Xã Gung Ré,Huyện Di Linh,Lâm Đồng,4.4,133.0,33.0,1,Đông,3.9
+876,9/9/2022,Xã Điện Trung,Thị xã Điện Bàn,Quảng Nam,100.0,0.0,0.0,0,Unknow,0.54
+877,9/8/2022,Thị trấn Bến Cầu,Huyện Bến Cầu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.68
+878,9/8/2022,Phường Điện Ngọc,Thị xã Điện Bàn,Quảng Nam,72.0,0.0,0.0,1,Unknow,1.52
+879,9/8/2022,Phường Long Thạnh Mỹ,Tp. Thủ Đức,TP. Hồ Chí Minh,157.5,0.0,0.0,0,Tây,16.0
+880,9/8/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,3856.0,0.0,0.0,1,Unknow,0.964
+881,9/8/2022,Xã Cổ Đông,Thị xã Sơn Tây,TP. Hà Nội,189.0,15.0,12.95,1,Unknow,2.85
+882,9/8/2022,Xã Đại Đồng,Huyện Đại Lộc,Quảng Nam,120.0,6.0,20.0,1,Unknow,0.9
+883,9/8/2022,Phường Hoà Quý,Quận Ngũ Hành Sơn,TP. Đà Nẵng,216.0,21.6,10.0,1,Bắc,9.27
+884,9/8/2022,Phường Lộc Phát,Tp. Bảo Lộc,Lâm Đồng,180.0,18.0,10.0,1,Unknow,4.5
+885,9/8/2022,Phường Linh Xuân,Tp. Thủ Đức,TP. Hồ Chí Minh,84.0,20.9,4.03,0,T.Nam,4.9
+886,9/8/2022,Xã Giang Sơn,Huyện Gia Bình,Bắc Ninh,96.0,0.0,0.0,0,Unknow,0.9
+887,9/8/2022,Phường Tân Hạnh,Tp. Biên Hòa,Đồng Nai,6486.0,146.0,46.98,0,Tây,49.94
+888,9/8/2022,Xã Y Tý,Huyện Bát Xát,Lào Cai,800.0,0.0,0.0,0,Unknow,0.88889
+889,9/8/2022,Xã Y Tý,Huyện Bát Xát,Lào Cai,800.0,0.0,0.0,0,Unknow,0.88889
+890,9/8/2022,Xã An Nhơn Tây,Huyện Củ Chi,TP. Hồ Chí Minh,600.0,0.0,0.0,0,Unknow,6.6
+891,9/8/2022,Xã Bình Hòa,Huyện Vĩnh Cửu,Đồng Nai,208.0,0.0,8.0,1,T.Bắc,3.2
+892,9/8/2022,Xã Lộc Đức,Huyện Bảo Lâm,Lâm Đồng,150.0,30.0,5.0,1,Unknow,0.699
+893,9/8/2022,Xã Y Tý,Huyện Bát Xát,Lào Cai,194.0,0.0,0.0,0,Unknow,0.88889
+894,9/8/2022,Xã Cẩm Giang,Huyện Gò Dầu,Tây Ninh,100.0,20.0,5.0,1,Unknow,0.38
+895,9/8/2022,Xã Long Châu,Huyện Yên Phong,Bắc Ninh,100.0,0.0,0.0,1,Unknow,3.4
+896,9/8/2022,Xã Nhơn Đức,Huyện Nhà Bè,TP. Hồ Chí Minh,98.0,0.0,0.0,0,Unknow,3.1
+897,9/8/2022,Xã Quang Sơn,Huyện Lập Thạch,Vĩnh Phúc,100.0,20.0,5.0,1,T.Nam,1.2
+898,9/8/2022,Xã Tân An,Huyện Vĩnh Cửu,Đồng Nai,100.0,20.0,5.0,1,Tây,2.12
+899,9/7/2022,Xã Đạm Bri,Tp. Bảo Lộc,Lâm Đồng,280.0,17.0,25.0,1,Unknow,3.08
+900,9/7/2022,Phường Vĩnh Phú,Tp. Thuận An,Bình Dương,220.0,10.0,22.0,1,Unknow,9.5
+901,9/7/2022,Xã Phú Vinh,Huyện Định Quán,Đồng Nai,200.0,5.0,40.0,1,Unknow,1.5
+902,9/7/2022,Xã Tiến Thành,Tp. Phan Thiết,Bình Thuận,1500.0,50.0,30.0,1,Unknow,18.0
+903,9/7/2022,Xã Phong Phú,Huyện Bình Chánh,TP. Hồ Chí Minh,280.0,20.0,14.0,0,Unknow,18.0
+904,9/7/2022,Xã Tân Nhựt,Huyện Bình Chánh,TP. Hồ Chí Minh,1050.0,0.0,0.0,0,Unknow,4.5
+905,9/7/2022,Phường Khuê Mỹ,Quận Ngũ Hành Sơn,TP. Đà Nẵng,310.0,0.0,0.0,0,Unknow,40.0
+906,9/7/2022,Phường Linh Xuân,Tp. Thủ Đức,TP. Hồ Chí Minh,60.0,15.0,4.0,0,T.Bắc,4.2
+907,9/7/2022,Phường Linh Đông,Tp. Thủ Đức,TP. Hồ Chí Minh,80.0,20.0,4.0,0,T.Bắc,5.6
+908,9/7/2022,Thị trấn Chơn Thành,Huyện Chơn Thành,Bình Phước,150.0,30.0,5.0,1,Đông,1.31
+909,9/7/2022,Phường Tân An,Tp. Thủ Dầu Một,Bình Dương,90.0,18.0,5.0,1,Unknow,1.79
+910,9/7/2022,Xã Lộc An,Huyện Bảo Lâm,Lâm Đồng,100.0,13.0,6.0,0,Unknow,7.0
+911,9/7/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,1,Unknow,1.79
+912,9/7/2022,Phường Tăng Nhơn Phú B,Tp. Thủ Đức,TP. Hồ Chí Minh,540.0,54.0,10.0,1,Unknow,0.43
+913,9/7/2022,Xã Tân Thành,Tp. Đồng Xoài,Bình Phước,250.0,31.0,8.0,1,Unknow,0.39
+914,9/7/2022,Xã Bình Lợi,Huyện Vĩnh Cửu,Đồng Nai,2986.0,0.0,40.0,1,Unknow,15.0
+915,9/7/2022,Xã Nhuận Đức,Huyện Củ Chi,TP. Hồ Chí Minh,3900.0,80.0,48.0,0,Unknow,10.73
+916,9/7/2022,Xã Bình Lợi,Huyện Vĩnh Cửu,Đồng Nai,1000.0,0.0,20.0,0,Unknow,8.5
+917,9/7/2022,Phường Khuê Mỹ,Quận Ngũ Hành Sơn,Đà Nẵng,120.0,0.0,0.0,0,Unknow,4.2
+918,9/7/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,1,Unknow,1.8
+919,9/7/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,5465.0,0.0,0.0,0,Unknow,1.37
+920,9/7/2022,Xã Long Hoà,Huyện Dầu Tiếng,Bình Dương,414.0,24.0,20.0,1,T.Bắc,1.14
+921,9/7/2022,Phường Phú Mỹ,Tp. Thủ Dầu Một,Bình Dương,135.2,29.0,5.0,1,Đ.Nam,3.5
+922,9/7/2022,Phường Phú Thọ,Tp. Thủ Dầu Một,Bình Dương,176.0,35.2,5.0,1,Nam,5.63
+923,9/7/2022,Xã Minh Thắng,Huyện Chơn Thành,Bình Phước,225.0,5.0,45.0,1,Unknow,1.16
+924,9/7/2022,Phường Khuê Mỹ,Quận Ngũ Hành Sơn,Đà Nẵng,125.0,0.0,0.0,0,Unknow,4.38
+925,9/7/2022,Xã Định Thành,Huyện Dầu Tiếng,Bình Dương,319.0,60.0,5.0,1,Unknow,1.4
+926,9/7/2022,Phường Hiệp Bình Chánh,Tp. Thủ Đức,Hồ Chí Minh,120.0,20.0,6.0,0,Đ.Bắc,13.1
+927,9/7/2022,Phường Xuân Thanh,Tp. Long Khánh,Đồng Nai,2120.0,135.0,15.5,1,Nam,1.91
+928,9/7/2022,Xã Phước Vĩnh An,Huyện Củ Chi,Hồ Chí Minh,84.0,0.0,0.0,1,Unknow,0.45
+929,9/6/2022,Xã Lộc An,Huyện Bảo Lâm,Lâm Đồng,150.0,5.0,30.0,1,Unknow,0.65
+930,9/6/2022,Xã Chiềng Hắc,Huyện Mộc Châu,Sơn La,1150.0,50.0,23.0,1,Unknow,0.9
+931,9/6/2022,Xã Suối Cát,Huyện Xuân Lộc,Đồng Nai,1000.0,41.0,20.0,1,Unknow,1.1
+932,9/6/2022,Thị trấn Lương Sơn,Huyện Bắc Bình,Bình Thuận,16407.0,0.0,0.0,0,Unknow,2.35
+933,9/6/2022,Xã Ninh Quang,Thị xã Ninh Hòa,Khánh Hòa,86.0,0.0,7.0,0,Đ.Nam,0.7
+934,9/6/2022,Thị trấn Bến Cầu,Huyện Bến Cầu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.65
+935,9/6/2022,Phường 1,Thị xã Kiến Tường,Long An,200.0,0.0,0.0,1,Unknow,0.55
+936,9/6/2022,Xã Bình Hòa,Huyện Vĩnh Cửu,Đồng Nai,290.0,0.0,9.0,0,Unknow,3.7
+937,9/6/2022,Thị trấn Tân Túc,Huyện Bình Chánh,Hồ Chí Minh,100.0,20.0,5.0,1,Unknow,1.2
+938,9/6/2022,Phường Trường Thọ,Tp. Thủ Đức,Hồ Chí Minh,215.0,0.0,0.0,0,Đ.Nam,9.0
+939,9/6/2022,Xã Chiềng Sơn,Huyện Mộc Châu,Sơn La,1600.0,45.0,12.0,1,Unknow,1.0
+940,9/6/2022,Thị trấn Lai Uyên,Huyện Bàu Bàng,Bình Dương,150.0,30.0,5.0,1,Unknow,1.8
+941,9/6/2022,Thị trấn Lai Uyên,Huyện Bàu Bàng,Bình Dương,200.0,41.0,5.0,0,Unknow,0.8
+942,9/6/2022,Xã Phú Thượng,Huyện Phú Vang,Thừa Thiên Huế,189.0,22.0,9.0,1,Đông,4.16
+943,9/6/2022,Xã Long Khánh,Huyện Bến Cầu,Tây Ninh,300.0,30.0,10.0,1,Unknow,0.45
+944,9/6/2022,Phường Linh Xuân,Tp. Thủ Đức,Hồ Chí Minh,177.4,20.8,9.6,0,T.Nam,7.0
+945,9/6/2022,Xã Long Khánh,Huyện Bến Cầu,Tây Ninh,200.0,0.0,0.0,1,Unknow,0.7
+946,9/6/2022,Phường Tân Bình,Tp. Đồng Xoài,Bình Phước,150.0,30.0,5.0,1,Unknow,0.75
+947,9/6/2022,Xã An Thạnh,Huyện Bến Lức,Long An,90.0,15.0,6.0,1,Tây,0.83
+948,9/6/2022,Xã Suối Đá,Huyện Dương Minh Châu,Tây Ninh,215.0,10.0,10.0,1,Nam,0.584
+949,9/6/2022,Xã Long Khánh,Huyện Bến Cầu,Tây Ninh,205.0,41.0,5.0,1,Đông,0.565
+950,9/5/2022,Xã Minh Thắng,Huyện Chơn Thành,Bình Phước,225.0,45.0,5.0,1,Unknow,1.1
+951,9/5/2022,Xã Bình Tú,Huyện Thăng Bình,Quảng Nam,125.0,25.0,5.0,1,Đông,2.19
+952,9/5/2022,Xã Lộc Thịnh,Huyện Lộc Ninh,Bình Phước,270.0,9.0,30.0,1,Unknow,0.7
+953,9/5/2022,Xã Lai Hưng,Huyện Bàu Bàng,Bình Dương,100.0,20.0,5.0,1,T.Nam,1.05
+954,9/5/2022,Phường Hưng Bình,Tp. Vinh,Nghệ An,123.0,15.0,7.81,1,Đ.Nam,8.0
+955,9/5/2022,Phường Hạp Lĩnh,Tp. Bắc Ninh,Bắc Ninh,65.0,10.0,6.5,1,Đông,1.25
+956,9/5/2022,Xã Hàm Chính,Huyện Hàm Thuận Bắc,Bình Thuận,1285.0,0.0,0.0,1,Unknow,0.64
+957,9/5/2022,Xã Đồng Tiến,Huyện Đồng Phú,Bình Phước,250.0,25.0,10.0,1,Unknow,0.3
+958,9/5/2022,Xã Lộc Ngãi,Huyện Bảo Lâm,Lâm Đồng,240.0,8.0,40.0,1,Unknow,1.0
+959,9/5/2022,Xã An Nhơn Tây,Huyện Củ Chi,Hồ Chí Minh,104.0,20.0,5.2,1,Unknow,0.9
+960,9/5/2022,Phường Khúc Xuyên,Tp. Bắc Ninh,Bắc Ninh,72.0,16.0,4.5,1,T.Bắc,3.56
+961,9/5/2022,Xã Phú Thượng,Huyện Phú Vang,Thừa Thiên Huế,198.0,22.0,9.0,1,Đông,4.36
+962,9/5/2022,Xã Vạn Long,Huyện Vạn Ninh,Khánh Hòa,154.0,22.0,7.0,1,Unknow,1.8
+963,9/5/2022,Xã Thạnh Tân,Tp. Tây Ninh,Tây Ninh,200.0,5.0,40.0,1,Unknow,1.18
+964,9/5/2022,Phường 3,Tp. Tây Ninh,Tây Ninh,120.0,5.0,24.0,1,Unknow,0.68
+965,9/5/2022,Xã Diên Thọ,Huyện Diên Khánh,Khánh Hòa,136.0,27.0,5.0,0,T.Bắc,1.2
+966,9/5/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,3856.0,0.0,0.0,1,Unknow,0.964
+967,9/5/2022,Xã Nhựt Chánh,Huyện Bến Lức,Long An,500.0,50.0,5.0,1,Unknow,3.8
+968,9/5/2022,Phường An Hòa,Tp. Rạch Giá,Kiên Giang,3569.0,97.0,38.0,1,T.Nam,9.8
+969,9/5/2022,Xã Sông Ray,Huyện Cẩm Mỹ,Đồng Nai,1000.0,0.0,0.0,0,Unknow,1.1
+970,9/5/2022,Phường Tân An,Tp. Thủ Dầu Một,Bình Dương,91.5,19.0,5.0,1,Unknow,1.86
+971,9/4/2022,Xã Lộc Đức,Huyện Bảo Lâm,Lâm Đồng,150.0,0.0,0.0,1,Unknow,0.655
+972,9/4/2022,Xã Lâm San,Huyện Cẩm Mỹ,Đồng Nai,1000.0,50.0,20.0,1,Unknow,1.7
+973,9/4/2022,Xã Bình Châu,Huyện Xuyên Mộc,Bà Rịa - Vũng Tàu,2213.9,0.0,0.0,0,Unknow,36.0
+974,9/4/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,300.0,30.0,10.0,1,Unknow,1.78
+975,9/4/2022,Phường Linh Trung,Tp. Thủ Đức,Hồ Chí Minh,173.0,19.0,9.5,0,T.Nam,15.5
+976,9/4/2022,Phường Linh Trung,Tp. Thủ Đức,Hồ Chí Minh,172.0,0.0,9.2,0,Đ.Nam,18.2
+977,9/4/2022,Phường Linh Trung,Tp. Thủ Đức,Hồ Chí Minh,54.0,9.9,5.5,0,T.Nam,5.7
+978,9/4/2022,Xã Bắc Phong,Huyện Thuận Bắc,Ninh Thuận,1049.0,0.0,0.0,0,Unknow,2.7
+979,9/4/2022,Phường Linh Trung,Tp. Thủ Đức,Hồ Chí Minh,85.0,12.8,6.6,0,T.Bắc,5.7
+980,9/3/2022,Xã Phước Vinh,Huyện Châu Thành,Tây Ninh,175.0,0.0,0.0,0,Unknow,0.46
+981,9/3/2022,Phường Linh Trung,Tp. Thủ Đức,Hồ Chí Minh,89.6,0.0,6.45,0,Unknow,5.4
+982,9/3/2022,Phường Linh Trung,Tp. Thủ Đức,Hồ Chí Minh,102.0,17.0,6.0,0,Đ.Bắc,7.0
+983,9/3/2022,Phường Linh Trung,Tp. Thủ Đức,Hồ Chí Minh,67.0,0.0,3.99,0,T.Bắc,5.7
+984,9/3/2022,Phường Phú Hữu,Tp. Thủ Đức,Hồ Chí Minh,52.0,4.0,12.0,1,Đông,4.15
+985,9/3/2022,Phường Linh Trung,Tp. Thủ Đức,Hồ Chí Minh,173.0,21.0,8.0,0,T.Nam,17.5
+986,9/2/2022,Xã Lộc Châu,Tp. Bảo Lộc,Lâm Đồng,548.0,10.0,54.8,1,Unknow,1.29
+987,9/2/2022,Xã Chiềng Sơn,Huyện Mộc Châu,Sơn La,660.0,0.0,0.0,0,Unknow,1.11
+988,9/2/2022,Thị trấn Phố Mới,Huyện Quế Võ,Bắc Ninh,60.0,4.0,0.0,1,Unknow,2.08
+989,9/2/2022,Phường Linh Trung,Tp. Thủ Đức,Hồ Chí Minh,61.0,14.99,4.0,0,Nam,5.4
+990,9/2/2022,Phường Khắc Niệm,Tp. Bắc Ninh,Bắc Ninh,60.0,8.0,0.0,1,Unknow,1.4
+991,9/1/2022,Xã Minh Lập,Huyện Chơn Thành,Bình Phước,250.0,50.0,5.0,1,Unknow,0.45
+992,9/1/2022,Xã Tiên Thuận,Huyện Bến Cầu,Tây Ninh,150.0,5.0,30.0,1,Unknow,0.45
+993,9/1/2022,Thị trấn Dương Minh Châu,Huyện Dương Minh Châu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.38
+994,9/1/2022,Xã Phú Hòa Đông,Huyện Củ Chi,Hồ Chí Minh,1800.0,57.0,35.0,1,Đông,2.55
+995,9/1/2022,Phường An Phú,Tp. Thuận An,Bình Dương,98.0,17.5,5.5,1,Đ.Nam,2.5
+996,9/1/2022,Phường Linh Trung,Tp. Thủ Đức,Hồ Chí Minh,62.0,0.0,4.0,0,Unknow,5.7
+997,9/1/2022,Xã Phước Đông,Huyện Gò Dầu,Tây Ninh,125.0,25.0,5.0,1,Unknow,0.868
+998,9/1/2022,Phường Điện Ngọc,Thị xã Điện Bàn,Quảng Nam,90.0,18.0,5.0,1,Unknow,2.16
+999,9/1/2022,Thị trấn Bến Cầu,Huyện Bến Cầu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.65
+1000,9/1/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,0,Unknow,1.69
+1001,9/1/2022,Xã Y Tý,Huyện Bát Xát,Lào Cai,1084.0,0.0,0.0,0,Unknow,0.88889
+1002,9/1/2022,Xã Phật Tích,Huyện Tiên Du,Bắc Ninh,78.0,0.0,0.0,1,Unknow,0.9
+1003,9/1/2022,Phường Linh Trung,Tp. Thủ Đức,Hồ Chí Minh,99.7,16.0,5.41,0,Đ.Bắc,6.4
+1004,9/1/2022,Xã Tân Hải,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,195.0,116.0,6.0,1,Unknow,3.5
+1005,8/31/2022,Xã An Nhơn Tây,Huyện Củ Chi,Hồ Chí Minh,600.0,0.0,0.0,0,Unknow,6.6
+1006,8/31/2022,Xã Phú Cát,Huyện Quốc Oai,Hà Nội,100.0,25.0,5.0,1,Đ.Nam,2.5
+1007,8/31/2022,Xã Nhựt Chánh,Huyện Bến Lức,Long An,100.0,20.0,5.0,1,Unknow,1.68
+1008,8/31/2022,Xã Lộc An,Huyện Bảo Lâm,Lâm Đồng,200.0,0.0,0.0,1,Unknow,0.7
+1009,8/31/2022,Phường Điện Nam Bắc,Thị xã Điện Bàn,Quảng Nam,99.0,5.0,19.9,1,Unknow,2.3
+1010,8/31/2022,Xã Tân Lợi,Huyện Đồng Phú,Bình Phước,1000.0,50.0,20.0,1,T.Bắc,0.5
+1011,8/31/2022,Xã Lộc Ngãi,Huyện Bảo Lâm,Lâm Đồng,130.0,5.0,22.0,1,Unknow,1.0
+1012,8/31/2022,Phường Long Trường,Tp. Thủ Đức,Hồ Chí Minh,82.0,21.0,4.0,1,Đông,4.26
+1013,8/31/2022,Xã Xuân Hiệp,Huyện Xuân Lộc,Đồng Nai,2000.0,135.0,15.5,1,Nam,1.8
+1014,8/31/2022,Thị trấn Cần Đước,Huyện Cần Đước,Long An,83.0,17.6,4.8,1,Unknow,1.0
+1015,8/31/2022,Xã Phước Thạnh,Huyện Củ Chi,Hồ Chí Minh,290.0,29.0,10.0,1,Unknow,1.55
+1016,8/31/2022,Xã Phước Vĩnh An,Huyện Củ Chi,Hồ Chí Minh,85.0,0.0,0.0,1,Unknow,0.649
+1017,8/31/2022,Thị trấn Lương Sơn,Huyện Bắc Bình,Bình Thuận,14.16,0.0,0.0,1,Unknow,1.7
+1018,8/31/2022,Phường Vĩ Dạ,Tp. Huế,Thừa Thiên Huế,119.0,16.0,7.5,1,Bắc,3.81
+1019,8/31/2022,Xã Quang Minh,Huyện Chơn Thành,Bình Phước,255.0,5.0,45.0,1,Đ.Nam,0.66
+1020,8/31/2022,Thị trấn Trảng Bàng,Huyện Trảng Bàng,Tây Ninh,150.0,30.0,5.0,1,T.Nam,0.569
+1021,8/31/2022,Phường Hòa Hiệp Nam,Quận Liên Chiểu,Đà Nẵng,90.0,0.0,0.0,1,Unknow,2.5
+1022,8/31/2022,Thị trấn Gò Dầu,Huyện Gò Dầu,Tây Ninh,200.0,30.0,10.0,1,Unknow,0.8
+1023,8/31/2022,Xã Đồng Tiến,Huyện Đồng Phú,Bình Phước,250.0,50.0,5.0,1,Đông,0.79
+1024,8/31/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1000.0,22.0,47.0,0,Unknow,3.5
+1025,8/31/2022,Xã Nhân Trạch,Huyện Bố Trạch,Quảng Bình,180.0,20.0,8.0,1,Đông,0.5
+1026,8/31/2022,Xã Phước Vĩnh An,Huyện Củ Chi,Hồ Chí Minh,96.0,19.4,5.0,1,Unknow,1.73
+1027,8/31/2022,Phường Tân Vạn,Tp. Biên Hòa,Đồng Nai,800.0,0.0,14.0,0,Unknow,10.5
+1028,8/31/2022,Xã Hòa Thắng,Huyện Bắc Bình,Bình Thuận,1000.0,110.0,39.0,1,Unknow,2.8
+1029,8/31/2022,Xã Định Hiệp,Huyện Dầu Tiếng,Bình Dương,231.0,21.0,11.0,1,Unknow,1.38
+1030,8/31/2022,Phường Mỹ Phước,Thị xã Bến Cát,Bình Dương,90.0,18.0,5.0,1,Unknow,1.1
+1031,8/31/2022,Phường Linh Tây,Tp. Thủ Đức,Hồ Chí Minh,108.7,0.0,0.0,0,Đ.Nam,8.2
+1032,8/31/2022,Phường Linh Tây,Tp. Thủ Đức,Hồ Chí Minh,103.5,20.0,5.0,0,Nam,7.0
+1033,8/31/2022,Xã Y Tý,Huyện Bát Xát,Lào Cai,1084.0,50.0,24.0,1,Unknow,4.0
+1034,8/31/2022,Xã Bình Tú,Huyện Thăng Bình,Quảng Nam,125.0,25.0,5.0,1,Đông,2.25
+1035,8/31/2022,Xã Y Tý,Huyện Bát Xát,Lào Cai,1084.0,0.0,0.0,0,Unknow,1.23
+1036,8/31/2022,Phường Phú Mỹ,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,129.47,25.58,5.12,1,Unknow,1.5
+1037,8/31/2022,Xã Hưng Lộc,Huyện Thống Nhất,Đồng Nai,100.0,5.0,20.0,1,Đ.Nam,1.35
+1038,8/31/2022,Xã Phú Ngọc,Huyện Định Quán,Đồng Nai,11583.0,345.0,30.0,0,T.Bắc,5.5
+1039,8/31/2022,Phường Linh Tây,Tp. Thủ Đức,Hồ Chí Minh,91.0,0.0,6.0,0,T.Nam,8.3
+1040,8/31/2022,Xã Hưng Lộc,Huyện Thống Nhất,Đồng Nai,100.0,5.0,20.0,1,Nam,1.35
+1041,8/31/2022,Phường Pom Hán,Tp. Lào Cai,Lào Cai,100.0,20.0,5.0,0,Nam,2.0
+1042,8/31/2022,Phường Long Bình Tân,Tp. Biên Hòa,Đồng Nai,100.0,24.0,5.0,1,Đ.Nam,4.1
+1043,8/31/2022,Xã Lộc An,Huyện Đất Đỏ,Bà Rịa - Vũng Tàu,222.0,44.45,5.05,1,Tây,2.0
+1044,8/31/2022,Phường Tân Biên,Tp. Biên Hòa,Đồng Nai,72.0,15.98,4.0,1,Đ.Bắc,1.2
+1045,8/31/2022,Phường An Hoà,Tp. Biên Hòa,Đồng Nai,72.0,4.0,16.0,1,Đ.Nam,1.68
+1046,8/31/2022,Phường Hiệp Hòa,Tp. Biên Hòa,Đồng Nai,210.0,45.97,6.2,1,Đ.Nam,7.1
+1047,8/31/2022,Xã Phú Mãn,Huyện Quốc Oai,Hà Nội,120.0,24.0,5.0,1,Đ.Nam,3.5
+1048,8/31/2022,Xã Tân Phú Trung,Huyện Củ Chi,Hồ Chí Minh,140.0,0.0,0.0,0,Unknow,0.76
+1049,8/31/2022,Xã Y Tý,Huyện Bát Xát,Lào Cai,1084.0,0.0,0.0,0,Unknow,1.23
+1050,8/31/2022,Phường Mỹ Bình,Tp. Phan Rang-Tháp Chàm,Ninh Thuận,100.0,0.0,0.0,1,Unknow,9.0
+1051,8/31/2022,Phường Vĩnh Thọ,Tp. Nha Trang,Khánh Hòa,206.0,39.0,5.2,1,Bắc,14.0
+1052,8/31/2022,Phường Long Bình Tân,Tp. Biên Hòa,Đồng Nai,100.0,20.0,5.0,1,Unknow,3.3
+1053,8/31/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,0,Unknow,1.58
+1054,8/31/2022,Xã Lộc Giang,Huyện Đức Hòa,Long An,240.0,40.0,6.0,1,Unknow,3.4
+1055,8/31/2022,Xã Hưng Long,Huyện Bình Chánh,Hồ Chí Minh,120.0,24.0,5.0,1,Đông,0.295
+1056,8/31/2022,Xã Minh Lập,Huyện Chơn Thành,Bình Phước,240.0,51.0,5.0,1,Đông,0.75
+1057,8/31/2022,Phường Hiệp Thành,Tp. Thủ Dầu Một,Bình Dương,360.0,6.0,30.0,1,Đông,1.6
+1058,8/31/2022,Xã Liên Bão,Huyện Tiên Du,Bắc Ninh,90.0,5.0,0.0,1,Unknow,4.45
+1059,8/31/2022,Phường Vũ Ninh,Tp. Bắc Ninh,Bắc Ninh,83.7,6.7,0.0,1,Unknow,6.0
+1060,8/30/2022,Phường Võ Cường,Tp. Bắc Ninh,Bắc Ninh,48.6,6.5,0.0,1,Unknow,2.75
+1061,8/30/2022,Xã Vinh Thanh,Huyện Phú Vang,Thừa Thiên Huế,200.0,25.0,8.0,0,Đ.Bắc,1.2
+1062,8/30/2022,Phường Mỹ Phước,Thị xã Bến Cát,Bình Dương,100.0,0.0,0.0,1,Unknow,0.83
+1063,8/30/2022,Phường Hòa Xuân,Quận Cẩm Lệ,Đà Nẵng,97.0,19.5,5.01,1,Unknow,3.62
+1064,8/30/2022,Xã Tân Xã,Huyện Thạch Thất,Hà Nội,150.0,23.0,7.0,1,Unknow,2.25
+1065,8/30/2022,Xã Tân An Hội,Huyện Củ Chi,Hồ Chí Minh,150.0,30.0,5.0,1,Unknow,0.7
+1066,8/30/2022,Thị trấn Trảng Bàng,Huyện Trảng Bàng,Tây Ninh,100.0,5.0,20.0,1,Unknow,0.5
+1067,8/30/2022,Xã Sông Xoài,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,203.0,37.0,5.5,1,Unknow,1.43
+1068,8/30/2022,Thị trấn Gò Dầu,Huyện Gò Dầu,Tây Ninh,120.0,5.0,24.0,1,Unknow,0.48
+1069,8/30/2022,Xã Liên Bão,Huyện Tiên Du,Bắc Ninh,100.0,0.0,0.0,1,Unknow,2.0
+1070,8/30/2022,Phường Võ Cường,Tp. Bắc Ninh,Bắc Ninh,107.0,0.0,0.0,0,Unknow,2.0
+1071,8/30/2022,Phường Vân Dương,Tp. Bắc Ninh,Bắc Ninh,49.0,0.0,0.0,1,Unknow,1.3
+1072,8/30/2022,Xã Thủy Thanh,Thị xã Hương Thủy,Thừa Thiên Huế,108.0,16.0,7.0,1,T.Bắc,4.15
+1073,8/30/2022,Phường Hiệp Hòa,Tp. Biên Hòa,Đồng Nai,83.0,0.0,4.5,0,Bắc,5.0
+1074,8/30/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,1,Unknow,2.0
+1075,8/30/2022,Xã Nhựt Chánh,Huyện Bến Lức,Long An,300.0,20.0,15.0,1,Đ.Nam,1.6
+1076,8/30/2022,Xã Mỹ Thạnh,Huyện Thủ Thừa,Long An,6300.0,0.0,0.0,0,Unknow,18.9
+1077,8/30/2022,Xã Chiềng Sơn,Huyện Mộc Châu,Sơn La,499.0,12.0,0.0,1,Unknow,0.7
+1078,8/30/2022,Xã Xuân Hiệp,Huyện Xuân Lộc,Đồng Nai,1100.0,100.0,12.0,1,Đ.Nam,0.88
+1079,8/30/2022,Xã Lộc Thạnh,Huyện Lộc Ninh,Bình Phước,151.0,30.0,5.0,1,Unknow,0.419
+1080,8/30/2022,Phường 1,Tp. Bảo Lộc,Lâm Đồng,500.0,0.0,0.0,1,Unknow,5.5
+1081,8/30/2022,Xã Tân Lợi,Huyện Đồng Phú,Bình Phước,220.0,55.0,5.0,1,Bắc,0.86
+1082,8/30/2022,Xã Nhơn Đức,Huyện Nhà Bè,Hồ Chí Minh,98.0,11.0,9.0,0,Unknow,3.1
+1083,8/30/2022,Xã Long Khánh,Huyện Bến Cầu,Tây Ninh,500.0,10.0,10.0,1,Unknow,1.4
+1084,8/30/2022,Xã Xuân Tây,Huyện Cẩm Mỹ,Đồng Nai,2000.0,100.0,20.0,1,Unknow,1.96
+1085,8/30/2022,Phường Điện Nam Bắc,Thị xã Điện Bàn,Quảng Nam,100.0,20.0,5.0,1,Đ.Bắc,2.22
+1086,8/30/2022,Phường Hoà Hải,Quận Ngũ Hành Sơn,Đà Nẵng,100.0,5.0,20.0,1,Đ.Nam,4.35
+1087,8/30/2022,Phường Long Bình Tân,Tp. Biên Hòa,Đồng Nai,128.0,16.0,8.0,1,Unknow,7.5
+1088,8/30/2022,Xã Đạm Bri,Tp. Bảo Lộc,Lâm Đồng,300.0,10.0,30.0,1,Unknow,1.5
+1089,8/30/2022,Xã Vạn Long,Huyện Vạn Ninh,Khánh Hòa,124.0,0.0,0.0,0,Unknow,1.98
+1090,8/30/2022,Xã Hiệp Thạnh,Huyện Gò Dầu,Tây Ninh,230.0,29.0,5.0,1,Unknow,0.77
+1091,8/29/2022,Phường Phú Mỹ,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,190.0,38.0,5.0,1,Đ.Nam,4.7
+1092,8/29/2022,Phường Trường Thọ,Tp. Thủ Đức,Hồ Chí Minh,120.0,20.0,6.0,0,T.Bắc,10.0
+1093,8/29/2022,Phường Tam Hiệp,Tp. Biên Hòa,Đồng Nai,137.0,0.0,5.7,0,Unknow,3.3
+1094,8/29/2022,Xã Bàu Trâm,Tp. Long Khánh,Đồng Nai,85.0,0.0,0.0,1,Unknow,1.4
+1095,8/29/2022,Phường Tân Bình,Tp. Đồng Xoài,Bình Phước,100.0,20.0,5.0,0,Unknow,0.42
+1096,8/29/2022,Xã An Nhơn Tây,Huyện Củ Chi,Hồ Chí Minh,600.0,60.0,10.0,0,Unknow,6.6
+1097,8/29/2022,Xã Cư M'gar,Huyện Cư M'gar,Đắk Lắk,10000.0,5000.0,2000.0,1,Unknow,1.0
+1098,8/29/2022,Xã Y Tý,Huyện Bát Xát,Lào Cai,1084.0,0.0,0.0,0,Unknow,1.23
+1099,8/29/2022,Xã Lang Quán,Huyện Yên Sơn,Tuyên Quang,63363.0,0.0,0.0,0,Unknow,12.0
+1100,8/29/2022,Xã Nhơn Đức,Huyện Nhà Bè,Hồ Chí Minh,98.0,9.0,11.0,0,Unknow,3.1
+1101,8/29/2022,Xã Liên Ninh,Huyện Thanh Trì,Hà Nội,40.0,0.0,0.0,1,Unknow,1.0
+1102,8/29/2022,Thị trấn Cam Lộ,Huyện Cam Lộ,Quảng Trị,110.0,6.0,18.0,1,Unknow,0.95
+1103,8/29/2022,Xã Minh Thạnh,Huyện Dầu Tiếng,Bình Dương,1213.0,44.0,52.0,1,Đ.Bắc,1.57
+1104,8/29/2022,Thị trấn Gò Dầu,Huyện Gò Dầu,Tây Ninh,150.0,5.0,30.0,1,Đ.Bắc,0.39
+1105,8/29/2022,Xã Cổ Đông,Thị xã Sơn Tây,Hà Nội,90.0,16.0,5.5,1,Nam,1.15
+1106,8/29/2022,Thị trấn Phố Mới,Huyện Quế Võ,Bắc Ninh,60.0,0.0,0.0,0,Unknow,6.1
+1107,8/29/2022,Xã An Tây,Thị xã Bến Cát,Bình Dương,390.0,60.0,12.0,0,Đ.Nam,4.25
+1108,8/29/2022,Xã Phật Tích,Huyện Tiên Du,Bắc Ninh,1000.0,0.0,0.0,0,Unknow,8.0
+1109,8/29/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,300.0,30.0,10.0,0,Unknow,1.48
+1110,8/29/2022,Xã Phước Đông,Huyện Gò Dầu,Tây Ninh,125.0,25.0,5.0,1,Unknow,0.855
+1111,8/29/2022,Xã Yên Trung,Huyện Yên Phong,Bắc Ninh,90.0,0.0,0.0,1,T.Bắc,4.2
+1112,8/28/2022,Xã Định Thành,Huyện Dầu Tiếng,Bình Dương,319.0,60.0,5.0,1,Unknow,1.4
+1113,8/28/2022,Xã Minh Thạnh,Huyện Dầu Tiếng,Bình Dương,369.0,36.0,10.0,1,Unknow,0.95
+1114,8/28/2022,Xã Ea Kênh,Huyện Krông Pắc,Đắk Lắk,105.0,5.0,21.0,1,Unknow,0.42
+1115,8/28/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,300.0,30.0,5.0,0,Unknow,1.65
+1116,8/27/2022,Phường Linh Xuân,Tp. Thủ Đức,Hồ Chí Minh,81.0,12.3,5.0,0,T.Nam,4.55
+1117,8/27/2022,Phường Bảo Vinh,Tp. Long Khánh,Đồng Nai,100.0,20.0,5.0,1,Tây,4.3
+1118,8/27/2022,Phường Tân An,Tp. Thủ Dầu Một,Bình Dương,90.0,17.52,5.0,1,Đ.Nam,2.56
+1119,8/27/2022,Xã Tân Phong,Huyện Tân Biên,Tây Ninh,150.0,0.0,0.0,0,Unknow,0.45
+1120,8/27/2022,Xã Tân Phúc,Huyện Hàm Tân,Bình Thuận,100000.0,0.0,0.0,0,Unknow,230.0
+1121,8/27/2022,Xã Phước An,Huyện Hớn Quản,Bình Phước,200.0,40.0,5.0,1,Unknow,0.5
+1122,8/27/2022,Xã Phú Cát,Huyện Quốc Oai,Hà Nội,271.0,33.0,8.0,1,Unknow,2.17
+1123,8/27/2022,Thị trấn Tân Trụ,Huyện Tân Trụ,Long An,100.0,20.0,5.0,1,Đ.Nam,0.9
+1124,8/27/2022,Phường Thắng Tam,Tp. Vũng Tàu,Bà Rịa - Vũng Tàu,150.0,0.0,0.0,1,Unknow,9.5
+1125,8/27/2022,Xã Mỹ Hạnh Nam,Huyện Đức Hòa,Long An,100.0,0.0,0.0,1,Unknow,1.8
+1126,8/27/2022,Phường Bửu Long,Tp. Biên Hòa,Đồng Nai,81.0,0.0,4.0,0,Unknow,2.8
+1127,8/27/2022,Thị trấn Gò Dầu,Huyện Gò Dầu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.599
+1128,8/27/2022,Phường Yên Nghĩa,Quận Hà Đông,Hà Nội,30.0,10.0,3.0,1,T.Bắc,2.57
+1129,8/27/2022,Xã Chiềng Sơn,Huyện Mộc Châu,Sơn La,660.0,0.0,0.0,0,Unknow,0.8148099999999999
+1130,8/27/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,4.98,1,Unknow,1.65
+1131,8/27/2022,Thị trấn Bến Lức,Huyện Bến Lức,Long An,100.0,20.0,5.0,1,Unknow,1.2
+1132,8/27/2022,Xã Hợp Thanh,Huyện Mỹ Đức,Hà Nội,76.0,15.0,4.0,1,T.Bắc,0.685
+1133,8/26/2022,Xã Vạn Bình,Huyện Vạn Ninh,Khánh Hòa,8000.0,86.0,84.0,1,Unknow,3.6
+1134,8/26/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,1,Unknow,1.73
+1135,8/26/2022,Phường Tân Thiện,Tp. Đồng Xoài,Bình Phước,100.0,20.0,5.0,0,Đông,0.6
+1136,8/26/2022,Phường Khuê Trung,Quận Cẩm Lệ,Đà Nẵng,122.5,24.5,5.0,1,Nam,5.6
+1137,8/26/2022,Xã Chiềng Sơn,Huyện Mộc Châu,Sơn La,660.0,30.0,20.0,1,Unknow,2.3
+1138,8/26/2022,Phường Thủy Dương,Thị xã Hương Thủy,Thừa Thiên Huế,300.0,20.0,15.0,0,T.Bắc,9.75
+1139,8/26/2022,Phường Linh Xuân,Tp. Thủ Đức,Hồ Chí Minh,105.0,23.0,4.5,1,Đ.Nam,4.5
+1140,8/26/2022,Xã Phước Vĩnh An,Huyện Củ Chi,Hồ Chí Minh,86.0,16.6,5.2,1,Unknow,0.65
+1141,8/26/2022,Xã Tiên Thuận,Huyện Bến Cầu,Tây Ninh,190.0,5.5,30.0,1,Unknow,0.93
+1142,8/26/2022,Phường Điện Ngọc,Thị xã Điện Bàn,Quảng Nam,96.0,0.0,0.0,1,Unknow,1.15
+1143,8/26/2022,Phường Tân An,Tp. Thủ Dầu Một,Bình Dương,91.5,18.51,5.0,1,Unknow,1.86
+1144,8/26/2022,Xã Hựu Thạnh,Huyện Đức Hòa,Long An,100.0,20.0,5.0,1,Unknow,0.85
+1145,8/26/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,300.0,30.0,10.0,0,Unknow,1.65
+1146,8/26/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,1,Unknow,1.87
+1147,8/26/2022,Thị trấn Phố Mới,Huyện Quế Võ,Bắc Ninh,60.0,4.0,0.0,1,Unknow,2.08
+1148,8/26/2022,Xã An Thạnh,Huyện Bến Lức,Long An,100.0,6.0,16.0,1,Unknow,0.85
+1149,8/26/2022,Xã Lộc Tân,Huyện Bảo Lâm,Lâm Đồng,200.0,10.0,20.0,1,Unknow,2.0
+1150,8/26/2022,Xã Tân Hiệp,Huyện Phú Giáo,Bình Dương,1000.0,100.0,10.0,1,Đ.Nam,1.5
+1151,8/26/2022,Xã An Thạnh,Huyện Bến Lức,Long An,96.6,17.0,5.0,0,Unknow,0.8
+1152,8/26/2022,Xã Lộc Thạnh,Huyện Lộc Ninh,Bình Phước,300.0,30.0,10.0,1,Unknow,0.669
+1153,8/26/2022,Xã Chà Vàl,Huyện Nam Giang,Quảng Nam,100.0,20.0,5.0,1,Unknow,0.35
+1154,8/26/2022,Xã Bàu Trâm,Tp. Long Khánh,Đồng Nai,85.0,0.0,0.0,1,Unknow,1.4
+1155,8/26/2022,Xã Long Định,Huyện Cần Đước,Long An,78.0,13.0,6.0,0,Unknow,1.35
+1156,8/26/2022,Xã Nha Bích,Huyện Chơn Thành,Bình Phước,200.0,5.0,40.0,1,Unknow,0.8
+1157,8/26/2022,Xã Phước Vĩnh An,Huyện Củ Chi,Hồ Chí Minh,84.0,0.0,0.0,1,Unknow,0.65
+1158,8/26/2022,Thị trấn Gò Dầu,Huyện Gò Dầu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.6
+1159,8/26/2022,Thị trấn Hậu Nghĩa,Huyện Đức Hòa,Long An,100.0,20.0,5.0,1,Unknow,0.68
+1160,8/26/2022,Xã An Thạnh,Huyện Bến Lức,Long An,93.0,13.09,7.2,0,Unknow,0.84
+1161,8/26/2022,Xã Hòa Thắng,Huyện Bắc Bình,Bình Thuận,602.0,0.0,0.0,0,Unknow,1.63
+1162,8/26/2022,Xã Điện Thọ,Thị xã Điện Bàn,Quảng Nam,327.0,5.0,65.3,0,Unknow,0.679
+1163,8/26/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,1,Unknow,1.69
+1164,8/25/2022,Thị trấn Dầu Tiếng,Huyện Dầu Tiếng,Bình Dương,280.0,45.0,6.0,1,Đông,1.21
+1165,8/25/2022,Phường Tân An,Tp. Thủ Dầu Một,Bình Dương,77.0,19.0,5.0,1,Unknow,1.79
+1166,8/25/2022,Xã Phước Vinh,Huyện Châu Thành,Tây Ninh,175.0,0.0,0.0,0,Unknow,0.46
+1167,8/25/2022,Xã Đông Xá,Huyện Vân Đồn,Quảng Ninh,80.0,0.0,0.0,1,Unknow,2.4
+1168,8/25/2022,Phường Tân Hồng,Thị xã Từ Sơn,Bắc Ninh,90.0,5.0,0.0,1,Unknow,6.1
+1169,8/25/2022,Xã Lộc Ngãi,Huyện Bảo Lâm,Lâm Đồng,200.0,5.0,100.0,1,Unknow,0.5
+1170,8/25/2022,Phường Phú Mỹ,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,125.0,5.0,25.0,1,Unknow,4.7
+1171,8/25/2022,Phường Yên Nghĩa,Quận Hà Đông,Hà Nội,34.0,0.0,0.0,1,Unknow,1.95
+1172,8/25/2022,Xã Long Châu,Huyện Yên Phong,Bắc Ninh,100.0,0.0,0.0,1,Unknow,3.4
+1173,8/25/2022,Xã Mỹ Hà,Huyện Lạng Giang,Bắc Giang,75.0,0.0,0.0,1,Unknow,0.4
+1174,8/25/2022,Xã Tân Phước,Huyện Đồng Phú,Bình Phước,140.0,5.0,28.0,1,Unknow,1.05
+1175,8/25/2022,Phường Hoà Quý,Quận Ngũ Hành Sơn,"Đà Nẵng,",108.5,17.83,6.01,1,T.Bắc,3.56
+1176,8/25/2022,Xã Tiên Thuận,Huyện Bến Cầu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.7
+1177,8/25/2022,Phường Tân Tạo A,Quận Bình Tân,Hồ Chí Minh,152.0,0.0,0.0,1,Unknow,10.0
+1178,8/25/2022,Phường Hoà Nghĩa,Quận Dương Kinh,Hải Phòng,60.0,0.0,4.5,1,Unknow,1.55
+1179,8/25/2022,Phường Đông Hải,Tp. Phan Rang-Tháp Chàm,Ninh Thuận,4039.0,0.0,0.0,1,Unknow,38.37
+1180,8/25/2022,Phường Hoà Quý,Quận Ngũ Hành Sơn,Đà Nẵng,112.0,20.0,5.6,1,T.Nam,2.3
+1181,8/25/2022,Xã Tiến Thành,Tp. Phan Thiết,Bình Thuận,6000.0,120.0,59.99,1,Đ.Nam,120.0
+1182,8/25/2022,Xã Lộc An,Huyện Đất Đỏ,Bà Rịa - Vũng Tàu,222.0,44.45,5.05,1,Tây,2.1
+1183,8/25/2022,Xã Đoàn Kết,Huyện Vân Đồn,Quảng Ninh,124.0,124.0,0.0,1,Unknow,5.3
+1184,8/24/2022,Xã Mỹ Hạnh Nam,Huyện Đức Hòa,Long An,72.0,4.0,18.0,1,Unknow,1.2
+1185,8/24/2022,Phường Tân An,Tp. Thủ Dầu Một,Bình Dương,77.0,19.0,5.0,1,Unknow,1.79
+1186,8/24/2022,Xã Nhơn Hội,Tp. Qui Nhơn,Bình Định,100.0,20.0,5.0,1,Đông,3.0
+1187,8/24/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,450.0,30.0,9.99,0,Unknow,1.85
+1188,8/24/2022,Xã Quang Minh,Huyện Chơn Thành,Bình Phước,250.0,50.0,5.0,1,Unknow,0.66
+1189,8/24/2022,Xã Thạnh Đức,Huyện Gò Dầu,Tây Ninh,140.0,28.0,5.0,0,T.Bắc,0.63
+1190,8/24/2022,Thị trấn Liên Nghĩa,Huyện Đức Trọng,Lâm Đồng,100.0,5.0,20.0,0,Đ.Nam,1.6
+1191,8/24/2022,Xã Lộc Ngãi,Huyện Bảo Lâm,Lâm Đồng,500.0,10.0,20.0,1,Unknow,2.0
+1192,8/24/2022,Xã Minh Thắng,Huyện Chơn Thành,Bình Phước,225.0,5.0,45.0,1,Unknow,1.16
+1193,8/24/2022,Xã Tân Kiên,Huyện Bình Chánh,Hồ Chí Minh,2000.0,97.0,22.0,1,Đ.Bắc,24.0
+1194,8/24/2022,Xã An Nhơn Tây,Huyện Củ Chi,Hồ Chí Minh,249.0,6.5,39.0,1,Unknow,0.91
+1195,8/23/2022,Phường Tây Sơn,Tp. Pleiku,Gia Lai,292.6,8.5,12.0,0,Unknow,17.0
+1196,8/23/2022,Phường Khuê Mỹ,Quận Ngũ Hành Sơn,Đà Nẵng,93.0,23.3,4.0,1,T.Bắc,3.0
+1197,8/23/2022,Phường Tân An,Tp. Thủ Dầu Một,Bình Dương,90.0,18.0,5.0,1,Unknow,1.79
+1198,8/23/2022,Phường Hòa Xuân,Quận Cẩm Lệ,Đà Nẵng,100.0,20.0,5.0,1,Đ.Bắc,4.25
+1199,8/23/2022,Xã Minh Thành,Huyện Chơn Thành,Bình Phước,150.0,0.0,0.0,1,Unknow,1.19
+1200,8/23/2022,Xã Bắc Sơn,Huyện Trảng Bom,Đồng Nai,100.0,5.0,20.0,1,Unknow,1.6
+1201,8/23/2022,Xã Minh Thành,Huyện Chơn Thành,Bình Phước,150.0,0.0,0.0,1,Unknow,1.19
+1202,8/23/2022,Xã Bắc Sơn,Huyện Trảng Bom,Đồng Nai,100.0,5.0,20.0,1,Unknow,1.6
+1203,8/23/2022,Thị trấn Lai Uyên,Huyện Bàu Bàng,Bình Dương,150.0,5.0,30.0,1,Đ.Nam,1.79
+1204,8/23/2022,Thị trấn Chợ Chùa,Huyện Nghĩa Hành,Quảng Ngãi,100.0,5.0,20.0,1,Đông,0.65
+1205,8/23/2022,Phường Phú Mỹ,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,190.0,37.0,6.0,1,Đ.Bắc,5.4
+1206,8/23/2022,Xã Đức Lập Thượng,Huyện Đức Hòa,Long An,100.0,20.0,5.0,1,Đ.Nam,0.7
+1207,8/23/2022,Phường Hòa Hiệp Nam,Quận Liên Chiểu,Đà Nẵng,120.0,0.0,0.0,0,Unknow,3.0
+1208,8/23/2022,Phường Phú Mỹ,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,100.0,20.0,5.0,1,Đ.Bắc,3.9
+1209,8/23/2022,Xã Yên Bài,Huyện Ba Vì,Hà Nội,570.0,38.0,15.0,1,Unknow,5.2
+1210,8/23/2022,Xã Đạ Pal,Huyện Đạ Tẻh,Lâm Đồng,9023.0,200.0,55.0,0,Nam,3.0
+1211,8/23/2022,Xã Lộc Thịnh,Huyện Lộc Ninh,Bình Phước,230.0,50.0,5.0,1,Unknow,0.448
+1212,8/23/2022,Phường Linh Đông,Tp. Thủ Đức,Hồ Chí Minh,98.6,20.0,5.0,0,Đ.Bắc,6.4
+1213,8/23/2022,Phường Linh Đông,Tp. Thủ Đức,Hồ Chí Minh,95.3,19.0,5.0,0,Đ.Nam,7.8
+1214,8/22/2022,Phường Trường Thọ,Tp. Thủ Đức,Hồ Chí Minh,91.4,0.0,0.0,0,T.Bắc,6.7
+1215,8/22/2022,Xã Tiên Thuận,Huyện Bến Cầu,Tây Ninh,125.0,5.0,25.0,1,Unknow,0.688
+1216,8/22/2022,Xã Minh Hoà,Huyện Dầu Tiếng,Bình Dương,1244.0,130.0,10.0,1,T.Bắc,0.86
+1217,8/22/2022,Xã Tiên Thuận,Huyện Bến Cầu,Tây Ninh,80.0,5.0,16.0,1,Unknow,0.3
+1218,8/22/2022,Xã Tiên Thuận,Huyện Bến Cầu,Tây Ninh,150.0,5.0,30.0,1,Unknow,0.65
+1219,8/22/2022,Phường Trường Thọ,Tp. Thủ Đức,Hồ Chí Minh,229.0,28.65,7.26,0,Đ.Nam,14.85
+1220,8/22/2022,Xã Đức Minh,Huyện Mộ Đức,Quảng Ngãi,162.0,23.0,7.0,1,Bắc,0.95
+1221,8/22/2022,Xã Y Tý,Huyện Bát Xát,Lào Cai,1999.1,0.0,0.0,0,Unknow,3.4
+1222,8/22/2022,Phường Trường Thọ,Tp. Thủ Đức,Hồ Chí Minh,57.0,11.0,5.0,0,T.Bắc,5.4
+1223,8/22/2022,Xã Xuân Tây,Huyện Cẩm Mỹ,Đồng Nai,2000.0,100.0,20.0,1,Unknow,1.96
+1224,8/22/2022,Xã Ea Drông,Thị Xã Buôn Hồ,Đắk Lắk,7900.0,0.0,0.0,1,Unknow,3.63
+1225,8/22/2022,Thị trấn Liên Nghĩa,Huyện Đức Trọng,Lâm Đồng,267.0,27.0,8.2,0,Tây,2.1
+1226,8/22/2022,Phường Linh Đông,Tp. Thủ Đức,Hồ Chí Minh,75.0,15.0,5.5,1,Nam,6.5
+1227,8/22/2022,Xã Mỹ Hà,Huyện Lạng Giang,Bắc Giang,75.0,0.0,0.0,1,Unknow,0.65
+1228,8/21/2022,Phường Hiệp Hòa,Tp. Biên Hòa,Đồng Nai,270.0,46.0,6.2,1,T.Nam,7.1
+1229,8/21/2022,Xã Minh Thạnh,Huyện Dầu Tiếng,Bình Dương,369.0,36.0,10.0,1,Unknow,0.95
+1230,8/21/2022,Xã Xuân Mỹ,Huyện Cẩm Mỹ,Đồng Nai,1117.0,80.0,15.0,1,Unknow,1.0
+1231,8/21/2022,Phường Phú Thượng,Huyện Phú Vang,Thừa Thiên Huế,297.0,24.0,11.0,1,Nam,7.13
+1232,8/21/2022,Phường Hòa Hiệp Nam,Quận Liên Chiểu,Đà Nẵng,100.0,20.0,5.0,0,Unknow,2.5
+1233,8/20/2022,Phường An Phú,Tp. Thuận An,Bình Dương,97.5,17.5,5.5,1,Đ.Nam,2.49
+1234,8/20/2022,Xã Lộc Thanh,Tp. Bảo Lộc,Lâm Đồng,782.0,0.0,0.0,1,Unknow,2.0
+1235,8/20/2022,Xã Nhân Cơ,Huyện Đắk R'Lấp,Đắk Nông,1187.0,28.0,42.0,1,T.Bắc,6.7
+1236,8/20/2022,Xã Tân Hiệp,Huyện Long Thành,Đồng Nai,1050.0,32.0,33.0,1,Unknow,3.9
+1237,8/20/2022,Phường Võ Cường,Tp. Bắc Ninh,Bắc Ninh,48.6,6.5,0.0,1,Unknow,2.75
+1238,8/20/2022,Xã Lộc An,Huyện Đất Đỏ,Bà Rịa - Vũng Tàu,223.0,5.05,44.45,1,Tây,2.1
+1239,8/20/2022,Xã Giang Sơn,Huyện Gia Bình,Bắc Ninh,96.0,0.0,7.96,1,Unknow,0.9
+1240,8/20/2022,Phường Vân Dương,Tp. Bắc Ninh,Bắc Ninh,66.0,0.0,0.0,1,Unknow,2.1
+1241,8/20/2022,Xã Y Tý,Huyện Bát Xát,Lào Cai,1377.0,0.0,0.0,0,Unknow,2.41
+1242,8/19/2022,phường Phú Thượng,Huyện Phú Vang,Thừa Thiên Huế,101.0,16.0,6.0,0,Đông,3.2
+1243,8/19/2022,Xã Liên Hiệp,Huyện Đức Trọng,Lâm Đồng,100.0,20.0,5.0,1,Đ.Bắc,1.1
+1244,8/19/2022,Phường Đông Hòa,Tp. Dĩ An,Bình Dương,63.0,13.5,4.5,0,Unknow,2.85
+1245,8/19/2022,Phường Hòa Xuân,Quận Cẩm Lệ,Đà Nẵng,97.0,19.5,5.0,1,Đ.Nam,3.69
+1246,8/19/2022,Phường Phú Hội,Tp. Huế,Thừa Thiên Huế,103.0,15.0,5.0,1,T.Nam,2.27
+1247,8/19/2022,Xã Đại Hiệp,Huyện Đại Lộc,Quảng Nam,150.0,7.0,5.0,0,T.Bắc,1.2
+1248,8/19/2022,Phường Hoà Quý,Quận Ngũ Hành Sơn,Đà Nẵng,108.5,0.0,0.0,1,Unknow,3.55
+1249,8/19/2022,Xã Điện Tiến,Thị xã Điện Bàn,Quảng Nam,179.0,29.0,6.0,0,Unknow,0.708
+1250,8/19/2022,Xã Hương Mạc,Thị xã Từ Sơn,Bắc Ninh,126.0,0.0,0.0,0,Unknow,1.76
+1251,8/19/2022,Xã Chà Vàl,Huyện Nam Giang,Quảng Nam,100.0,20.0,5.0,1,Unknow,0.4
+1252,8/19/2022,Xã Điện Hồng,Thị xã Điện Bàn,Quảng Nam,150.0,5.0,7.0,0,T.Nam,1.35
+1253,8/19/2022,Thị trấn Liên Nghĩa,Huyện Đức Trọng,Lâm Đồng,110.0,5.0,22.0,1,Unknow,1.35
+1254,8/18/2022,Xã Châu Pha,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,130.0,26.0,5.0,1,T.Bắc,1.4
+1255,8/18/2022,Phường Linh Xuân,Tp. Thủ Đức,Hồ Chí Minh,84.0,4.03,20.9,0,T.Nam,4.9
+1256,8/18/2022,Xã Yên Trung,Huyện Thạch Thất,Hà Nội,1514.0,50.0,30.0,0,Unknow,5.0
+1257,8/18/2022,Thị trấn Dương Minh Châu,Huyện Dương Minh Châu,Tây Ninh,714.0,71.0,10.0,1,Unknow,0.79
+1258,8/18/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,0,Unknow,1.69
+1259,8/18/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,1,Unknow,1.79
+1260,8/18/2022,Phường Linh Đông,Tp. Thủ Đức,Hồ Chí Minh,75.0,4.0,18.5,0,T.Nam,5.5
+1261,8/18/2022,Xã Long Khánh,Huyện Bến Cầu,Tây Ninh,225.0,45.0,5.0,1,Unknow,0.515
+1262,8/18/2022,Xã Xuân Tây,Huyện Cẩm Mỹ,Đồng Nai,1100.0,100.0,12.0,1,Unknow,1.21
+1263,8/18/2022,Xã Phước Đông,Huyện Gò Dầu,Tây Ninh,125.0,25.0,5.0,1,Unknow,0.8
+1264,8/18/2022,Xã Phước Ninh,Huyện Dương Minh Châu,Tây Ninh,445.0,56.0,6.0,1,Unknow,0.68
+1265,8/18/2022,Phường Khánh Bình,Thị xã Tân Uyên,Bình Dương,66.0,0.0,0.0,0,Đông,1.0
+1266,8/18/2022,Phường Linh Đông,Tp. Thủ Đức,Hồ Chí Minh,63.0,14.0,4.5,0,T.Bắc,4.2
+1267,8/18/2022,Phường Chánh Phú Hòa,Thị xã Bến Cát,Bình Dương,350.0,50.0,6.0,1,Unknow,1.2
+1268,8/11/2022,Xã Tân Phú Trung,Huyện Củ Chi,Hồ Chí Minh,130.0,0.0,0.0,1,Unknow,3.0
+1269,7/18/2022,Xã Minh Hoà,Huyện Dầu Tiếng,Bình Dương,369.0,24.0,8.0,1,Unknow,0.96
+1270,6/23/2022,Xã Minh Thắng,Huyện Chơn Thành,Bình Phước,225.0,5.0,45.0,1,Unknow,1.16
+1271,6/23/2022,Phường Tam Quan,Thị xã Hoài Nhơn,Bình Định,150.0,0.0,0.0,1,Unknow,0.7
+1272,6/23/2022,Phường Linh Đông,Tp. Thủ Đức,Hồ Chí Minh,95.0,19.06,5.0,0,Đ.Nam,7.8
+1273,6/23/2022,Xã Bàu Hàm 2,Huyện Thống Nhất,Đồng Nai,144.0,29.0,5.0,1,Nam,0.468
+1274,6/23/2022,Xã Nhị Bình,Huyện Hóc Môn,Hồ Chí Minh,520.0,52.0,10.0,1,Đ.Nam,1.9
+1275,6/23/2022,Phường Tam Quan,Thị xã Hoài Nhơn,Bình Định,100.0,20.0,5.0,1,Unknow,0.55
+1276,6/23/2022,Phường Chánh Phú Hòa,Thị xã Bến Cát,Bình Dương,210.0,21.0,10.0,1,Bắc,0.97
+1277,6/23/2022,Xã Minh Lập,Huyện Chơn Thành,Bình Phước,250.0,50.0,5.0,1,Unknow,0.45
+1278,6/23/2022,Xã Vĩnh Lộc A,Huyện Bình Chánh,Hồ Chí Minh,40.0,10.0,4.0,1,Unknow,0.52
+1279,6/23/2022,Xã An Nhơn Tây,Huyện Củ Chi,Hồ Chí Minh,1819.0,52.0,34.0,1,Unknow,13.6
+1280,6/23/2022,Xã Tiên Thuận,Huyện Bến Cầu,Tây Ninh,120.0,5.0,24.5,1,Unknow,0.575
+1281,6/23/2022,Xã Phạm Văn Cội,Huyện Củ Chi,Hồ Chí Minh,520.0,52.0,10.0,1,Đ.Nam,1.9
+1282,6/23/2022,Xã Nhuận Đức,Huyện Củ Chi,Hồ Chí Minh,520.0,52.0,10.0,1,Đ.Nam,1.7
+1283,6/23/2022,Xã Đa Phước,Huyện Bình Chánh,Hồ Chí Minh,80.0,16.0,48.0,0,Nam,1.35
+1284,6/23/2022,Xã Phiêng Luông,Huyện Mộc Châu,Sơn La,469.0,0.0,0.0,1,Unknow,0.2345
+1285,6/23/2022,Xã Xuân Tây,Huyện Cẩm Mỹ,Đồng Nai,1100.0,100.0,20.0,1,Unknow,1.21
+1286,6/23/2022,Phường Trường Thọ,Tp. Thủ Đức,Hồ Chí Minh,54.0,12.2,4.77,0,Tây,5.8
+1287,6/23/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,1,Unknow,1.67
+1288,6/23/2022,Xã Tân Hiệp,Huyện Long Thành,Đồng Nai,1050.0,32.0,33.0,1,Unknow,3.9
+1289,6/23/2022,Thị trấn Tân Nghĩa,Huyện Hàm Tân,Bình Thuận,5000.0,0.0,0.0,0,Unknow,15.0
+1290,6/23/2022,Đồi Thị trấn Tân Nghĩa,Huyện Hàm Tân,Bình Thuận,18.0,0.0,0.0,0,Unknow,8.6
+1291,6/23/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,5611.0,0.0,0.0,1,Unknow,0.81
+1292,6/23/2022,Phường Linh Xuân,Tp. Thủ Đức,Hồ Chí Minh,104.0,23.2,4.5,0,Đ.Nam,4.5
+1293,6/23/2022,Xã Sông Xoài,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,200.0,37.0,5.0,1,Đ.Nam,1.45
+1294,6/23/2022,Phường Phú Mỹ,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,120.0,37.0,5.0,1,Đ.Nam,4.7
+1295,6/23/2022,Xã Nhuận Đức,Huyện Củ Chi,Hồ Chí Minh,125.0,0.0,0.0,1,Unknow,0.96
+1296,6/23/2022,Xã Bàu Đồn,Huyện Gò Dầu,Tây Ninh,125.0,25.0,5.0,1,Unknow,0.9125
+1297,6/23/2022,Xã Bình Thạnh,Huyện Đức Trọng,Lâm Đồng,300.0,6.0,54.0,0,Nam,1.68
+1298,6/23/2022,Phường Thường Thạnh,Quận Cái Răng,Cần Thơ,3000.0,100.0,30.0,1,Unknow,16.5
+1299,6/23/2022,Phường Trường Thọ,Tp. Thủ Đức,Hồ Chí Minh,75.0,15.0,5.0,0,T.Nam,6.0
+1300,6/23/2022,Xã Tiến Xuân,Huyện Thạch Thất,Hà Nội,500.0,50.0,10.0,1,Unknow,6.75
+1301,6/23/2022,Phường Tân An,Tp. Thủ Dầu Một,Bình Dương,90.0,19.0,5.0,1,Unknow,1.79
+1302,6/23/2022,Xã Tu Tra,Huyện Đơn Dương,Lâm Đồng,200.0,0.0,0.0,1,Unknow,2.8
+1303,6/23/2022,Xã Thái Mỹ,Huyện Củ Chi,Hồ Chí Minh,110.0,22.0,5.0,1,Unknow,1.06
+1304,6/23/2022,Xã Phú Mỹ,Huyện Phú Vang,Thừa Thiên Huế,105.0,20.0,5.0,1,Bắc,2.9
+1305,6/23/2022,Phường Trường Thọ,Tp. Thủ Đức,Hồ Chí Minh,63.0,15.75,4.02,0,T.Nam,5.3
+1306,6/23/2022,Xã Quang Minh,Huyện Chơn Thành,Bình Phước,250.0,5.0,50.0,1,Unknow,0.66
+1307,6/23/2022,Xã Quang Minh,Huyện Chơn Thành,Bình Phước,230.0,5.0,46.0,1,Unknow,0.665
+1308,6/23/2022,Xã Bàu Đồn,Huyện Gò Dầu,Tây Ninh,125.0,25.0,5.0,1,Unknow,0.68
+1309,6/23/2022,Xã Đức Hòa Đông,Huyện Đức Hòa,Long An,90.0,18.0,5.0,0,Unknow,1.65
+1310,6/23/2022,Xã Hựu Thạnh,Huyện Đức Hòa,Long An,100.0,20.0,5.0,1,Đ.Bắc,0.95
+1311,6/23/2022,Thị trấn Đắk Hà,Huyện Đắk Hà,Kon Tum,180.0,30.0,6.0,1,Đông,0.5
+1312,6/23/2022,Phường Linh Trung,Tp. Thủ Đức,Hồ Chí Minh,71.0,17.34,4.1,0,T.Bắc,5.5
+1313,6/23/2022,Phường Linh Xuân,Tp. Thủ Đức,Hồ Chí Minh,179.0,17.2,10.42,0,T.Bắc,9.0
+1314,6/23/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,220.0,20.0,11.0,1,T.Bắc,3.08
+1315,6/23/2022,Xã Y Tý,Huyện Bát Xát,Lào Cai,396.0,0.0,20.02,1,Unknow,1.85
+1316,6/23/2022,Xã Y Tý,Huyện Bát Xát,Lào Cai,1377.0,0.0,0.0,0,Unknow,2.41
+1317,6/22/2022,Xã Hạ Bằng,Huyện Thạch Thất,Hà Nội,95.0,18.94,5.0,1,Unknow,2.1
+1318,6/22/2022,Xã Phước Vinh,Huyện Châu Thành,Tây Ninh,175.0,0.0,0.0,0,Unknow,0.45
+1319,6/22/2022,Xã Phạm Văn Hai,Huyện Bình Chánh,Hồ Chí Minh,90.0,18.0,5.0,1,Tây,2.25
+1320,6/22/2022,Xã Phạm Văn Hai,Huyện Bình Chánh,Hồ Chí Minh,80.0,16.0,5.0,1,Đ.Nam,1.95
+1321,6/22/2022,Xã Phạm Văn Hai,Huyện Bình Chánh,Hồ Chí Minh,80.0,16.0,5.0,1,Đ.Nam,1.95
+1322,6/22/2022,Xã Phạm Văn Hai,Huyện Bình Chánh,Hồ Chí Minh,130.0,26.0,5.0,1,Đ.Nam,2.65
+1323,6/22/2022,Phường Thủy Phương,Thị xã Hương Thủy,Thừa Thiên Huế,94.0,16.0,6.0,1,Đ.Bắc,1.7
+1324,6/22/2022,Xã Phú Cát,Huyện Quốc Oai,Hà Nội,110.0,15.0,8.0,1,Unknow,1.7
+1325,6/22/2022,Xã Lộc Thịnh,Huyện Lộc Ninh,Bình Phước,275.0,55.0,5.0,1,Unknow,0.739
+1326,6/22/2022,Phường 6,Tp. Đà Lạt,Lâm Đồng,100.0,0.0,0.0,0,Unknow,2.5
+1327,6/22/2022,Xã Tân Lợi,Huyện Đồng Phú,Bình Phước,1000.0,100.0,10.0,1,T.Bắc,0.9
+1328,6/22/2022,Xã Dray Bhăng,Huyện Cư Kuin,Đắk Lắk,355.0,35.5,10.0,1,Unknow,0.49
+1329,6/22/2022,Phường Ninh Giang,Thị xã Ninh Hòa,Khánh Hòa,400.0,24.0,16.0,0,Đông,2.3
+1330,6/22/2022,Phường Mỹ Đông,Tp. Phan Rang-Tháp Chàm,Ninh Thuận,360.0,0.0,0.0,0,Unknow,8.0
+1332,6/22/2022,Xã Long Phước,Tp. Bà Rịa,Bà Rịa - Vũng Tàu,407.6,41.13,10.1,1,Đông,2.75
+1333,6/22/2022,Xã Phước Thạnh,Huyện Củ Chi,Hồ Chí Minh,150.0,30.0,5.0,1,Unknow,0.6
+1334,6/22/2022,Phường Ninh Giang,Thị xã Ninh Hòa,Khánh Hòa,393.0,8.0,40.0,0,Đ.Nam,2.36
+1335,6/22/2022,Thị trấn Gò Dầu,Huyện Gò Dầu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.78
+1336,6/22/2022,Thị trấn Bến Cầu,Huyện Bến Cầu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.49
+1337,6/22/2022,Phường Bình Thọ,Tp. Thủ Đức,Hồ Chí Minh,126.0,22.0,5.5,0,T.Bắc,7.4
+1338,6/22/2022,Xã Đại Đồng,Huyện Đại Lộc,Quảng Nam,120.0,20.0,6.0,1,Unknow,0.9
+1339,6/22/2022,Xã Hòa Thắng,Huyện Bắc Bình,Bình Thuận,20000.0,0.0,0.0,0,Unknow,2.8
+1340,6/22/2022,Thị trấn Tân Khai,Huyện Hớn Quản,Bình Phước,250.0,45.0,5.0,1,Đ.Nam,0.79
+1341,6/22/2022,Xã Minh Hưng,Huyện Chơn Thành,Bình Phước,230.0,45.0,5.0,1,Unknow,0.79
+1342,6/22/2022,Xã Đồng Nơ,Huyện Hớn Quản,Bình Phước,1000.0,20.0,50.0,1,Unknow,0.639
+1343,6/22/2022,Phường Phú Thịnh,Thị xã Bình Long,Bình Phước,900.0,14.0,60.0,1,Unknow,0.638
+1344,6/22/2022,Xã Minh Thắng,Huyện Chơn Thành,Bình Phước,225.0,45.0,5.0,1,Unknow,1.14
+1345,6/22/2022,Xã Vĩnh Lộc A,Huyện Bình Chánh,Hồ Chí Minh,104.0,5.0,21.0,1,Unknow,0.6
+1346,6/22/2022,Xã Xuân Tây,Huyện Cẩm Mỹ,Đồng Nai,1100.0,11.0,100.0,1,Unknow,1.21
+1347,6/22/2022,Phường Nghĩa Chánh,Tp. Quảng Ngãi,Quảng Ngãi,125.0,25.0,5.0,1,Bắc,1.5
+1348,6/22/2022,Xã Phước Hậu,Huyện Cần Giuộc,Long An,124.0,27.4,4.0,1,Unknow,1.1
+1349,6/22/2022,Phường Suối Hoa,Tp. Bắc Ninh,Bắc Ninh,77.0,16.0,4.8,1,T.Bắc,11.7
+1350,6/22/2022,Thị trấn Phố Mới,Huyện Quế Võ,Bắc Ninh,60.0,4.0,0.0,1,Unknow,2.08
+1351,6/22/2022,Phường Vân Dương,Tp. Bắc Ninh,Bắc Ninh,66.0,0.0,0.0,1,T.Bắc,2.15
+1352,6/22/2022,Phường Võ Cường,Tp. Bắc Ninh,Bắc Ninh,64.0,0.0,0.0,1,Unknow,0.87
+1353,6/22/2022,Phường Trường Thọ,Tp. Thủ Đức,Hồ Chí Minh,203.0,0.0,0.0,0,Unknow,9.0
+1354,6/22/2022,Phường Tân An,Tp. Thủ Dầu Một,Bình Dương,77.0,17.0,5.0,1,Unknow,1.98
+1355,6/22/2022,Thị trấn Gò Dầu,Huyện Gò Dầu,Tây Ninh,144.0,28.0,5.0,1,Unknow,0.493
+1356,6/22/2022,Xã Đức Lập Thượng,Huyện Đức Hòa,Long An,120.0,6.0,20.0,1,T.Bắc,2.5
+1357,6/22/2022,Phường Phú Mỹ,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,120.0,25.0,5.0,1,Đ.Nam,5.0
+1358,6/22/2022,Xã Đức Lập Thượng,Huyện Đức Hòa,Long An,120.0,20.0,6.0,1,Đ.Nam,2.0
+1359,6/22/2022,Phường Võ Cường,Tp. Bắc Ninh,Bắc Ninh,60.0,9.0,8.0,1,Unknow,1.4
+1360,6/22/2022,Thị trấn Gò Dầu,Huyện Gò Dầu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.75
+1361,6/22/2022,Xã Mỹ Hạnh Nam,Huyện Đức Hòa,Long An,100.0,0.0,0.0,1,Unknow,1.8
+1362,6/22/2022,Phường Ninh Giang,Thị xã Ninh Hòa,Khánh Hòa,393.0,40.0,8.0,0,Đ.Nam,2.36
+1363,6/22/2022,Phường Ninh Giang,Thị xã Ninh Hòa,Khánh Hòa,400.0,24.0,16.0,0,Đông,2.3
+1364,6/22/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,110.0,22.0,5.0,1,Unknow,1.12
+1365,6/22/2022,Xã Đức Lập Hạ,Huyện Đức Hòa,Long An,80.0,16.0,5.0,1,Unknow,1.2
+1366,6/22/2022,Thị trấn Bến Cầu,Huyện Bến Cầu,Tây Ninh,120.0,5.0,24.0,1,Unknow,0.5
+1367,6/22/2022,Thị trấn Gò Dầu,Huyện Gò Dầu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.67
+1368,6/22/2022,Xã Định Thành,Huyện Dầu Tiếng,Bình Dương,319.0,60.0,5.0,1,Unknow,1.4
+1369,6/22/2022,Xã Định Thành,Huyện Dầu Tiếng,Bình Dương,319.0,60.0,5.0,1,Unknow,1.4
+1370,6/22/2022,Xã Phước Đông,Huyện Gò Dầu,Tây Ninh,125.0,25.0,5.0,1,Unknow,0.86
+1371,6/22/2022,Thị trấn Liên Nghĩa,Huyện Đức Trọng,Lâm Đồng,110.0,25.0,5.0,1,Unknow,1.35
+1372,6/22/2022,Xã Tân Bình,Huyện Tân Biên,Tây Ninh,150.0,0.0,0.0,0,Unknow,0.5
+1373,6/22/2022,Xã Y Tý,Huyện Bát Xát,Lào Cai,396.0,19.8,20.0,1,Unknow,1.8
+1374,6/22/2022,Xã Phước Vĩnh An,Huyện Củ Chi,Hồ Chí Minh,84.0,0.0,0.0,1,Unknow,2.0
+1375,6/22/2022,Phường Linh Đông,Tp. Thủ Đức,Hồ Chí Minh,116.0,29.0,4.0,1,Đ.Bắc,6.2
+1376,6/22/2022,Phường Tam Bình,Tp. Thủ Đức,Hồ Chí Minh,50.0,11.0,4.5,1,Đ.Bắc,3.9
+1377,6/22/2022,Xã Điện Trung,Thị xã Điện Bàn,Quảng Nam,100.0,0.0,0.0,0,Unknow,0.495
+1378,6/22/2022,Xã Minh Thạnh,Huyện Dầu Tiếng,Bình Dương,317.0,35.0,10.0,1,Unknow,1.15
+1379,6/21/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,1,Unknow,1.7
+1380,6/21/2022,Xã Lộc Đức,Huyện Bảo Lâm,Lâm Đồng,150.0,0.0,0.0,1,Unknow,1.4
+1381,6/21/2022,Phường Tân Biên,Tp. Biên Hòa,Đồng Nai,72.0,18.0,4.0,1,Unknow,2.15
+1382,6/21/2022,Xã Lộc Đức,Huyện Bảo Lâm,Lâm Đồng,150.0,5.0,30.0,1,Unknow,1.4
+1383,6/21/2022,Xã Bàu Trâm,Tp. Long Khánh,Đồng Nai,120.0,20.0,6.0,1,Unknow,1.9
+1384,6/21/2022,Phường Vạn Sơn,Quận Đồ Sơn,Hải Phòng,93.4,0.0,0.0,1,Unknow,3.9
+1385,6/21/2022,Xã Bàu Trâm,Tp. Long Khánh,Đồng Nai,100.0,20.0,5.0,1,Unknow,1.7
+1386,6/21/2022,Phường Hiệp Bình Chánh,Tp. Thủ Đức,Hồ Chí Minh,67.0,16.69,4.0,0,Tây,6.1
+1387,6/21/2022,Xã Tân Lạc,Huyện Bảo Lâm,Lâm Đồng,168.0,21.0,8.0,1,Unknow,0.85
+1388,6/21/2022,Xã Hựu Thạnh,Huyện Đức Hòa,Long An,100.0,5.0,20.0,1,Unknow,1.0
+1389,6/21/2022,Xã Tiến Xuân,Huyện Thạch Thất,Hà Nội,494.0,49.0,10.0,1,Unknow,7.56
+1390,6/21/2022,Phường Linh Trung,Tp. Thủ Đức,Hồ Chí Minh,99.7,0.0,5.4,0,Đ.Bắc,6.4
+1391,6/21/2022,Thị trấn Bến Cầu,Huyện Bến Cầu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.45
+1392,6/21/2022,Xã Long Cang,Huyện Cần Đước,Long An,120.0,26.0,4.5,1,Đ.Nam,1.2
+1393,6/21/2022,Phường Điện Nam Đông,Thị xã Điện Bàn,Quảng Nam,200.0,0.0,0.0,1,Unknow,2.35
+1394,6/21/2022,Phường Hiệp Bình Chánh,Tp. Thủ Đức,Hồ Chí Minh,309.0,30.9,10.0,0,T.Bắc,26.0
+1395,6/21/2022,Phường Hiệp Bình Chánh,Tp. Thủ Đức,Hồ Chí Minh,200.0,20.0,10.0,0,Bắc,14.7
+1396,6/21/2022,Phường Hiệp Bình Chánh,Tp. Thủ Đức,Hồ Chí Minh,73.0,18.0,4.0,1,T.Bắc,5.9
+1397,6/21/2022,Phường Hiệp Bình Chánh,Tp. Thủ Đức,Hồ Chí Minh,123.0,17.0,7.5,1,Unknow,15.5
+1398,6/21/2022,Xã Sông Xoài,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,200.0,38.0,5.0,1,Đ.Nam,1.45
+1399,6/21/2022,Xã Long Châu,Huyện Yên Phong,Bắc Ninh,75.0,12.5,6.0,0,Unknow,1.03
+1400,6/21/2022,Phường Bình Chiểu,Tp. Thủ Đức,Hồ Chí Minh,66.0,0.0,0.0,0,Unknow,3.8
+1401,6/21/2022,Xã Mỹ Hạnh Nam,Huyện Đức Hòa,Long An,100.0,0.0,0.0,1,Unknow,1.7
+1402,6/21/2022,Xã Long Thới,Huyện Nhà Bè,Hồ Chí Minh,12180.0,0.0,0.0,0,Unknow,17.05
+1403,6/21/2022,Xã Ngũ Phúc,Huyện Kim Thành,Hải Dương,70.0,15.0,5.0,1,Đông,0.6
+1404,6/21/2022,Xã Hựu Thạnh,Huyện Đức Hòa,Long An,90.0,20.0,4.0,1,Unknow,1.7
+1405,6/21/2022,Xã Nhơn Đức,Huyện Nhà Bè,Hồ Chí Minh,6214.0,0.0,0.0,0,Unknow,6.84
+1406,6/21/2022,Xã Xuân Đông,Huyện Cẩm Mỹ,Đồng Nai,1100.0,39.0,33.0,1,Unknow,1.7
+1407,6/21/2022,Xã Mỹ Hạnh Nam,Huyện Đức Hòa,Long An,149.0,28.8,5.0,1,Unknow,1.46
+1408,6/21/2022,Xã Quang Minh,Huyện Chơn Thành,Bình Phước,250.0,50.0,5.0,1,Unknow,0.6
+1409,6/21/2022,Thị trấn Lim,Huyện Tiên Du,Bắc Ninh,90.0,5.0,0.0,1,Unknow,0.69
+1410,6/21/2022,Xã Liên Bão,Huyện Tiên Du,Bắc Ninh,149.0,5.0,13.97,1,Unknow,4.0
+1411,6/21/2022,Xã Liên Bão,Huyện Tiên Du,Bắc Ninh,90.0,5.0,0.0,1,Unknow,4.45
+1412,6/21/2022,Phường Vũ Ninh,Tp. Bắc Ninh,Bắc Ninh,83.7,6.7,12.5,1,Đ.Bắc,6.0
+1413,6/21/2022,Thị trấn Phố Mới,Huyện Quế Võ,Bắc Ninh,60.0,12.0,4.0,1,Unknow,2.0
+1414,6/21/2022,Xã Lộc Thạnh,Huyện Lộc Ninh,Bình Phước,150.0,30.0,5.0,1,Unknow,0.38
+1415,6/21/2022,Xã Châu Pha,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,130.0,26.0,5.0,1,Đ.Nam,1.4
+1416,6/21/2022,Thị trấn Đức Hòa,Huyện Đức Hòa,Long An,100.0,20.0,5.0,1,Đ.Bắc,1.4
+1417,6/21/2022,Xã Minh Lập,Huyện Chơn Thành,Bình Phước,1000.0,100.0,10.0,1,Unknow,0.4
+1418,6/21/2022,Xã Tân Hoà,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,120.0,24.0,5.0,1,Unknow,1.62
+1419,6/21/2022,Xã Tu Tra,Huyện Đơn Dương,Lâm Đồng,200.0,0.0,0.0,1,Nam,2.8
+1420,6/21/2022,Xã Tân Mỹ,Huyện Đức Hòa,Long An,100.0,20.0,5.0,1,Đ.Nam,1.3
+1421,6/21/2022,Xã Tân Mỹ,Huyện Đức Hòa,Long An,100.0,20.0,5.0,1,Đông,1.3
+1422,6/21/2022,Phường Tân Đông Hiệp,Tp. Dĩ An,Bình Dương,300.0,30.0,10.0,1,Unknow,0.79
+1423,6/21/2022,Xã Sông Xoài,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,400.0,40.0,10.0,1,Đông,2.9
+1424,6/21/2022,Xã Tiến Hưng,Tp. Đồng Xoài,Bình Phước,100.0,20.0,5.0,1,Đông,0.99991
+1425,6/21/2022,Xã Vĩnh Lộc A,Huyện Bình Chánh,Hồ Chí Minh,98.0,19.0,4.99,1,Unknow,0.6
+1426,6/21/2022,Xã Minh Lập,Huyện Chơn Thành,Bình Phước,215.0,5.0,43.0,1,Đ.Nam,0.53
+1427,6/21/2022,Phường Hóa An,Tp. Biên Hòa,Đồng Nai,83.0,23.0,4.0,1,T.Nam,3.2
+1428,6/21/2022,Phường Bửu Hòa,Tp. Biên Hòa,Đồng Nai,154.0,27.0,7.0,1,T.Bắc,1.4
+1429,6/21/2022,Xã Tiên Thuận,Huyện Bến Cầu,Tây Ninh,100.0,5.0,20.0,1,Unknow,0.399
+1430,6/21/2022,Xã Tiên Thuận,Huyện Bến Cầu,Tây Ninh,100.0,5.0,20.0,1,Unknow,0.39
+1431,6/21/2022,Phường Linh Tây,Tp. Thủ Đức,Hồ Chí Minh,109.0,21.0,5.18,0,Đ.Nam,8.2
+1432,6/21/2022,Phường Suối Hoa,Tp. Bắc Ninh,Bắc Ninh,77.0,16.0,4.8,1,T.Bắc,11.17
+1433,6/21/2022,Xã Phước Đông,Huyện Gò Dầu,Tây Ninh,120.0,5.0,24.0,1,Unknow,0.85
+1434,6/21/2022,Xã Chà Là,Huyện Dương Minh Châu,Tây Ninh,148.0,30.0,4.99,0,Unknow,0.64
+1435,6/21/2022,Phường Linh Xuân,Tp. Thủ Đức,Hồ Chí Minh,79.0,0.0,4.0,0,T.Nam,4.35
+1436,6/21/2022,Phường Linh Chiểu,Tp. Thủ Đức,Hồ Chí Minh,62.0,15.5,4.0,1,Đ.Nam,5.9
+1437,6/21/2022,Phường Linh Xuân,Tp. Thủ Đức,Hồ Chí Minh,61.0,15.0,4.0,0,Unknow,2.85
+1438,6/21/2022,Phường Linh Xuân,Tp. Thủ Đức,Hồ Chí Minh,61.0,15.0,4.0,1,Unknow,4.1
+1439,6/21/2022,Xã Y Tý,Huyện Bát Xát,Lào Cai,900.0,0.0,0.0,0,Unknow,1.2
+1440,6/21/2022,Phường Trường Thọ,Tp. Thủ Đức,Hồ Chí Minh,120.0,20.15,6.0,1,T.Bắc,10.0
+1441,6/21/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,6773.0,100.0,67.73,1,Unknow,0.8787999999999999
+1442,6/21/2022,Phường Phước Hoà,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,150.0,28.0,5.0,1,Đ.Nam,4.65
+1443,6/21/2022,Xã Lộc Hưng,Huyện Lộc Ninh,Bình Phước,100.0,20.0,5.0,1,T.Nam,0.499
+1444,6/20/2022,Xã Lộc Đức,Huyện Bảo Lâm,Lâm Đồng,150.0,0.0,0.0,1,Unknow,1.4
+1445,6/20/2022,Xã Sào Báy,Huyện Kim Bôi,Hoà Bình,4530.0,0.0,0.0,1,Đông,7.7
+1446,6/20/2022,Xã Minh Thạnh,Huyện Dầu Tiếng,Bình Dương,317.0,35.0,10.0,1,Unknow,1.15
+1447,6/20/2022,Xã Định Thành,Huyện Dầu Tiếng,Bình Dương,319.0,60.0,5.0,0,Unknow,1.4
+1448,6/20/2022,Xã Tân Xã,Huyện Thạch Thất,Hà Nội,136.0,27.0,5.0,1,Unknow,2.86
+1449,6/20/2022,Xã An Viễn,Huyện Trảng Bom,Đồng Nai,105.1,21.0,5.0,1,Unknow,1.54
+1450,6/20/2022,Xã Bình Tú,Huyện Thăng Bình,Quảng Nam,120.0,20.0,6.0,1,Unknow,1.68
+1451,6/20/2022,Xã Vĩnh Tân,Thị xã Tân Uyên,Bình Dương,160.0,0.0,0.0,1,Unknow,1.12
+1452,6/20/2022,Xã Ngũ Phúc,Huyện Kim Thành,Hải Dương,70.0,15.0,4.5,1,Đông,0.6
+1453,6/20/2022,Xã Tân Phú Trung,Huyện Củ Chi,Hồ Chí Minh,130.0,13.0,10.0,1,Unknow,3.1
+1454,6/20/2022,Xã Tiến Xuân,Huyện Thạch Thất,Hà Nội,370.0,37.0,10.0,1,Unknow,5.92
+1455,6/20/2022,Phường Phú Mỹ,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,185.0,0.0,0.0,0,Unknow,5.45
+1456,6/20/2022,Thị trấn Bến Cầu,Huyện Bến Cầu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.58
+1457,6/20/2022,Xã Mỹ Lệ,Huyện Cần Đước,Long An,95.0,19.0,5.0,1,Đ.Nam,1.5
+1458,6/20/2022,Xã Hợp Thanh,Huyện Mỹ Đức,Hà Nội,346.0,15.0,23.0,1,Unknow,2.95
+1459,6/20/2022,Xã Quang Minh,Huyện Chơn Thành,Bình Phước,220.0,44.0,5.0,1,Unknow,0.65
+1460,6/20/2022,Xã Phước Vĩnh An,Huyện Củ Chi,Hồ Chí Minh,84.0,0.0,0.0,1,Unknow,2.0
+1461,6/20/2022,Xã Lộc Đức,Huyện Bảo Lâm,Lâm Đồng,150.0,30.0,5.0,1,Unknow,1.4
+1462,6/20/2022,Xã Trung Lập Hạ,Huyện Củ Chi,Hồ Chí Minh,124.0,0.0,0.0,0,Unknow,0.5
+1463,6/20/2022,Phường Hòa Xuân,Quận Cẩm Lệ,Đà Nẵng,100.0,20.0,5.0,1,Đ.Nam,4.2
+1464,6/20/2022,Xã Điện Tiến,Thị xã Điện Bàn,Quảng Nam,117.0,5.0,24.0,1,Đ.Bắc,0.63
+1465,6/20/2022,Xã Tân Lạc,Huyện Bảo Lâm,Lâm Đồng,170.0,21.0,8.0,1,Unknow,0.84
+1466,6/20/2022,Thị trấn Củ Chi,Huyện Củ Chi,Hồ Chí Minh,99.0,0.0,0.0,1,Unknow,1.0
+1467,6/20/2022,Xã Điện Tiến,Thị xã Điện Bàn,Quảng Nam,112.0,23.0,6.0,1,Đ.Bắc,0.7
+1468,6/20/2022,Thị trấn Lai Uyên,Huyện Bàu Bàng,Bình Dương,100.0,20.0,5.0,1,Unknow,1.45
+1469,6/20/2022,Xã Cổ Đông,Thị xã Sơn Tây,Hà Nội,60.0,12.0,5.0,1,Unknow,0.9
+1470,6/20/2022,Xã Minh Thắng,Huyện Chơn Thành,Bình Phước,1000.0,15.0,70.0,1,Unknow,1.0
+1471,6/20/2022,Xã Xuân Tây,Huyện Cẩm Mỹ,Đồng Nai,1100.0,11.0,100.0,1,Unknow,1.21
+1472,6/20/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,5.0,30.0,1,Unknow,1.95
+1473,6/20/2022,Xã Vạn Phú,Huyện Vạn Ninh,Khánh Hòa,124.5,23.75,5.06,1,T.Nam,1.44
+1474,6/20/2022,Xã Tân Thông Hội,Huyện Củ Chi,Hồ Chí Minh,160.0,24.0,5.0,1,Unknow,0.79
+1475,6/20/2022,Xã Liên Hiệp,Huyện Đức Trọng,Lâm Đồng,150.0,30.0,5.0,0,Đông,1.46
+1476,6/20/2022,Xã Đức Lập Thượng,Huyện Đức Hòa,Long An,120.0,6.0,20.0,1,Đ.Bắc,0.61
+1477,6/20/2022,Xã Phú Mãn,Huyện Quốc Oai,Hà Nội,130.0,0.0,0.0,1,Unknow,3.25
+1478,6/20/2022,Xã Chà Là,Huyện Dương Minh Châu,Tây Ninh,148.0,30.0,5.0,0,Unknow,0.85
+1479,6/20/2022,Thị trấn Phố Mới,Huyện Quế Võ,Bắc Ninh,60.0,0.0,4.0,1,Đ.Bắc,2.08
+1480,6/20/2022,Xã Tân Bình,Tp. Tây Ninh,Tây Ninh,150.0,20.0,5.0,1,Unknow,0.68
+1481,6/20/2022,Xã Tân Hoà,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,125.0,25.0,5.0,1,Unknow,1.69
+1482,6/20/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,5.0,30.0,1,Đông,5.55
+1483,6/20/2022,Xã Tân An Hội,Huyện Củ Chi,Hồ Chí Minh,339.0,33.0,11.0,1,Unknow,2.4
+1484,6/20/2022,Xã Ngọc Định,Huyện Định Quán,Đồng Nai,1000.0,40.0,25.0,1,Unknow,0.779
+1485,6/20/2022,Xã Bình Chánh,Huyện Bình Chánh,Hồ Chí Minh,100.0,5.0,20.0,1,Unknow,0.8
+1486,6/20/2022,xã Đạ Ròn,Huyện Đơn Dương,Lâm Đồng,120.0,24.0,5.0,1,Nam,0.83
+1487,6/20/2022,Phường Bửu Long,Tp. Biên Hòa,Đồng Nai,135.0,0.0,6.0,0,Unknow,6.2
+1488,6/20/2022,Xã Phước Thạnh,Huyện Gò Dầu,Tây Ninh,150.0,5.0,30.0,1,Unknow,0.79
+1489,6/20/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,3584.0,0.0,0.0,1,Unknow,0.896
+1490,6/20/2022,Xã Định Thành,Huyện Dầu Tiếng,Bình Dương,319.0,60.0,5.0,1,Unknow,1.4
+1491,6/20/2022,Thị trấn Phồn Xương,Huyện Yên Thế,Bắc Giang,111.0,0.0,0.0,0,Unknow,1.7
+1492,6/20/2022,Xã Long Tân,Huyện Đất Đỏ,Bà Rịa - Vũng Tàu,720.0,71.0,10.5,1,Đông,3.85
+1493,6/20/2022,Xã Lộc Thành,Huyện Lộc Ninh,Bình Phước,250.0,50.0,5.0,1,Unknow,0.66
+1494,6/20/2022,Xã Thạnh Bình,Huyện Tân Biên,Tây Ninh,150.0,0.0,0.0,0,Unknow,0.449
+1495,6/20/2022,Xã Tiến Xuân,Huyện Thạch Thất,Hà Nội,234.0,30.0,8.0,1,Unknow,4.21
+1496,6/20/2022,Xã Ngũ Phúc,Huyện Kim Thành,Hải Dương,85.0,13.0,7.0,1,Unknow,0.6
+1497,6/20/2022,Xã Thạnh Bình,Huyện Tân Biên,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.45
+1498,6/20/2022,Xã Tân Lạc,Huyện Bảo Lâm,Lâm Đồng,1100.0,0.0,0.0,1,Unknow,2.3
+1499,6/20/2022,Xã Đức Lập Thượng,Huyện Đức Hòa,Long An,90.0,18.0,5.0,1,Đông,1.4
+1500,6/20/2022,Xã Tân Lợi,Huyện Đồng Phú,Bình Phước,1000.0,67.0,15.0,1,T.Nam,1.4
+1501,6/20/2022,Xã Bình Thuận,Thị Xã Buôn Hồ,Đắk Lắk,375.0,75.0,5.0,0,Unknow,0.73
+1502,6/20/2022,Phường Thành Nhất,Tp. Buôn Ma Thuột,Đắk Lắk,250.0,5.0,50.0,1,Unknow,1.15
+1503,6/20/2022,Xã Phước An,Huyện Hớn Quản,Bình Phước,200.0,40.0,5.0,1,Unknow,0.4
+1504,6/19/2022,Thị trấn Gò Dầu,Huyện Gò Dầu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.75
+1505,6/19/2022,Xã Liên Bão,Huyện Tiên Du,Bắc Ninh,100.0,0.0,5.0,1,Unknow,2.5
+1506,6/19/2022,Xã Xuân Tây,Huyện Cẩm Mỹ,Đồng Nai,1100.0,15.0,75.0,1,Unknow,1.21
+1507,6/19/2022,Phường Khắc Niệm,Tp. Bắc Ninh,Bắc Ninh,107.0,0.0,5.01,1,Unknow,2.5
+1508,6/19/2022,Xã Lộc Thạnh,Huyện Lộc Ninh,Bình Phước,1006.0,77.0,13.0,1,Unknow,0.419
+1509,6/19/2022,Xã Thuận Minh,Huyện Hàm Thuận Bắc,Bình Thuận,6220.0,0.0,0.0,0,Unknow,0.32
+1510,6/19/2022,Xã Nhân Trạch,Huyện Bố Trạch,Quảng Bình,152.0,0.0,0.0,0,Unknow,3.8
+1511,6/19/2022,Xã Phước Kiển,Huyện Nhà Bè,Hồ Chí Minh,100.0,0.0,0.0,0,Unknow,6.5
+1512,6/19/2022,Phường Thọ Quang,Quận Sơn Trà,Đà Nẵng,240.0,0.0,0.0,0,Unknow,15.2
+1513,6/19/2022,Xã Phạm Văn Cội,Huyện Củ Chi,Hồ Chí Minh,1632.0,0.0,19.36,1,T.Bắc,9.15
+1514,6/19/2022,Xã Phú Mỹ Hưng,Huyện Củ Chi,Hồ Chí Minh,1931.0,43.0,44.0,1,T.Bắc,12.85
+1515,6/19/2022,Xã An Thới Đông,Huyện Cần Giờ,Hồ Chí Minh,241.0,0.0,0.0,1,Unknow,6.0
+1516,6/18/2022,Xã Mỹ Lệ,Huyện Cần Đước,Long An,95.0,21.3,4.5,1,Unknow,0.48
+1517,6/18/2022,Phường Điện Ngọc,Thị xã Điện Bàn,Quảng Nam,100.0,20.0,5.0,0,Unknow,1.0
+1518,6/18/2022,Xã Nhơn Nghĩa,Huyện Phong Điền,Cần Thơ,87.0,0.0,0.0,0,Unknow,0.75
+1519,6/18/2022,Xã Ngũ Phúc,Huyện Kim Thành,Hải Dương,60.0,15.0,4.0,1,Đông,0.6
+1520,6/18/2022,Xã Tu Tra,Huyện Đơn Dương,Lâm Đồng,200.0,0.0,0.0,1,Bắc,2.8
+1521,6/18/2022,Xã Bình Chánh,Huyện Bình Chánh,Hồ Chí Minh,99.0,0.0,0.0,1,Unknow,0.6
+1522,6/18/2022,Xã Tiến Xuân,Huyện Thạch Thất,Hà Nội,494.0,48.0,10.0,1,Unknow,7.4
+1523,6/18/2022,Xã Hựu Thạnh,Huyện Đức Hòa,Long An,90.0,18.0,5.0,1,T.Bắc,2.7
+1524,6/18/2022,Xã Sông Lũy,Huyện Bắc Bình,Bình Thuận,10284.0,111.0,109.0,1,Unknow,1.23
+1525,6/18/2022,Xã Lộc An,Huyện Long Thành,Đồng Nai,170.0,34.0,5.0,1,T.Nam,2.7
+1526,6/18/2022,Xã Châu Pha,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,130.0,26.0,5.0,1,Đ.Nam,1.3
+1527,6/18/2022,Xã Quang Minh,Huyện Chơn Thành,Bình Phước,250.0,50.0,5.0,1,Unknow,0.6
+1528,6/18/2022,Xã An Nhơn Tây,Huyện Củ Chi,Hồ Chí Minh,1195.0,42.0,25.0,1,Unknow,0.8
+1529,6/18/2022,Xã Đức Hòa Đông,Huyện Đức Hòa,Long An,80.0,16.0,5.0,1,Unknow,0.85
+1530,6/18/2022,Xã Tiến Xuân,Huyện Thạch Thất,Hà Nội,390.0,48.0,8.0,1,Unknow,5.38
+1531,6/18/2022,Xã Phan Thanh,Huyện Bắc Bình,Bình Thuận,5000.0,0.0,0.0,1,Unknow,0.85
+1532,6/18/2022,Xã Đức Lập Thượng,Huyện Đức Hòa,Long An,80.0,5.0,16.0,1,Unknow,0.89
+1533,6/18/2022,Xã Thành Tâm,Huyện Chơn Thành,Bình Phước,636.0,65.0,9.0,1,T.Bắc,12.5
+1534,6/18/2022,Phường Phú Mỹ,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,2000.0,47.0,37.0,1,T.Nam,6.4
+1535,6/18/2022,Thị trấn Tân Phú,Huyện Đồng Phú,Bình Phước,218.0,43.0,5.0,1,Unknow,0.75
+1536,6/18/2022,Phường Đô Vinh,Tp. Phan Rang-Tháp Chàm,Ninh Thuận,108.0,0.0,0.0,0,Unknow,1.62
+1537,6/18/2022,Xã Lộc Châu,Tp. Bảo Lộc,Lâm Đồng,1000.0,0.0,0.0,1,Đông,2.5
+1538,6/18/2022,Thị trấn Hậu Nghĩa,Huyện Đức Hòa,Long An,100.0,20.0,5.0,1,Đ.Nam,0.75
+1539,6/18/2022,Xã Sông Xoài,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,220.0,26.0,9.0,1,Đông,3.2
+1540,6/18/2022,Xã Tiến Xuân,Huyện Thạch Thất,Hà Nội,828.0,25.0,40.0,1,Unknow,3.48
+1541,6/18/2022,Phường 2,Tp. Tây Ninh,Tây Ninh,150.0,5.0,30.0,1,Unknow,0.79
+1542,6/18/2022,Xã Tiên Thuận,Huyện Bến Cầu,Tây Ninh,200.0,5.0,40.0,1,Unknow,1.35
+1543,6/18/2022,Xã Long Khánh,Huyện Bến Cầu,Tây Ninh,100.0,5.0,20.0,1,Unknow,0.56
+1544,6/18/2022,Phường 1,Tp. Tây Ninh,Tây Ninh,100.0,5.0,20.0,1,Unknow,0.55
+1545,6/18/2022,Phường Vũ Ninh,Tp. Bắc Ninh,Bắc Ninh,84.0,6.73,0.0,1,Unknow,3.4
+1546,6/18/2022,Xã Liên Bão,Huyện Tiên Du,Bắc Ninh,80.0,12.0,6.99,1,Unknow,1.55
+1547,6/18/2022,Xã Hòa Thắng,Huyện Bắc Bình,Bình Thuận,1320.0,0.0,0.0,1,Unknow,3.3
+1548,6/18/2022,Phường Phúc Diễn,Quận Bắc Từ Liêm,Hà Nội,38.5,4.0,9.92,1,Bắc,2.5
+1549,6/18/2022,Xã Phan Hiệp,Huyện Bắc Bình,Bình Thuận,1000.0,0.0,0.0,1,Bắc,0.3
+1550,6/18/2022,Xã Đức Tân,Huyện Mộ Đức,Quảng Ngãi,100.0,20.0,5.0,1,Tây,0.83
+1551,6/18/2022,Thị trấn Bến Cầu,Huyện Bến Cầu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.45
+1552,6/18/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,2252.0,64.0,58.0,1,Unknow,0.6756
+1553,6/18/2022,Phường Vạn Sơn,Quận Đồ Sơn,Hải Phòng,93.4,0.0,0.0,0,Unknow,3.9
+1554,6/18/2022,Xã Quang Minh,Huyện Chơn Thành,Bình Phước,250.0,50.0,5.0,1,Unknow,0.66
+1555,6/18/2022,Xã Ngũ Phúc,Huyện Kim Thành,Hải Dương,82.0,0.0,0.0,1,Unknow,0.58
+1556,6/18/2022,Phường Mai Dịch,Quận Cầu Giấy,Hà Nội,79.0,0.0,0.0,0,Unknow,17.0
+1557,6/18/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,300.0,30.0,10.0,1,Đ.Nam,9.0
+1558,6/18/2022,Xã Tân Hội,Huyện Đức Trọng,Lâm Đồng,430.0,43.0,10.0,1,Unknow,1.8
+1559,6/18/2022,Xã Minh Thạnh,Huyện Dầu Tiếng,Bình Dương,317.0,35.0,10.0,1,Unknow,1.15
+1560,6/18/2022,Xã Sơn Long,Huyện Sơn Hòa,Phú Yên,39000.0,200.0,200.0,1,Đông,4.5
+1561,6/18/2022,Xã Xuân Tây,Huyện Cẩm Mỹ,Đồng Nai,1100.0,100.0,10.0,1,Unknow,1.08
+1562,6/17/2022,Xã Lộc Đức,Huyện Bảo Lâm,Lâm Đồng,150.0,0.0,0.0,1,Unknow,1.5
+1563,6/17/2022,Phường Trung Mỹ Tây,Quận 12,Hồ Chí Minh,150.0,30.0,5.0,1,Unknow,2.2
+1564,6/17/2022,Xã Đại Bái,Huyện Gia Bình,Bắc Ninh,2242.0,0.0,0.0,0,Unknow,20.0
+1565,6/17/2022,Phường Bình Thuận,Quận Hải Châu,Đà Nẵng,100.0,20.0,5.0,1,Unknow,11.0
+1566,6/17/2022,Xã Ngũ Phúc,Huyện Kim Thành,Hải Dương,60.0,14.0,4.0,1,Đông,0.6
+1567,6/17/2022,Phường Đội Cấn,Quận Ba Đình,Hà Nội,88.0,0.0,0.0,0,Unknow,25.0
+1568,6/17/2022,Xã Lộc Quảng,Huyện Bảo Lâm,Lâm Đồng,126.2,25.6,5.0,1,Unknow,1.02
+1569,6/17/2022,Xã Tân Phước,Huyện Đồng Phú,Bình Phước,1000.0,100.0,10.0,1,Unknow,0.37
+1570,6/17/2022,Xã Tam Thanh,Tp. Tam Kỳ,Quảng Nam,473.0,20.0,20.0,1,Unknow,9.3
+1571,6/17/2022,Xã La Phù,Huyện Hoài Đức,Hà Nội,30.6,4.0,7.6,1,Đông,1.3
+1572,6/17/2022,Xã Lộc Thanh,Tp. Bảo Lộc,Lâm Đồng,750.0,30.0,25.0,1,Unknow,1.88
+1573,6/17/2022,Xã Phạm Văn Cội,Huyện Củ Chi,Hồ Chí Minh,1633.0,83.0,20.0,0,Unknow,9.14
+1574,6/17/2022,Xã Ngũ Phúc,Huyện Kim Thành,Hải Dương,85.0,16.0,6.0,1,Unknow,0.595
+1575,6/17/2022,Thị trấn Khánh Hải,Huyện Ninh Hải,Ninh Thuận,300.0,0.0,0.0,1,Unknow,1.8
+1576,6/17/2022,Xã Lộc Châu,Tp. Bảo Lộc,Lâm Đồng,2443.0,0.0,0.0,1,Đ.Bắc,2.33
+1577,6/17/2022,Xã Suối Cát,Huyện Xuân Lộc,Đồng Nai,953.0,23.0,30.0,1,Unknow,1.25
+1578,6/17/2022,Xã Hưng Lộc,Huyện Thống Nhất,Đồng Nai,112.0,5.8,19.0,1,Unknow,1.0
+1579,6/17/2022,Xã Vĩnh Tân,Huyện Vĩnh Cửu,Đồng Nai,998.0,9.0,58.0,1,Unknow,1.0
+1580,6/17/2022,Xã Suối Cát,Huyện Xuân Lộc,Đồng Nai,980.0,21.0,51.0,1,Unknow,1.0
+1581,6/17/2022,Xã Bình Minh,Huyện Trảng Bom,Đồng Nai,110.0,0.0,0.0,1,Unknow,0.56
+1582,6/17/2022,Phường Hiệp Hòa,Tp. Biên Hòa,Đồng Nai,67.2,0.0,0.0,1,Unknow,2.5
+1583,6/17/2022,Phường Bàng La,Quận Đồ Sơn,Hải Phòng,65.0,0.0,4.2,0,Unknow,0.59
+1584,6/17/2022,Xã Tiến Xuân,Huyện Thạch Thất,Hà Nội,390.0,45.0,8.95,1,Unknow,5.38
+1585,6/17/2022,Xã Ngũ Phúc,Huyện Kim Thành,Hải Dương,65.0,15.0,4.5,1,Unknow,0.6
+1586,6/17/2022,Phường Thạnh Phước,Thị xã Tân Uyên,Bình Dương,264.0,22.0,12.0,1,Nam,1.7
+1587,6/17/2022,Xã Tiến Xuân,Huyện Thạch Thất,Hà Nội,390.0,46.0,10.0,1,Unknow,5.38
+1588,6/17/2022,Xã Đồng Tiến,Huyện Đồng Phú,Bình Phước,250.0,60.0,5.0,1,Đông,0.65
+1589,6/17/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,1,Unknow,1.72
+1590,6/17/2022,Xã Lai Hưng,Huyện Bàu Bàng,Bình Dương,75.0,15.0,5.0,1,Unknow,0.83
+1591,6/17/2022,Xã Ninh Quang,Thị xã Ninh Hòa,Khánh Hòa,86.0,12.0,8.0,0,Đông,0.7
+1592,6/17/2022,Xã Diên Toàn,Huyện Diên Khánh,Khánh Hòa,1158.0,0.0,0.0,0,Đ.Nam,2.8
+1593,6/17/2022,Xã Định Thành,Huyện Dầu Tiếng,Bình Dương,319.0,60.0,5.0,1,Unknow,1.4
+1594,6/17/2022,Xã Cổ Đông,Thị xã Sơn Tây,Hà Nội,60.0,12.0,5.0,1,Unknow,0.93
+1595,6/17/2022,Xã Điện Phong,Thị xã Điện Bàn,Quảng Nam,195.0,38.0,5.1,1,T.Bắc,0.54
+1596,6/17/2022,Phường Bình Trưng Tây,Tp. Thủ Đức,Hồ Chí Minh,91.1,17.1,5.3,0,Unknow,6.9
+1597,6/17/2022,Thị trấn Chơn Thành,Huyện Chơn Thành,Bình Phước,150.0,0.0,0.0,1,Unknow,1.1
+1598,6/17/2022,Xã Hải Bối,Huyện Đông Anh,Hà Nội,60.0,0.0,3.6,1,Đông,1.86
+1599,6/17/2022,Phường Tân Xuân,Tp. Đồng Xoài,Bình Phước,114.0,5.0,23.0,1,Unknow,1.38
+1600,6/17/2022,Thị trấn Bến Cầu,Huyện Bến Cầu,Tây Ninh,100.0,5.0,20.0,0,Nam,0.69
+1601,6/17/2022,Phường Mỹ Xuân,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,187.0,38.0,5.0,1,Unknow,5.42
+1602,6/17/2022,Xã Liên Bão,Huyện Tiên Du,Bắc Ninh,90.0,19.0,5.0,1,Unknow,2.45
+1603,6/17/2022,Phường Hạp Lĩnh,Tp. Bắc Ninh,Bắc Ninh,65.0,10.0,6.99,1,Unknow,1.25
+1604,6/17/2022,Xã Trung Lập Thượng,Huyện Củ Chi,Hồ Chí Minh,469.0,67.0,7.0,1,Unknow,0.73
+1605,6/17/2022,Phường Phú Mỹ,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,136.0,26.0,5.0,1,Unknow,4.76
+1606,6/17/2022,Xã Xuân Trường,Tp. Đà Lạt,Lâm Đồng,4000.0,0.0,0.0,0,Unknow,12.0
+1607,6/17/2022,Xã Tân Phước,Huyện Đồng Phú,Bình Phước,1000.0,37.0,38.0,1,Đ.Nam,1.4
+1608,6/17/2022,Xã Điện Hồng,Thị xã Điện Bàn,Quảng Nam,158.0,32.0,5.0,1,Unknow,0.3
+1609,6/17/2022,Xã Sông Xoài,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,200.0,26.0,5.0,1,Đ.Nam,1.47
+1610,6/17/2022,Xã Nha Bích,Huyện Chơn Thành,Bình Phước,200.0,0.0,0.0,1,Unknow,0.799
+1611,6/17/2022,Xã Lộc Thạnh,Huyện Lộc Ninh,Bình Phước,153.0,30.0,5.0,1,Unknow,0.414
+1612,6/17/2022,Xã Tân Hiệp,Huyện Phú Giáo,Bình Dương,1000.0,0.0,0.0,0,Unknow,1.86
+1613,6/17/2022,Xã Tân Bình,Huyện Tân Uyên,Bình Dương,1000.0,0.0,0.0,0,Unknow,1.8
+1614,6/17/2022,363 Nguyễn hữu Thọ,Khuê Trung,Cẩm Lệ,100.0,20.0,5.0,0,Tây,0.999
+1615,6/17/2022,Xã Cư Suê,Huyện Cư M'gar,Đắk Lắk,250.0,10.0,25.0,0,Unknow,0.95
+1616,6/17/2022,Xã Đức Lập Thượng,Huyện Đức Hòa,Long An,85.0,16.0,5.0,1,Unknow,0.89
+1617,6/17/2022,Xã Liên Hiệp,Huyện Đức Trọng,Lâm Đồng,507.0,50.0,14.0,0,Unknow,3.4
+1618,6/17/2022,Xã Long Khánh,Huyện Bến Cầu,Tây Ninh,229.0,5.0,46.0,1,Đông,0.705
+1619,6/17/2022,Xã Đức Hòa Thượng,Huyện Đức Hòa,Long An,768.0,30.0,25.0,1,Unknow,13.5
+1620,6/17/2022,Phường Phú Mỹ,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,136.0,26.0,5.0,1,Đ.Nam,4.4
+1621,6/17/2022,Xã Đức Lập Thượng,Huyện Đức Hòa,Long An,80.0,16.0,5.0,1,Unknow,1.1
+1622,6/17/2022,Xã Đức Lập Thượng,Huyện Đức Hòa,Long An,100.0,20.0,5.0,1,Đ.Nam,0.98
+1623,6/17/2022,Xã Sông Xoài,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,16000000.0,26.0,9.0,1,Đ.Nam,3.2
+1624,6/17/2022,Phường Tam Hiệp,Tp. Biên Hòa,Đồng Nai,130.0,0.0,4.9,1,Đ.Nam,5.7
+1625,6/17/2022,Xã Cư Yên,Huyện Lương Sơn,Hoà Bình,1896.0,50.0,39.98,1,Unknow,7.6
+1626,6/16/2022,Xã Tiên Thuận,Huyện Bến Cầu,Tây Ninh,100.0,5.0,20.0,1,Unknow,0.89
+1627,6/16/2022,Xã Phước Đông,Huyện Gò Dầu,Tây Ninh,120.0,5.0,25.0,1,Unknow,0.699
+1628,6/16/2022,Thị trấn Hòa Thành,Huyện Hòa Thành,Tây Ninh,100.0,5.0,20.0,1,Unknow,0.635
+1629,6/16/2022,Thị trấn Trảng Bàng,Huyện Trảng Bàng,Tây Ninh,300.0,5.0,60.0,1,Unknow,0.98
+1630,6/16/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,200000.0,0.0,0.0,1,Unknow,2.6
+1631,6/16/2022,Xã Lộc Phú,Huyện Bảo Lâm,Lâm Đồng,170.0,34.0,5.0,1,Unknow,0.935
+1632,6/16/2022,Xã Lộc Khánh,Huyện Lộc Ninh,Bình Phước,250.0,50.0,5.0,1,Đông,0.595
+1633,6/16/2022,Xã Tân Định,Huyện Tân Uyên,Bình Dương,1200.0,52.0,20.0,1,Unknow,1.56
+1634,6/16/2022,Xã Phước Khánh,Huyện Nhơn Trạch,Đồng Nai,1000.0,0.0,0.0,1,Unknow,0.8
+1635,6/16/2022,Xã Hiên Vân,Huyện Tiên Du,Bắc Ninh,78.0,17.0,4.99,1,Unknow,1.25
+1636,6/16/2022,Xã Liên Bão,Huyện Tiên Du,Bắc Ninh,80.0,7.0,12.0,1,Unknow,1.56
+1637,6/16/2022,Phường Khúc Xuyên,Tp. Bắc Ninh,Bắc Ninh,72.0,16.0,5.0,1,Unknow,2.66
+1638,6/16/2022,Xã Định An,Huyện Dầu Tiếng,Bình Dương,1102.0,92.0,12.0,1,Unknow,2.9
+1639,6/16/2022,Phường Hòa Khê,Quận Thanh Khê,Đà Nẵng,94.5,20.0,5.11,1,Unknow,2.4
+1640,6/16/2022,Xã Tân Bình,Huyện Tân Biên,Tây Ninh,150.0,0.0,0.0,0,Unknow,0.49
+1641,6/16/2022,Phường Hòa Phát,Quận Cẩm Lệ,Đà Nẵng,132.0,0.0,4.3,1,Nam,4.0
+1642,6/16/2022,Thị trấn Trảng Bàng,Huyện Trảng Bàng,Tây Ninh,150.0,0.0,0.0,0,Unknow,0.39
+1643,6/16/2022,Xã Đồng Tiến,Huyện Đồng Phú,Bình Phước,250.0,60.0,5.0,1,Unknow,0.6
+1644,6/16/2022,Xã Xuân Tây,Huyện Cẩm Mỹ,Đồng Nai,1100.0,100.0,10.02,1,Unknow,1.1
+1645,6/16/2022,Xã Lộc Thanh,Tp. Bảo Lộc,Lâm Đồng,782.0,0.0,0.0,1,Unknow,2.0
+1646,6/16/2022,Xã Diên Thọ,Huyện Diên Khánh,Khánh Hòa,136.0,0.0,0.0,0,T.Bắc,1.2
+1647,6/16/2022,Xã Trừ Văn Thố,Huyện Bàu Bàng,Bình Dương,150.0,0.0,0.0,1,Unknow,1.12
+1648,6/16/2022,Xã Mỹ Lệ,Huyện Cần Đước,Long An,98.0,5.0,19.6,1,Unknow,1.57
+1649,6/16/2022,Xã Tân Hưng,Huyện Đồng Phú,Bình Phước,250.0,5.0,50.0,1,Unknow,0.55
+1650,6/16/2022,Thị trấn Gò Dầu,Huyện Gò Dầu,Tây Ninh,150.0,30.0,5.0,1,Tây,0.69
+1651,6/16/2022,Thị trấn Bến Cầu,Huyện Bến Cầu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.6
+1652,6/16/2022,Xã Đức Hòa Đông,Huyện Đức Hòa,Long An,125.0,25.0,5.0,1,Unknow,1.85
+1653,6/16/2022,Phường Minh Đức,Quận Đồ Sơn,Hải Phòng,41.0,0.0,4.0,1,Unknow,0.6
+1654,6/16/2022,Xã Lộc Thạnh,Huyện Lộc Ninh,Bình Phước,1095.0,100.0,10.0,1,Unknow,0.434
+1655,6/16/2022,Xã Nhuận Đức,Huyện Củ Chi,Hồ Chí Minh,136.0,13.0,10.0,1,Unknow,0.9
+1656,6/16/2022,Phường Khúc Xuyên,Tp. Bắc Ninh,Bắc Ninh,72.0,16.0,4.5,1,Unknow,3.55
+1657,6/16/2022,Xã Phước Vân,Huyện Cần Đước,Long An,100.0,5.0,20.0,1,Unknow,0.85
+1658,6/16/2022,Xã Mỹ Lệ,Huyện Cần Đước,Long An,98.0,0.0,5.0,1,Unknow,1.5
+1659,6/16/2022,Xã Đức Hòa Đông,Huyện Đức Hòa,Long An,90.0,18.0,5.0,1,T.Nam,1.5
+1660,6/16/2022,Xã Tân Phước,Huyện Đồng Phú,Bình Phước,200.0,40.0,5.0,1,Đông,0.55
+1661,6/16/2022,Xã Đức Lập Thượng,Huyện Đức Hòa,Long An,99.0,16.0,6.5,1,Unknow,0.98
+1662,6/16/2022,Thị trấn Hậu Nghĩa,Huyện Đức Hòa,Long An,140.0,28.0,5.0,1,Unknow,1.35
+1663,6/16/2022,Xã Phú Mỹ Hưng,Huyện Củ Chi,Hồ Chí Minh,3896.0,123.0,42.0,1,Unknow,5.7
+1664,6/16/2022,Phường Tân Đông Hiệp,Tp. Dĩ An,Bình Dương,1558.0,13.01,119.0,1,Unknow,1.4
+1665,6/16/2022,Xã N'Thol Hạ,Huyện Đức Trọng,Lâm Đồng,228.0,38.0,6.0,1,Đông,1.2
+1666,6/16/2022,Xã Lộc Tân,Huyện Bảo Lâm,Lâm Đồng,1110.0,16.0,70.0,1,Unknow,2.66
+1667,6/16/2022,Phường Trảng Dài,Tp. Biên Hòa,Đồng Nai,230.0,0.0,8.0,0,Unknow,6.2
+1668,6/16/2022,Xã Phú Cát,Huyện Quốc Oai,Hà Nội,316.0,33.0,10.0,0,Unknow,2.2
+1669,6/16/2022,Xã Ngư Thủy,Huyện Lệ Thủy,Quảng Bình,94.5,19.5,5.0,1,Đ.Bắc,0.555
+1670,6/16/2022,Xã Lộc Điền,Huyện Phú Lộc,Thừa Thiên Huế,167.0,24.0,7.0,1,Đông,1.37
+1671,6/16/2022,Xã Hòa Thắng,Huyện Bắc Bình,Bình Thuận,20000.0,205.0,92.0,1,Unknow,2.6
+1672,6/16/2022,Thị trấn Trảng Bàng,Huyện Trảng Bàng,Tây Ninh,200.0,5.0,40.0,1,Tây,0.85
+1673,6/16/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,5465.0,100.0,54.65,1,Unknow,1.37
+1674,6/16/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,9602.0,0.0,0.0,1,Unknow,1.33
+1675,6/16/2022,Phường Hòa Minh,Quận Liên Chiểu,Đà Nẵng,217.0,21.7,10.0,1,T.Bắc,11.5
+1676,6/16/2022,Phường Vân Dương,Tp. Bắc Ninh,Bắc Ninh,78.0,17.0,5.0,1,Unknow,1.76
+1677,6/16/2022,Xã Tân Xã,Huyện Thạch Thất,Hà Nội,86.0,12.0,7.0,1,Unknow,1.72
+1678,6/16/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,1,Nam,1.5
+1679,6/16/2022,Thị trấn Gò Dầu,Huyện Gò Dầu,Tây Ninh,230.0,18.0,13.0,1,Unknow,0.45
+1680,6/16/2022,Xã Phước Đông,Huyện Gò Dầu,Tây Ninh,121.0,25.0,5.0,1,Tây,0.7
+1681,6/16/2022,Xã Điện Trung,Thị xã Điện Bàn,Quảng Nam,110.0,5.5,0.0,1,Unknow,0.55
+1682,6/16/2022,Xã Phước Thạnh,Huyện Củ Chi,Hồ Chí Minh,145.0,29.0,5.0,1,Đông,0.998
+1683,6/16/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,110.0,22.0,5.0,1,Bắc,1.1
+1684,6/16/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,1,Bắc,1.65
+1685,6/16/2022,Xã Lộc Thạnh,Huyện Lộc Ninh,Bình Phước,315.0,26.0,12.0,1,Unknow,0.419
+1686,6/16/2022,Xã Mỹ Lệ,Huyện Cần Đước,Long An,95.0,19.0,5.0,1,Unknow,1.52
+1687,6/16/2022,Phường 9,Tp. Đà Lạt,Lâm Đồng,300.0,15.0,16.0,1,Đ.Nam,29.0
+1688,6/16/2022,Phường Lĩnh Nam,Quận Hoàng Mai,Hà Nội,133.2,0.0,0.0,1,Unknow,6.27
+1689,6/16/2022,Xã Long Hậu,Huyện Cần Giuộc,Long An,54.0,13.8,4.0,1,Unknow,1.2
+1690,6/16/2022,Xã Phước Lại,Huyện Cần Giuộc,Long An,521.0,0.0,0.0,1,Unknow,1.2
+1691,6/15/2022,Xã Phước Vĩnh An,Huyện Củ Chi,Hồ Chí Minh,85.0,15.5,6.0,0,Unknow,0.95
+1692,6/15/2022,Xã Phước Vĩnh An,Huyện Củ Chi,Hồ Chí Minh,86.5,5.0,17.0,1,Đ.Bắc,1.08
+1693,6/15/2022,Phường Chánh Lộ,Tp. Quảng Ngãi,Quảng Ngãi,85.0,17.0,5.0,1,Unknow,3.1
+1694,6/15/2022,Phường Trường Thạnh,Tp. Thủ Đức,Hồ Chí Minh,54.0,0.0,0.0,0,Unknow,0.6
+1695,6/15/2022,Xã Đức Hòa Hạ,Huyện Đức Hòa,Long An,187.0,87.0,4.99,1,Unknow,2.35
+1696,6/15/2022,Phường Vũ Ninh,Tp. Bắc Ninh,Bắc Ninh,84.0,0.0,0.0,1,Unknow,5.0
+1697,6/15/2022,Xã Tân Hưng,Huyện Hớn Quản,Bình Phước,250.0,5.0,50.0,1,Đông,0.84
+1698,6/15/2022,Xã Quang Minh,Huyện Chơn Thành,Bình Phước,300.0,60.0,5.0,1,Unknow,0.6
+1699,6/15/2022,Xã Phương Liễu,Huyện Quế Võ,Bắc Ninh,120.0,24.0,5.0,1,Unknow,5.3
+1700,6/15/2022,Xã Phước Vĩnh An,Huyện Củ Chi,Hồ Chí Minh,85.0,0.0,0.0,1,Unknow,2.0
+1701,6/15/2022,Xã Đức Hòa Thượng,Huyện Đức Hòa,Long An,100.0,20.0,5.0,1,Unknow,0.9
+1702,6/15/2022,Phường Đồng Nguyên,Thị xã Từ Sơn,Bắc Ninh,122.0,24.0,4.5,1,Unknow,3.2
+1703,6/15/2022,Xã Tu Tra,Huyện Đơn Dương,Lâm Đồng,200.0,0.0,0.0,1,Bắc,2.8
+1704,6/15/2022,Xã Lai Hưng,Huyện Bàu Bàng,Bình Dương,123.0,24.0,5.0,1,Unknow,1.97
+1705,6/15/2022,Xã Lai Hưng,Huyện Bàu Bàng,Bình Dương,123.0,24.0,5.0,1,Unknow,1.97
+1706,6/15/2022,Phường Hòa Xuân,Quận Cẩm Lệ,Đà Nẵng,97.0,19.5,5.0,1,T.Bắc,3.65
+1707,6/15/2022,Xã Bình Mỹ,Huyện Tân Uyên,Bình Dương,1000.0,100.0,10.0,1,T.Nam,1.3
+1708,6/15/2022,Thị trấn Trảng Bàng,Huyện Trảng Bàng,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.75
+1709,6/15/2022,Thị trấn Bến Cầu,Huyện Bến Cầu,Tây Ninh,150.0,5.0,30.0,1,Unknow,0.6
+1710,6/15/2022,Thị trấn Gò Dầu,Huyện Gò Dầu,Tây Ninh,150.0,5.0,30.0,1,Tây,0.75
+1711,6/15/2022,Phường Phú Mỹ,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,170.0,116.0,5.0,1,Đ.Nam,5.44
+1712,6/15/2022,Xã Lộc Tân,Huyện Bảo Lâm,Lâm Đồng,1110.0,16.0,70.0,1,Unknow,2.66
+1713,6/15/2022,Xã Hưng Thi,Huyện Lạc Thủy,Hoà Bình,812.0,0.0,0.0,0,Unknow,3.25
+1714,6/15/2022,Xã Hưng Thi,Huyện Lạc Thủy,Hoà Bình,250.0,0.0,0.0,0,Unknow,10.0
+1715,6/15/2022,Xã Đa Phúc,Huyện Yên Thủy,Hoà Bình,674.0,0.0,0.0,0,Unknow,10.0
+1716,6/15/2022,Thị trấn Hàng Trạm,Huyện Yên Thủy,Hoà Bình,959.0,0.0,0.0,0,Unknow,1.5
+1717,6/15/2022,Xã Đa Phúc,Huyện Yên Thủy,Hoà Bình,698.0,0.0,0.0,0,Unknow,0.7
+1718,6/15/2022,Xã Thủy Xuân Tiên,Huyện Chương Mỹ,Hà Nội,60.0,0.0,0.0,1,Unknow,0.82
+1719,6/15/2022,Xã Suối Cát,Huyện Cam Lâm,Khánh Hòa,234.0,32.0,8.0,1,Đ.Nam,1.5
+1720,6/15/2022,Xã Bình Tân,Huyện Bắc Bình,Bình Thuận,9600.0,100.0,95.99,1,Unknow,1.3
+1721,6/15/2022,Phường Bình Trị Đông B,Quận Bình Tân,Hồ Chí Minh,54.0,4.0,15.0,1,Unknow,3.45
+1722,6/15/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,7916.0,0.0,0.0,1,Unknow,0.132
+1723,6/15/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,7790.0,80.0,79.0,1,Unknow,1.52
+1724,6/15/2022,Xã Tân Lạc,Huyện Bảo Lâm,Lâm Đồng,165.0,33.0,5.0,1,Unknow,0.907
+1725,6/15/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,11484.0,30.0,20.0,1,Unknow,1.3
+1726,6/15/2022,Xã Vinh Hà,Huyện Phú Vang,Thừa Thiên Huế,130.0,21.0,6.2,1,T.Bắc,0.549
+1727,6/15/2022,Xã Tân Bình,Tp. Tây Ninh,Tây Ninh,150.0,5.0,20.0,1,Unknow,0.68
+1728,6/15/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,6773.0,100.0,67.73,1,Unknow,0.88
+1729,6/15/2022,Xã Hồng Thái,Huyện Bắc Bình,Bình Thuận,6773.0,100.0,67.73,1,Unknow,0.88
+1730,6/15/2022,Xã B' Lá,Huyện Bảo Lâm,Lâm Đồng,1040.9,100.0,10.0,1,Unknow,1.04
+1731,6/15/2022,Xã An Phú,Huyện Mỹ Đức,Hà Nội,500.0,0.0,10.0,0,Unknow,4.0
+1732,6/15/2022,Phường Chánh Phú Hòa,Thị xã Bến Cát,Bình Dương,350.0,50.0,6.0,1,Unknow,1.2
+1733,6/15/2022,Phường Kim Dinh,Tp. Bà Rịa,Bà Rịa - Vũng Tàu,90.0,6.0,15.0,1,Đ.Nam,1.25
+1734,6/15/2022,Xã Phước Vĩnh An,Huyện Củ Chi,Hồ Chí Minh,85.0,14.0,5.99,1,Unknow,1.87
+1735,6/15/2022,Xã Hiệp Thạnh,Huyện Đức Trọng,Lâm Đồng,677.0,63.0,10.0,0,Đông,3.15
+1736,6/15/2022,Xã Vĩnh Lộc A,Huyện Bình Chánh,Hồ Chí Minh,98.0,19.0,5.0,1,Unknow,0.17777
+1737,6/15/2022,Phường Bình Trị Đông A,Quận Bình Tân,Hồ Chí Minh,64.0,14.0,4.0,1,Unknow,0.5
+1738,6/15/2022,Xã An Phước,Huyện Long Thành,Đồng Nai,100.0,0.0,0.0,1,Unknow,1.13
+1739,6/15/2022,Thị trấn Lai Uyên,Huyện Bàu Bàng,Bình Dương,150.0,0.0,0.0,1,Unknow,1.2
+1740,6/15/2022,Phường Chánh Phú Hòa,Thị xã Bến Cát,Bình Dương,300.0,30.0,10.0,1,Unknow,2.17
+1741,6/15/2022,Thị trấn Cần Giuộc,Huyện Cần Giuộc,Long An,607.0,35.0,17.0,1,Unknow,1.84
+1742,6/15/2022,Phường Điện Ngọc,Thị xã Điện Bàn,Quảng Nam,100.0,0.0,0.0,0,Unknow,1.77
+1743,6/15/2022,Xã Phước Lâm,Huyện Cần Giuộc,Long An,254.0,53.4,5.0,1,Unknow,5.08
+1744,6/15/2022,Xã Tân Tập,Huyện Cần Giuộc,Long An,206.0,41.0,5.0,1,Unknow,2.0
+1745,6/15/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,1,Nam,1.6
+1746,6/15/2022,Thị trấn Bến Lức,Huyện Bến Lức,Long An,90.0,15.0,6.0,1,Unknow,0.898
+1747,6/15/2022,Xã Truông Mít,Huyện Dương Minh Châu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.55
+1748,6/15/2022,Xã Minh Châu,Huyện Yên Mỹ,Hưng Yên,55.0,0.0,0.0,1,Đ.Nam,0.82
+1749,6/15/2022,Xã Ngư Thủy Bắc,Huyện Lệ Thủy,Quảng Bình,95.0,19.5,5.0,1,Đ.Bắc,0.03
+1750,6/15/2022,Xã Trung Lập Hạ,Huyện Củ Chi,Hồ Chí Minh,300.0,29.0,12.0,1,Unknow,0.69
+1751,6/15/2022,Phường Thượng Cát,Quận Bắc Từ Liêm,Hà Nội,54.0,16.0,3.0,1,Unknow,2.16
+1752,6/15/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,5.0,30.0,1,Unknow,1.85
+1753,6/15/2022,Xã Bình Tú,Huyện Thăng Bình,Quảng Nam,100.0,12.2,9.0,0,Unknow,1.3
+1754,6/15/2022,Xã Phước Vân,Huyện Cần Đước,Long An,125.0,25.0,5.0,1,Đông,0.89
+1755,6/15/2022,Xã Bình Tú,Huyện Thăng Bình,Quảng Nam,125.0,25.0,5.0,0,Unknow,2.3
+1756,6/15/2022,Phường An Bình,Tp. Dĩ An,Bình Dương,350.0,50.0,7.0,1,Đ.Nam,0.4
+1757,6/15/2022,Xã Vân Hòa,Huyện Ba Vì,Hà Nội,727.0,30.0,24.0,1,Unknow,3.3
+1758,6/15/2022,Xã Phú Hòa Đông,Huyện Củ Chi,Hồ Chí Minh,479.0,44.0,13.0,1,Unknow,3.98
+1759,6/14/2022,Xã Long Cang,Huyện Cần Đước,Long An,105.0,0.0,0.0,0,Unknow,1.0
+1760,6/14/2022,Xã Phước Vân,Huyện Cần Đước,Long An,125.0,4.0,31.0,1,Unknow,1.2
+1761,6/14/2022,Xã Đại Đồng,Huyện Đại Lộc,Quảng Nam,100.0,6.0,0.0,0,Unknow,0.7
+1762,6/14/2022,Thị trấn Bến Cầu,Huyện Bến Cầu,Tây Ninh,150.0,30.0,5.0,1,Unknow,0.7
+1763,6/14/2022,Xã Tân Quan,Huyện Hớn Quản,Bình Phước,604.0,60.0,7.99,1,Unknow,0.7852
+1764,6/14/2022,Xã Lộc Thanh,Tp. Bảo Lộc,Lâm Đồng,782.0,0.0,0.0,1,Unknow,2.0
+1765,6/14/2022,Thị trấn Gò Dầu,Huyện Gò Dầu,Tây Ninh,200.0,5.0,40.0,1,Unknow,0.6
+1766,6/14/2022,Thị trấn Di Linh,Huyện Di Linh,Lâm Đồng,370.0,33.7,11.0,1,Unknow,3.3
+1767,6/14/2022,Phường Mỹ An,Quận Ngũ Hành Sơn,Đà Nẵng,100.0,14.3,7.0,1,Unknow,6.3
+1768,6/14/2022,Xã Gung Ré,Huyện Di Linh,Lâm Đồng,3500.0,89.0,40.0,1,Unknow,2.1
+1769,6/14/2022,Phường Ngọc Khánh,Quận Ba Đình,Hà Nội,40.0,10.0,4.0,1,Unknow,5.3
+1770,6/14/2022,Phường Linh Trung,Tp. Thủ Đức,Hồ Chí Minh,67.0,0.0,4.0,0,T.Bắc,5.7
+1771,6/14/2022,Phường Phú Tân,Tp. Thủ Dầu Một,Bình Dương,190.0,30.0,6.34,1,Đ.Nam,4.5
+1772,6/14/2022,Phường Điện Ngọc,Thị xã Điện Bàn,Quảng Nam,100.0,20.0,5.0,1,Tây,2.0
+1773,6/14/2022,Xã Đức Hòa Thượng,Huyện Đức Hòa,Long An,80.0,0.0,0.0,0,Unknow,0.45
+1774,6/14/2022,Xã Bình Tú,Huyện Thăng Bình,Quảng Nam,125.0,25.0,5.0,1,Unknow,2.25
+1775,6/14/2022,Xã Lộc An,Huyện Long Thành,Đồng Nai,250250.0,50.0,5.0,1,Unknow,3.85
+1776,6/14/2022,Xã Phú Mỹ Hưng,Huyện Củ Chi,Hồ Chí Minh,190.0,38.0,5.0,1,Bắc,0.72
+1777,6/14/2022,Phường Tây Thạnh,Quận Tân Phú,TP. Hồ Chí Minh,90.0,0.0,0.0,1,Unknow,2.19
+1778,6/14/2022,Phường Mũi Né,TP. Phan Thiết,Bình Thuận,1300.0,0.0,0.0,0,Unknow,26.0
+1781,6/14/2022,Xã Nghĩa Hưng,Huyện Chư Păh,Gia Lai,300.0,50.0,6.0,0,Unknow,2.0
+1782,6/14/2022,Xã Lương Hòa,Huyện Bến Lức,Long An,1800.0,0.0,0.0,0,Unknow,7.2
+1783,6/14/2022,Phường Tân Định,Thị xã Bến Cát,Bình Dương,200.0,20.0,10.0,0,Unknow,0.86
+1784,6/14/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+1785,6/14/2022,Xã Tân Phước,Huyện Đồng Phú,Bình Phước,226.0,45.0,6.0,1,Đ.Bắc,0.459
+1786,6/14/2022,Phường 13,Quận Bình Thạnh,TP. Hồ Chí Minh,120.0,20.0,6.0,1,Unknow,2.85
+1787,6/14/2022,Phường Hợp Đức,Quận Đồ Sơn,TP Hải Phòng,200.0,20.0,10.0,0,Unknow,15.0
+1788,6/14/2022,Phường Trường Thọ,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,16.0,5.0,1,Unknow,2.35
+1789,6/14/2022,Phường Minh Hưng,Thị xã Chơn Thành,Bình Phước,420.0,30.0,15.0,1,Unknow,0.6
+1790,6/14/2022,Phường Sa Pa,Thị Xã Sa Pa,Lào Cai,71.0,0.0,0.0,0,Unknow,2.5
+1791,6/14/2022,Phường Minh Hưng,Thị xã Chơn Thành,Bình Phước,1000.0,80.0,13.0,1,Unknow,0.5
+1792,6/14/2022,Thị trấn Trâu Quỳ,Huyện Gia Lâm,Hà Nội,40.0,8.0,5.0,1,Unknow,3.1
+1793,6/14/2022,phường Hợp Đức,Quận Đồ Sơn,TP. Hải Phòng,200.0,20.0,10.0,0,Unknow,15.0
+1794,6/14/2022,Phường Phú Mỹ,Quận 7,TP. Hồ Chí Minh,85.0,0.0,0.0,1,Unknow,2.19
+1795,6/14/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,6.0,22.0,1,Đ.Nam,0.9
+1796,6/14/2022,Xã Đức Hòa Đông,Huyện Đức Hòa,Long An,125.0,0.0,0.0,0,Unknow,1.35
+1797,6/14/2022,Xã Vĩnh Lộc B,Huyện Bình Chánh,TP. Hồ Chí Minh,85.0,0.0,0.0,1,Unknow,1.88
+1798,6/14/2022,Xã Y Tý,Huyện Bát Xát,Lào Cai,956.0,0.0,0.0,0,Unknow,0.32
+1799,6/14/2022,Xã An Phú,Huyện Mỹ Đức,TP. Hà Nội,132.0,22.0,6.0,1,Unknow,0.9
+1800,6/14/2022,Xã Phước Vinh,Huyện Châu Thành,Tây Ninh,917.0,0.0,0.0,0,Unknow,2.2
+1801,6/14/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Đ.Bắc,0.899
+1803,6/14/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,527.0,35.0,15.0,1,Unknow,10.0
+1804,6/14/2022,Xã Bàu Cạn,Huyện Long Thành,Đồng Nai,1068.0,0.0,0.0,1,Unknow,2.4
+1805,6/14/2022,Xã Nguyên Khê,Huyện Đông Anh,TP. HN,86.0,16.0,5.22,0,Unknow,4.7
+1806,6/14/2022,phường An Lạc,Quận Bình Tân,TP. HCM,60.0,15.0,4.0,0,Unknow,1.2
+1807,6/14/2022,Phường Tân Phú,Quận 7,TP. Hồ Chí Minh,100.0,20.0,5.0,1,Unknow,1.99
+1808,6/13/2022,Xã Phước Vĩnh An,Huyện Củ Chi,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,1.35
+1809,6/13/2022,Xã Việt Hùng,Huyện Đông Anh,TP. Hà Nội,168.0,14.0,12.0,1,T.Bắc,5.7
+1810,6/13/2022,xã Nguyên Khê,huyện Đông Anh,TP. Hà Nội,86.0,16.0,5.22,0,Unknow,4.7
+1811,6/13/2022,Ea Ning,Huyện Cư Kuin,Đăk Lăk,1600.0,0.0,0.0,0,Unknow,3.5
+1812,6/13/2022,Xã Vân Côn,Huyện Hoài Đức,TP. Hà Nội,250.0,0.0,0.0,0,Unknow,14.22
+1813,6/13/2022,Xã Bình Chánh,Huyện Bình Chánh,TP. Hồ Chí Minh,83.0,16.0,5.0,1,Unknow,3.25
+1814,6/13/2022,Xã Tây Hòa,Huyện Trảng Bom,Đồng Nai,130.0,26.0,5.0,0,Unknow,1.5
+1815,6/13/2022,Xã Diên Xuân,Huyện Diên Khánh,Khánh Hòa,265.0,53.0,5.0,0,Unknow,1.05
+1816,6/13/2022,Phường Đa Phúc,Quận Dương Kinh,TP Hải Phòng,107.0,20.0,5.0,0,Unknow,2.78
+1817,6/13/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,90.0,0.0,0.0,0,Unknow,1.5
+1818,6/13/2022,Xã Vân Côn,Huyện Hoài Đức,TP. Hà Nội,425.0,0.0,0.0,0,Unknow,14.2
+1819,6/13/2022,Đường Xuân Nộn,Huyện Đông Anh,TP Hà Nội,100.0,20.0,5.0,0,Unknow,2.29
+1820,6/13/2022,Phường Thuận Phước,Quận Hải Châu,TP. Đà Nẵng,125.0,25.0,5.0,0,Unknow,16.0
+1821,6/13/2022,Xã Hòa Xuân,TP. Buôn Ma Thuột,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.9
+1822,6/13/2022,phường Hợp Đức,Quận Đồ Sơn,TP. Hải Phòng,120.0,20.0,6.0,0,Unknow,5.4
+1823,6/13/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Đông,0.899
+1824,6/13/2022,Xã Mai Lâm,Huyện Đông Anh,TP Hà Nội,190.0,17.0,11.0,0,Unknow,9.69
+1825,6/13/2022,Xã Sơn Mỹ,Huyện Hàm Tân,Bình Thuận,2362.0,46.0,50.0,1,Đ.Nam,9.66
+1826,6/13/2022,Phường Vĩnh Hoà,Tp. Nha Trang,Khánh Hòa,110.0,18.0,6.5,0,Unknow,8.3
+1827,6/13/2022,Xã Gia Bình,Huyện Trảng Bàng,Tây Ninh,200.0,0.0,0.0,0,Unknow,0.5
+1828,6/13/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Đông,0.899
+1829,6/13/2022,Xã Việt Hùng,Huyện Đông Anh,TP. HN,168.0,12.0,14.0,0,Unknow,5.0
+1830,6/13/2022,phường Vĩnh Hòa,TP. Nha Trang,Khánh Hòa,110.0,18.0,6.5,0,Unknow,8.3
+1831,6/13/2022,Phường Dĩ An,TP. Dĩ An,Bình Dương,250.0,50.0,4.99,1,Bắc,0.855
+1832,6/13/2022,Xã Tiên Dương,Huyện Đông Anh,TP Hà Nội,60.0,12.0,5.0,0,Unknow,2.5
+1833,6/13/2022,Đường Nguyễn Thị Tư,Phường Phú Hữu,TP Thủ Đức,64.0,14.7,4.37,0,Unknow,2.9
+1834,6/13/2022,xã Uy Nỗ,Huyện Đông Anh,Hà Nội,55.0,12.0,4.5,0,Unknow,1.95
+1835,6/13/2022,xã Diên Phước,Huyện Diên Khánh,Khánh Hòa,180.0,22.5,8.0,0,Unknow,1.75
+1836,6/13/2022,Xã Đại An,Huyện Đại Lộc,Quảng Nam,755.0,36.0,21.0,1,Đ.Nam,3.5
+1837,6/13/2022,Thị Trấn Đông Anh,Huyện Đông Anh,TP Hà Nội,35.0,11.0,4.0,0,Unknow,1.8
+1838,6/13/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+1839,6/13/2022,thị trấn Đông Anh,Huyện Đông Anh,TP. HN,46.0,11.0,4.0,0,Unknow,1.4
+1840,6/13/2022,thị trấn Đông Anh,Huyện Đông Anh,TP. Hà Nội,40.0,10.0,4.0,0,Unknow,1.6
+1841,6/13/2022,Phường IV,TP. Vị Thanh,Hậu Giang,100.0,0.0,0.0,0,Unknow,1.4
+1842,6/13/2022,xã Đông Thạnh,Huyện Cần Giuộc,Long An,126.0,0.0,0.0,0,Unknow,1.17
+1843,6/13/2022,Xã Tiên Dương,Huyện Đông Anh,TP. Hà Nội,74.0,15.0,5.0,0,Unknow,2.59
+1844,6/13/2022,Xã Tân Tuyến,Huyện Tri Tôn,An Giang.,470.0,0.0,0.0,0,Unknow,0.8
+1845,6/13/2022,Xã Bình Giã,Châu Đức,Bà Rịa Vũng Tàu,1018.0,81.0,12.5,0,Unknow,1.85
+1846,6/13/2022,Xã Đức Lập Thượng,Huyện Đức Hòa,Long An,140.0,20.0,7.0,1,Unknow,1.6
+1847,6/13/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Đ.Nam,0.9
+1848,6/13/2022,Xã Khánh Đông,Huyện Khánh Vĩnh,Khánh Hòa,224.0,27.0,8.0,0,Unknow,0.739
+1849,6/13/2022,Phường Hoà Nghĩa,Quận Dương Kinh,TP. Hải Phòng,152.0,0.0,5.0,0,Đ.Nam,3.2
+1850,6/13/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,0.0,0.0,0,Unknow,0.899
+1851,6/13/2022,Xã Tân Thạnh Tây,Huyện Củ Chi,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,1.59
+1852,6/13/2022,Phường 1,TP. Tuy Hoà,Phú Yên,150.0,6.0,25.0,1,Đ.Nam,2.68
+1853,6/13/2022,Đường Quốc lộ 4C Quản Bạ,huyện Quản Bạ,Hà Giang,12000.0,0.0,0.0,0,Unknow,0.48
+1854,6/12/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,100.0,20.0,5.0,1,Unknow,0.987
+1855,6/12/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Đông,0.899
+1856,6/12/2022,Đường 1A Võ Cường,TP.Bắc Ninh,Bắc Ninh,60.0,11.5,5.25,0,Unknow,1.68
+1857,6/12/2022,Phường 5,TP. Đà Lạt,Lâm Đồng,75.0,0.0,0.0,1,Đ.Bắc,1.05
+1858,6/12/2022,Xã Vân Côn,Huyện Hoài Đức,TP. Hà Nội,250.0,0.0,0.0,0,Unknow,12.25
+1859,6/12/2022,Xã Cư Suê,Huyện Cư M'gar,Đắk Lắk,140.0,28.0,5.0,1,T.Nam,0.56
+1861,6/11/2022,Xã Lộc Nam,Huyện Bảo Lâm,Lâm Đồng,120.0,19.96,6.0,1,Unknow,1.0
+1862,6/11/2022,Xã Hoàn Sơn,Huyện Tiên Du,Tỉnh Bắc Ninh,72.0,12.0,6.0,0,Unknow,1.75
+1863,6/11/2022,Xã Tân Hương,Thị xã Phổ Yên,Thái Nguyên,113.0,22.7,5.0,0,Unknow,2.0
+1864,6/11/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,90.0,20.0,4.5,1,Unknow,1.45
+1865,6/11/2022,Xã Vạn Long,Huyện Vạn Ninh,Khánh Hòa,138.7,0.0,7.0,0,Unknow,1.28
+1866,6/11/2022,Xã Khánh Hiệp,Huyện Khánh Vĩnh,Khánh Hòa,1066.0,0.0,0.0,0,Unknow,0.39
+1867,6/11/2022,Xã Uy Nỗ,Huyện Đông Anh,TP. Hà Nội,42.0,0.0,0.0,1,Bắc,1.83
+1868,6/11/2022,xã Hữu Bằng,Huyện Kiến Thụy,TP. Hải Phòng,120.0,20.0,8.0,0,Unknow,1.95
+1869,6/11/2022,Xã Vân Nội,Huyện Đông Anh,TP. Hà Nội,83.0,20.77,4.0,1,Nam,3.4
+1870,6/11/2022,Xã Long Thượng,Huyện Cần Giuộc,Long An,100.0,20.0,5.0,1,Unknow,1.2
+1871,6/11/2022,Xã Đức Hòa Hạ,Huyện Đức Hòa,Long An,100.0,0.0,0.0,0,Unknow,1.4
+1872,6/11/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,100.0,20.0,5.0,1,Unknow,1.65
+1873,6/11/2022,Xã Cư Suê,Huyện Cư M'gar,Đắk Lắk,132.0,0.0,0.0,0,Unknow,0.9
+1874,6/11/2022,Xã Đắk Cấm,TP. Kon Tum,Kon Tum,132.0,22.0,6.0,1,Unknow,0.9
+1875,6/11/2022,Xã Đạm Bri,TP. Bảo Lộc,Lâm Đồng,224.0,20.0,40.0,1,Unknow,0.896
+1876,6/11/2022,Phường Mũi Né,TP. Phan Thiết,Bình Thuận,290.0,0.0,0.0,0,Unknow,2.2
+1877,6/11/2022,Phường Lộc Phát,TP. Bảo Lộc,Lâm Đồng,300.0,30.0,10.0,1,Unknow,0.18
+1878,6/11/2022,Vạn Hưng,Vạn Ninh,Khánh Hòa,271.0,31.8,8.5,0,Unknow,2.59
+1879,6/11/2022,Xã Minh Lập,Thị xã Chơn Thành,Bình Phước,250.0,50.0,5.5,1,Đ.Nam,0.35
+1880,6/11/2022,Xã Tân Bình,Huyện Vĩnh Cửu,Đồng Nai,3638.0,0.0,50.0,0,Unknow,16.5
+1881,6/11/2022,Thị trấn M'Đrắk,Huyện M'Đrắk,Đắk Lắk,4070000.0,2035.0,2000.0,0,Unknow,75.0
+1882,6/11/2022,Xã Việt Hùng,Huyện Đông Anh,TP. Hà Nội,71.0,19.5,3.7,1,T.Nam,2.25
+1883,6/11/2022,thị trấn Sóc Sơn,huyện Sóc Sơn,TP. Hà Nội,500.0,30.0,20.0,0,Unknow,1.7
+1884,6/11/2022,Phường 10,TP. Đà Lạt,Lâm Đồng,8000.0,0.0,0.0,1,T.Nam,51.2
+1885,6/11/2022,Đường Liên Xã Vạn Phước,Vạn Ninh,Khánh Hoà,306.0,14.5,21.0,0,Unknow,2.75
+1886,6/11/2022,Phường Long Phước,TP Thủ Đức,TPHCM,90000.0,450.0,200.0,0,Unknow,675.0
+1887,6/11/2022,Xã Vân Côn,Huyện Hoài Đức,TP. Hà Nội,300.0,0.0,0.0,0,Unknow,5.2
+1888,6/11/2022,Xã Bình Lợi,Huyện Bình Chánh,TP. Hồ Chí Minh,2030.0,50.0,41.0,1,Unknow,16.0
+1889,6/11/2022,Phường 1,TP. Tuy Hoà,Phú Yên,150.0,0.0,0.0,1,Unknow,2.68
+1890,6/11/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Đ.Nam,0.9
+1891,6/11/2022,Xã Quy Đức,Huyện Bình Chánh,TP. Hồ Chí Minh,88.0,0.0,0.0,1,Đ.Nam,2.42
+1892,6/11/2022,Xã Đức Hòa Đông,Huyện Đức Hòa,Long An,100.0,20.0,4.99,0,Unknow,1.4
+1893,6/11/2022,Thị trấn Nhà Bè,Huyện Nhà Bè,TP. Hồ Chí Minh,100.0,5.0,20.0,0,Unknow,0.95
+1894,6/11/2022,Phường Hợp Đức,Quận Đồ Sơn,TP. Hải Phòng,45.0,10.0,0.0,1,Unknow,0.66
+1895,6/11/2022,Đường Long Phước Long Phước,Thủ Đức,TPHCM,30000.0,300.0,100.0,0,Unknow,245.0
+1896,6/11/2022,Xã Tân Bình,Huyện Vĩnh Cửu,Đồng Nai,1300.0,0.0,20.0,0,Unknow,6.5
+1897,6/11/2022,Đường Đa Phúc Phú Minh,Sóc Sơn,Hà Nội,100.0,0.0,0.0,0,Unknow,4.1
+1898,6/11/2022,Đường D15 Lai Uyên,Bàu Bàng,Bình Dương,150.0,30.0,5.0,0,Unknow,0.8
+1899,6/11/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,21.99,6.0,1,Đông,0.899
+1900,6/11/2022,Xã Vĩnh Quỳnh,Huyện Thanh Trì,TP Hà Nội,45.0,9.2,4.8,0,Unknow,2.9
+1901,6/11/2022,xã Xuân Canh,Huyện Đông Anh,TP. Hà Nội,39.0,10.0,4.0,0,Unknow,1.7
+1902,6/11/2022,Đường Phạm Văn Đồng Hòa Nghĩa,Dương Kinh,Hải Phòng,108.0,18.0,6.0,0,Unknow,4.26
+1903,6/11/2022,Đường Quốc lộ 37 Lương Phong,Hiệp Hòa,Bắc Giang,148.0,5.0,5.0,0,Unknow,1.3
+1904,6/11/2022,Xã Hòa Thuận,TP. Buôn Ma Thuột,Đắk Lắk,170.0,5.0,34.0,1,Nam,1.38
+1905,6/11/2022,Thị trấn Lai Uyên,Huyện Bàu Bàng,Bình Dương,200.0,40.0,5.0,1,Nam,0.72
+1906,6/11/2022,Xã Bình Chánh,Huyện Bình Chánh,TP. Hồ Chí Minh,90.0,16.0,6.0,1,Unknow,1.7
+1907,6/11/2022,Xã Long Phước,TP. Bà Rịa,Bà Rịa - Vũng Tàu,425.0,42.0,10.0,1,Unknow,2.98
+1908,6/11/2022,Xã Yên Lư,Huyện Yên Dũng,Bắc Giang,100.0,7.0,6.0,0,Unknow,1.45
+1909,6/11/2022,Phường 1,TP. Tuy Hoà,Phú Yên,127.0,25.0,5.0,1,Đông,1.99
+1910,6/11/2022,Thị trấn Đông Anh,Huyện Đông Anh,TP. Hà Nội,86.0,14.0,5.0,0,Unknow,4.0
+1911,6/10/2022,Xã Đồng Tiến,Huyện Đồng Phú,Bình Phước,250.0,0.0,0.0,0,Unknow,0.9
+1912,6/10/2022,xã Lộc Thạnh,Huyện Lộc Ninh,Bình Phước,200.0,0.0,0.0,0,Unknow,0.46
+1913,6/10/2022,Phường Mũi Né,TP. Phan Thiết,Bình Thuận,579.0,0.0,0.0,0,Unknow,9.26
+1914,6/10/2022,Xã Bình Chánh,Huyện Bình Chánh,TP. Hồ Chí Minh,100.0,20.0,5.0,1,Unknow,1.1
+1915,6/10/2022,Phuờng An Lạc,Quận Bình Tân,TP HCM,60.0,15.0,4.0,0,Unknow,3.6
+1916,6/10/2022,xã Thụy Lâm,Huyện Đông Anh,TP Hà Nội,70.0,14.0,5.0,0,Unknow,2.0
+1917,6/10/2022,Xã Tam Phước,Huyện Long Điền,Bà Rịa - Vũng Tàu,490.0,0.0,0.0,0,Unknow,2.35
+1918,6/10/2022,xã Thụy Lâm,Huyện Đông Anh,TP Hà Nội,48.0,13.0,4.0,0,Unknow,1.0
+1919,6/10/2022,Phường Xuân La,Quận Tây Hồ,TP Hà Nội,56.0,14.0,4.0,0,Unknow,5.9
+1920,6/10/2022,Xã Vạn Phú,Huyện Vạn Ninh,Khánh Hòa,154.0,0.0,0.0,0,Unknow,1.03
+1921,6/10/2022,Đường Trần Nhân Tông,Phường Khánh Xuân,TP. Buôn Ma Thuột. Tỉnh Đăk Lăk,160.0,0.0,0.0,0,Unknow,1.5
+1922,6/10/2022,Phường Vạn Phúc,Quận Hà Đông,TP Hà Nội,50.0,12.5,4.0,0,Unknow,6.5
+1923,6/10/2022,Thị trấn Nhã Nam,Huyện Tân Yên,Bắc Giang,90.0,18.0,5.0,1,Đ.Nam,3.39
+1924,6/10/2022,Thị trấn Nhã Nam,Huyện Tân Yên,Bắc Giang,82.0,0.0,5.5,1,Đ.Nam,1.6
+1925,6/10/2022,Xã Phượng Mao,Huyện Quế Võ,Bắc Ninh,318.0,17.0,19.0,1,T.Bắc,14.31
+1926,6/10/2022,Phường Đại Phúc,TP. Bắc Ninh,Bắc Ninh,72.0,18.0,4.0,1,T.Bắc,5.9
+1927,6/10/2022,Phường Hưng Bình,TP. Vinh,Nghệ An,130.0,0.0,0.0,0,Đ.Nam,5.6
+1928,6/10/2022,Đường Xuân Đỉnh Xuân Đỉnh,Bắc Từ Liêm,Hà Nội,38.0,10.0,3.8,0,Unknow,3.4
+1929,6/10/2022,Phường Lộc Phát,TP. Bảo Lộc,Lâm Đồng,100.0,20.0,5.0,1,Nam,0.5
+1930,6/10/2022,Xã Bồ Lý,Huyện Tam Đảo,Vĩnh Phúc,129.0,0.0,0.0,0,Unknow,0.4
+1931,6/10/2022,Xã Thạnh Lợi,Huyện Bến Lức,Long An,1080.0,0.0,0.0,1,Unknow,7.9
+1932,6/10/2022,Đường Quốc lộ 28 Tân Lâm,Di Linh,Lâm Đồng,8430.0,200.0,30.0,0,Unknow,6.0
+1933,6/10/2022,Xã Phước Kiển,Huyện Nhà Bè,TP. Hồ Chí Minh,95.0,5.0,19.0,1,Unknow,1.63
+1934,6/10/2022,phường 8,Vũng Tàu,Bà Rịa - Vũng Tàu,118.0,23.0,5.0,0,Unknow,15.0
+1935,6/10/2022,Phường Thạnh Mỹ Lợi,TP. Thủ Đức,TP. Hồ Chí Minh,85.0,5.0,17.0,1,Unknow,3.2
+1936,6/10/2022,Đường Quốc lộ 1A Xã Ninh Quang,Thị xã Ninh Hòa,Khánh Hòa,114000.0,0.0,0.0,0,Unknow,4.2
+1937,6/10/2022,Xã Phước An,Huyện Nhơn Trạch,Đồng Nai,2246.0,0.0,0.0,0,Unknow,5.62
+1938,6/10/2022,Xã Đông Dư,Huyện Gia Lâm,TP. Hà Nội,80.0,10.0,8.0,0,Unknow,4.28
+1939,6/10/2022,Xã Xuân Bắc,Huyện Xuân Lộc,Đồng Nai,13623.0,130.0,120.0,0,Unknow,7.77
+1940,6/10/2022,Phường Mũi Né,TP. Phan Thiết,Bình Thuận,547.0,0.0,0.0,0,Unknow,12.0
+1941,6/10/2022,Xã Bình Chánh,Huyện Bình Chánh,TP. Hồ Chí Minh,108.0,25.0,4.5,1,Unknow,1.35
+1942,6/10/2022,Phường Tân Thành,Quận Dương Kinh,TP. Hải Phòng,195.0,26.0,7.5,1,Unknow,3.02
+1943,6/10/2022,Phường An Phú Đông,Quận 12,TP. Hồ Chí Minh,80.0,16.0,5.0,1,Unknow,1.8
+1945,6/10/2022,Phường Tân Định,Thị xã Bến Cát,Bình Dương,100.0,20.0,5.0,0,Unknow,0.92
+1946,6/10/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,100.0,20.0,5.0,1,Unknow,1.6
+1947,6/10/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.9
+1948,6/10/2022,Phường 9,TP. Đà Lạt,Lâm Đồng,269.0,0.0,0.0,1,T.Bắc,22.5
+1949,6/10/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.9
+1950,6/10/2022,Xã An Lập,Huyện Dầu Tiếng,Tỉnh Bình Dương,1080.0,60.0,18.0,0,Unknow,4.5
+1951,6/10/2022,Phường Phú Hữu,TP. Thủ Đức,TP. Hồ Chí Minh,90.0,18.0,5.0,1,Unknow,1.89
+1952,6/10/2022,Đường Thới An 5 Thới An,quận 12,TPHCM,1190.0,80.0,25.0,0,Unknow,37.8
+1953,6/10/2022,Lộc Thọ,TP.Nha Trang,Khánh Hòa,127.0,25.4,6.0,1,Đông,2.29
+1954,6/10/2022,xã Vĩnh Thạnh,TP. Nha Trang,Khánh Hòa,250.0,25.0,10.0,0,Unknow,4.25
+1955,6/10/2022,Suối Tiên,Diên Khánh,Khánh Hòa,107.0,15.6,6.0,0,Unknow,0.9
+1956,6/10/2022,Xã Vĩnh Lộc A,Huyện Bình Chánh,TP. Hồ Chí Minh,110.0,0.0,0.0,0,Unknow,2.7
+1957,6/10/2022,Phường Mỹ Phước,Thị xã Bến Cát,Bình Dương,150.0,0.0,0.0,1,Unknow,1.87
+1958,6/9/2022,Xã Bàu Hàm 2,Huyện Thống Nhất,Tỉnh Đồng Nai,1000.0,40.0,25.0,0,Unknow,0.98
+1959,6/9/2022,Xã Long Phước,TP. Bà Rịa,Bà Rịa - Vũng Tàu,423.0,42.0,10.0,1,Unknow,2.97
+1960,6/9/2022,Xã Tân Phú Trung,Huyện Củ Chi,TPHCM,1645.0,59.0,27.0,0,Unknow,14.8
+1961,6/9/2022,Xã Tứ Hiệp,Huyện Thanh Trì,TP Hà Nội,96.0,17.0,5.6,0,Unknow,11.6
+1962,6/9/2022,Xã Diên Lạc,Huyện Diên Khánh,Tỉnh Khánh Hòa,109.0,0.0,0.0,0,Unknow,1.5
+1963,6/9/2022,Tân Bình,Mỏ Cày Bắc,Bến Tre,680.0,0.0,0.0,0,Unknow,3.6
+1964,6/9/2022,Đường quốc lô 22 Bàu Hàm 2,Thống Nhất,Đồng Nai,1000.0,40.0,25.0,0,Unknow,0.98
+1965,6/9/2022,Phường Hóa An,TP. Biên Hòa,Đồng Nai,72.0,0.0,4.0,0,Unknow,2.45
+1966,6/9/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,226.0,1,Unknow,0.899
+1967,6/9/2022,Phường Thác Mơ,Thị xã Phước Long,Bình Phước,600.0,40.0,15.0,1,Unknow,1.5
+1968,6/9/2022,An Phú,Thủ Đức,TPHCM,73.0,18.0,4.5,0,Unknow,7.7
+1969,6/9/2022,Phường Phú Mỹ,TP. Thủ Dầu Một,Bình Dương,220.0,32.0,7.0,1,Unknow,4.95
+1970,6/9/2022,Xã Tiên Dương,Huyện Đông Anh,TP. Hà Nội,104.0,5.0,21.0,1,Bắc,7.25
+1971,6/9/2022,Phường Tân Thới Hiệp,Quận 12,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,1.99
+1972,6/9/2022,Xã Trung Lập Hạ,Huyện Củ Chi,TP. Hồ Chí Minh,3000.0,57.0,52.0,1,Unknow,5.99
+1973,6/9/2022,Phường Mũi Né,TP. Phan Thiết,Bình Thuận,235.0,0.0,0.0,0,Unknow,5.64
+1974,6/9/2022,Xã Quy Đức,Huyện Bình Chánh,TP. Hồ Chí Minh,123.4,0.0,0.0,1,Đ.Bắc,2.8
+1975,6/9/2022,Xã Bàu Hàm 2,Huyện Thống Nhất,Đồng Nai,1000.0,40.0,25.0,0,Unknow,0.98
+1976,6/9/2022,Phường Tân Phong,Quận 7,TP. Hồ Chí Minh,100.0,5.0,20.0,1,Unknow,1.3
+1977,6/9/2022,Phường Tân Hưng,Quận 7,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,2.25
+1978,6/9/2022,Xã Tân Phú Thạnh,Huyện Châu Thành A,Hậu Giang,92.0,0.0,0.0,0,Unknow,1.25
+1979,6/9/2022,Đường Nguyễn Văn Cừ Hương Mạc,Từ Sơn,Bắc Ninh,115.0,19.0,6.0,0,Unknow,2.19
+1980,6/9/2022,Phường An Phú,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,16.0,5.0,1,Unknow,1.8
+1981,6/9/2022,Đường quốc lô 22,Bàu Hàm 2,Huyện Thống Nhất. Đồng Nai,1000.0,40.0,25.0,0,Unknow,0.98
+1982,6/9/2022,Xã Phật Tích,huyện Tiên Du,Bắc Ninh,1470.0,70.0,21.0,0,Unknow,20.5
+1983,6/9/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,528.0,0.0,0.0,1,Unknow,10.0
+1984,6/9/2022,Xã Bàu Cạn,Huyện Long Thành,Đồng Nai,1067.0,0.0,0.0,1,Unknow,2.5
+1985,6/9/2022,Phường Tiến Thành,TP. Đồng Xoài,Bình Phước,300.0,0.0,0.0,0,Unknow,0.868
+1986,6/9/2022,Xã An Phú,Huyện Mỹ Đức,TP. Hà Nội,132.0,22.0,6.0,1,Unknow,0.9
+1987,6/9/2022,Xã Bàu Đồn,Huyện Gò Dầu,Tây Ninh,165.0,31.0,5.0,1,Unknow,0.78
+1988,6/9/2022,Phường Tiến Thành,TP. Đồng Xoài,Bình Phước,300.0,0.0,0.0,0,Unknow,0.868
+1989,6/9/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,120.0,20.0,6.0,1,Unknow,1.4
+1990,6/9/2022,Xã Thanh Đình,TP Việt Trì,Phú Thọ,297.0,30.0,10.0,0,Unknow,2.08
+1991,6/9/2022,Xã Phú Mỹ,Huyện Phú Vang,Thừa Thiên Huế,222.0,0.0,0.0,0,Unknow,5.11
+1992,6/9/2022,Phường Trần Phú,TP Bắc Giang,Tỉnh Bắc Giang,80.0,10.0,8.0,0,Unknow,1.0
+1993,6/9/2022,Phường Hoà Vinh,Huyện Đông Hòa,Phú Yên,140.0,24.0,4.98,1,Đông,1.95
+1994,6/9/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Đông,0.899
+1995,6/9/2022,Đường 101 Phú Ngọc,Định Quán,Đồng Nai,1009.0,80.0,12.0,0,Unknow,1.15
+1996,6/9/2022,Xã Quảng Hiệp,Cư Mgar,Đắk Lắk,1014.0,78.0,13.0,0,Unknow,0.239
+1997,6/9/2022,Đường Lương Thế Vinh,Quang Trung,Thái Nguyên,191.0,18.0,10.0,0,Unknow,6.1
+1998,6/9/2022,Đường Khu liên hợp TDTD Tân Phú Đông,Sác Đéc,Đồng Tháp,320.0,40.0,8.0,0,Unknow,6.1
+1999,6/9/2022,Xã Quảng Hiệp,Cư Mgar,Đắk Lắk,1014.0,78.0,13.0,0,Unknow,0.239
+2000,6/9/2022,Phường Tân Lập,TP Thái Nguyên,Thái Nguyên,110.0,22.0,5.0,0,Unknow,2.36
+2001,6/9/2022,Xã Đức Thượng,Huyện Hoài Đức,TP. Hà Nội,110.0,0.0,0.0,0,Unknow,4.0
+2002,6/9/2022,xã Tam Thôn Hiệp,huyện Cần Giờ,TP HCM,2080.0,0.0,0.0,0,Unknow,2.1
+2003,6/9/2022,Xã Bình Khánh,huyện Cần Giờ,TP HCM,306.0,0.0,0.0,0,Unknow,3.0
+2004,6/9/2022,xã Tân Sơn,huyện Trà Cú,Trà Vinh,10910.0,0.0,0.0,0,Unknow,1.4
+2005,6/9/2022,Phường Thảo Điền,TP. Thủ Đức,TP. Hồ Chí Minh,85.0,5.0,17.0,1,Unknow,3.15
+2006,6/9/2022,Xã Phú Xuân,Huyện Nhà Bè,TP. Hồ Chí Minh,95.0,5.0,19.0,1,Unknow,1.45
+2007,6/9/2022,Phường Hòa Thạnh,Quận Tân Phú,TP. Hồ Chí Minh,110.0,0.0,0.0,1,Unknow,2.5
+2008,6/9/2022,Phường 10,Quận Tân Bình,TP. Hồ Chí Minh,90.0,0.0,0.0,1,Unknow,2.3
+2009,6/9/2022,Xã Thư Phú,Huyện Thường Tín,TP. Hà Nội,39.5,7.9,5.0,1,Unknow,0.27
+2010,6/9/2022,Xã Phước Thái,Huyện Long Thành,Đồng Nai,109.0,22.0,5.0,0,Unknow,1.95
+2011,6/9/2022,Xã Bàu Hàm 2,Huyện Thống Nhất,Đồng Nai,1000.0,40.0,25.0,0,Unknow,0.98
+2012,6/9/2022,Xã Tân Lạc,Huyện Bảo Lâm,Lâm Đồng,954.0,0.0,0.0,0,Unknow,0.79798
+2013,6/9/2022,Xã Vạn Phú,Huyện Vạn Ninh,Khánh Hòa,880.0,0.0,0.0,0,Unknow,2.7
+2014,6/9/2022,Đường Nguyễn Văn Hưng Lợi,Quận Ninh Kiều,TP. Cần Thơ,75.0,0.0,0.0,0,Unknow,3.25
+2015,6/9/2022,Phường Bình Chiểu,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,1.59
+2016,6/9/2022,xã Quảng Hiệp,huyện Cư Mgar,tỉnh Đắk Lắk.,1014.0,78.0,13.0,0,Unknow,0.229
+2017,6/9/2022,Phường Cẩm Bình,TP Cẩm Phả,Quảng Ninh,2000.0,50.0,40.0,0,Unknow,6.2
+2018,6/9/2022,xã Cẩm Hải,TP Cẩm Phả,Quảng Ninh,3200.0,65.0,50.0,0,Unknow,8.0
+2019,6/9/2022,xã Diên Tân,huyện Diên Khánh,Khánh Hòa,269.0,42.0,6.0,0,Unknow,1.4
+2020,6/9/2022,Đường 55 Tân Lạc,Bảo Lâm,Lâm Đồng,954.0,0.0,0.0,0,Unknow,0.79798
+2021,6/9/2022,Đường 55 Tân Lạc,Bảo Lâm,Lâm Đồng,954.0,0.0,0.0,0,Unknow,0.79798
+2022,6/9/2022,Phường Đồng Kỵ,Thị xã Từ Sơn,Bắc Ninh,109.4,0.0,0.0,0,Unknow,1.65
+2023,6/9/2022,Đường ĐT 8 Diên Xuân,Diên Khánh,Khánh Hòa,380.0,54.0,7.0,0,Unknow,0.9888899999999999
+2024,6/9/2022,xã Diên Xuân,huyện Diên Khánh,Khánh Hòa,470.0,47.0,10.0,0,Unknow,1.3
+2025,6/9/2022,xã Bàu Hàm 2,huyện Thống Nhất,ĐN,1000.0,40.0,25.0,0,Unknow,0.98
+2026,6/9/2022,xã Tây Hòa,H. Trảng Bom,ĐN,2000.0,0.0,0.0,0,Unknow,3.3
+2027,6/8/2022,Phường Tân Thành,Quận Tân Kinh,TP. Hải Phòng,100.0,20.0,5.0,0,Unknow,1.95
+2028,6/8/2022,Ea Tul,Cư M'gar,DakLak,1014.0,78.0,13.0,0,Unknow,0.229
+2029,6/8/2022,Đường 11 Tân Phú Thạnh,Châu Thành A,Hậu Giang,92.0,0.0,0.0,0,Unknow,1.25
+2030,6/8/2022,phường Tân Hà,tp Tuyên Quang,tỉnh Tuyên Quang.,267.0,0.0,0.0,0,Unknow,7.28
+2031,6/8/2022,Phường Tân Bình,TP. Đồng Xoài,Bình Phước,600.0,25.0,24.0,1,Đông,0.65
+2032,6/8/2022,Đường Trà Khê Anh Dũng,Dương Kinh,Hải Phòng,90.0,19.0,5.0,0,Unknow,2.7
+2033,6/8/2022,Hải Thành,Dương Kinh,Hải Phòng,64.0,13.0,5.0,0,Unknow,1.85
+2034,6/8/2022,xã Vĩnh Trung,TP Nha Trang,Khánh Hòa,67.0,7.0,9.0,0,Unknow,1.2
+2035,6/8/2022,Phường Tiến Thành,TP. Đồng Xoài,Bình Phước,300.0,0.0,0.0,0,Unknow,0.868
+2036,6/8/2022,Xã Bàu Đồn,Huyện Gò Dầu,Tây Ninh,130.0,5.0,26.0,1,Unknow,0.55
+2037,6/8/2022,Phường 12,TP. Đà Lạt,Lâm Đồng,65.0,0.0,0.0,1,Đ.Bắc,0.55
+2038,6/8/2022,Xã An Phú,Huyện Mỹ Đức,TP. Hà Nội,132.0,22.0,6.0,1,Unknow,0.9
+2040,6/8/2022,Đường Cây Cám Bình Hưng Hòa B,Bình Tân,TPHCM,60.0,15.0,4.0,0,Unknow,3.35
+2042,6/8/2022,Đường Đỗ Đức Dục Mễ Trì,Nam Từ Liêm,Hà Nội,48.0,12.0,4.0,0,Unknow,6.1
+2043,6/8/2022,Đường Suối Tre - Bình Lộc Xuân Thiện,Thống Nhất,Đồng Nai,150.0,30.0,5.0,0,Unknow,1.08
+2044,6/8/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,150.0,30.0,5.0,1,Đông,1.75
+2045,6/8/2022,Xã Xuân Hải,Thị xã Sông Cầu,Phú Yên,39500.0,0.0,0.0,0,Unknow,15.0
+2046,6/8/2022,Phường An Cựu,TP Huế,Thừa Thiên Huế,90.0,18.0,5.0,0,Unknow,2.65
+2047,6/8/2022,Đường Nagoa Phú Túc,Định Quán,Đồng Nai,1043.0,76.0,14.0,0,Unknow,0.92
+2048,6/8/2022,Xã Ea Tul,Huyện Cư M'gar,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.9
+2049,6/8/2022,Đường 711 Hàm Thắng,Hàm Thuận Bắc,Bình Thuận,77.0,0.0,0.0,0,Unknow,0.82
+2050,6/8/2022,Đường Ngô Mây Cát Hiệp,Phù Cát,Bình Định,343.0,34.3,10.0,0,Unknow,0.4
+2051,6/8/2022,Xã Long Phước,TP. Bà Rịa,Bà Rịa - Vũng Tàu,398.0,39.0,10.0,1,Unknow,2.79
+2052,6/8/2022,Phường Hoà Quý,Quận Ngũ Hành Sơn,TP. Đà Nẵng,111.0,18.5,6.0,0,Unknow,3.3
+2053,6/8/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1000.0,56.0,17.0,0,Unknow,2.7
+2054,6/8/2022,Xã Liên Hà,Huyện Đông Anh,TP Hà Nội,64.0,12.0,5.5,0,Unknow,1.35
+2055,6/8/2022,Phường 11,TP Cao Lãnh,Đồng Tháp,100.0,0.0,0.0,0,Unknow,3.1
+2056,6/8/2022,Đường Liên Hà Liên Hà,Đông Anh,Hà Nội,64.0,12.0,5.5,0,Unknow,1.35
+2057,6/8/2022,Phường Khuê Mỹ,Quận Ngũ Hành Sơn,TP. Đà Nẵng,400.0,20.0,20.0,0,Unknow,49.8
+2058,6/8/2022,Đường Tân Hiệp,Xã Phước Thái,Huyện Long Thành. Tỉnh Đồng Nai,166.0,24.0,6.5,0,Unknow,1.3
+2059,6/8/2022,phường 13,Gò Vấp,TPHCM,33.0,8.0,4.0,0,Unknow,2.87
+2060,6/8/2022,Phường Mỹ Xuân,Thị Xã Phú Mỹ,Bà Rịa - Vũng tàu,600.0,25.0,25.0,0,Unknow,0.35
+2061,6/8/2022,Phường Tân Phong,Quận 7,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,2.09
+2062,6/8/2022,Xã Lộc Thạnh,Huyện Lộc Ninh,Bình Phước,200.0,40.0,5.0,1,Unknow,0.429
+2063,6/8/2022,Xã Ngũ Hiệp,Huyện Thanh Trì,TP Hà Nội,68.0,16.0,4.1,0,Unknow,6.7
+2064,6/8/2022,Xã Khánh Hiệp,Huyện Khánh Vĩnh,Khánh Hòa,240.0,26.0,9.98,0,T.Bắc,0.55
+2065,6/8/2022,Đường Lạc Long Quân Điện Ngọc,TX Điện Bàn,Quảng Nam,96.0,16.0,6.0,0,Unknow,2.7
+2066,6/8/2022,Phường Thạnh Lộc,Quận 12,TP. Hồ Chí Minh,100.0,0.0,0.0,1,Unknow,1.85
+2067,6/8/2022,Đường Tân Hiệp Tân Hiệp,Long Thành,Đồng Nai,450.0,48.0,9.0,0,Unknow,3.4
+2068,6/8/2022,Đường An Dương Vương Phú Thượng,Tây Hồ,Hà Nội,73.0,18.25,4.0,0,Unknow,6.8
+2069,6/8/2022,Đường Nguyễn Thị Minh Khai,phường 8,Bà Rịa - Vũng Tàu,118.0,23.0,5.0,0,Unknow,15.0
+2070,6/8/2022,Đường An Dương Vương Phú Thượng,Tây Hồ,Hà Nội,59.0,13.2,4.5,0,Unknow,5.3
+2071,6/8/2022,Phường IV,TP. Vị Thanh,Hậu Giang,100.0,0.0,0.0,0,Unknow,1.5
+2072,6/8/2022,Cam Hiệp Bắc,Cam Lâm,Khánh Hòa,902.0,63.0,16.0,0,Unknow,6.3
+2073,6/8/2022,Đường 11 Minh Thành,Chơn Thành,Bình Phước,360.0,60.0,6.0,0,Unknow,1.3
+2074,6/8/2022,Đường 18 Cộng Hòa,Cẩm Phả,Quảng Ninh,2848.0,80.0,35.0,0,Unknow,4.2
+2075,6/8/2022,Đường 18 Cộng Hòa,Cẩm Phả,Quảng Ninh,2848.0,80.0,35.0,0,Unknow,4.2
+2076,6/8/2022,Đường 2 Diên Lạc,Diên Khánh,Khánh Hòa,82.0,16.0,5.0,0,Unknow,0.765
+2077,6/8/2022,Đường 39 Suối Tiên,Diên Khánh,Khánh Hòa,1000.0,50.0,20.0,0,Unknow,5.5
+2078,6/8/2022,phường 13,Gò Vấp,TPHCM,32.0,8.0,4.0,0,Unknow,2.87
+2079,6/8/2022,Đường Trung Oai Tiên Dương,Đông Anh,Hà Nội,43.0,10.0,4.2,0,Unknow,2.1
+2080,6/8/2022,Đường Liên Hà Liên Hà,Đông Anh,Hà Nội,76.0,15.0,5.0,0,Unknow,4.0
+2081,6/8/2022,Đường Cổ Dương Tiên Dương,Đông Anh,Hà Nội,61.0,15.0,4.0,0,Unknow,2.3
+2082,6/8/2022,Phường Mũi Né,TP. Phan Thiết,Bình Thuận,836.0,0.0,0.0,0,Unknow,11.7
+2083,6/8/2022,Thị trấn Bến Lức,Huyện Bến Lức,Long An,150.0,20.0,7.0,1,Unknow,2.5
+2084,6/8/2022,Phường Tân Thới Hòa,Quận Tân Phú,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,2.3
+2085,6/8/2022,Phường 3,Quận Gò Vấp,TP. Hồ Chí Minh,127.0,25.4,5.0,1,Đông,1.8
+2086,6/8/2022,Phường 14,Quận Phú Nhuận,TP. Hồ Chí Minh,82.0,0.0,0.0,1,Unknow,2.25
+2087,6/7/2022,Phường 12,Quận Gò Vấp,TP. Hồ Chí Minh,85.0,16.0,5.4,1,Unknow,7.5
+2088,6/7/2022,Phường Trường Thạnh,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,1.59
+2089,6/7/2022,Xã Phú Trung,Huyện Củ Chi,TPHCM,1645.0,59.0,27.0,0,Unknow,14.8
+2090,6/7/2022,Xã Vĩnh Lộc A,Huyện Bình Chánh,TPHCM,1523.0,60.0,25.0,0,Unknow,25.0
+2091,6/7/2022,Xã Ninh Hải,Huyện Ninh Giang,Hải Dương,1950.0,61.99,31.69,0,Bắc,2.3
+2092,6/7/2022,Xã Hương Mạc,Thị Xã Từ Sơn,Bắc Ninh,58.0,10.1,5.7,0,Unknow,1.25
+2093,6/7/2022,Xã Hương Mạc,Thị xã Từ Sơn,Bắc Ninh,58.0,0.0,0.0,1,Unknow,1.25
+2094,6/7/2022,Phường Phú Hữu,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,2.2
+2095,6/7/2022,Phường 7,Quận 7,TPHCM,96.0,24.0,4.0,0,Unknow,5.76
+2096,6/7/2022,Phường Tân Phước,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,300.0,30.0,10.0,0,Unknow,13.0
+2097,6/7/2022,Phường Tân Phong,Quận 7,TP. Hồ Chí Minh,80.0,16.0,5.0,1,Unknow,2.25
+2098,6/7/2022,Xã Tân Thanh,Huyện Lạng Giang,Tỉnh Bắc Giang,1399.0,140.0,10.0,0,Unknow,1.5
+2099,6/7/2022,Phường Hiệp Bình Phước,TP. Thủ Đức,TP. Hồ Chí Minh,90.0,18.0,5.0,1,Unknow,2.35
+2100,6/7/2022,Xã Nhị Bình,Huyện Hóc Môn,TP. Hồ Chí Minh,100.0,0.0,0.0,1,Unknow,1.2
+2101,6/7/2022,Phường Liễu Giai,Quận Ba Đình,TP Hà Nội,125.0,28.0,4.5,0,Unknow,21.0
+2102,6/7/2022,Phường 4,Quận Tân Bình,TP. Hồ Chí Minh,75.0,0.0,0.0,1,Unknow,1.88
+2103,6/7/2022,Xã Hòa Thắng,Huyện Bắc Bình,Bình Thuận,202.0,0.0,0.0,0,Unknow,1.8
+2104,6/7/2022,Xã Phật Tích,Huyện Tiên Du,Bắc Ninh,120.0,19.0,8.0,0,Nam,0.85
+2105,6/7/2022,Xã Đồng Tiến,Huyện Đồng Phú,Bình Phước,250.0,50.0,5.0,1,Unknow,0.65
+2106,6/7/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Nam,0.899
+2107,6/7/2022,Phường Hoà Vinh,Huyện Đông Hòa,Phú Yên,140.0,23.99,5.0,1,Đông,2.0
+2108,6/7/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Đông,0.899
+2109,6/7/2022,Thị trấn Đông Anh,Huyện Đông Anh,TP Hà Nội,114.0,0.0,20.0,0,Unknow,3.95
+2110,6/7/2022,Đường Tỉnh lộ 725 Lộc Ngãi,Huyện Bảo Lâm,Tỉnh Lâm Đồng,240.0,40.0,6.0,0,Unknow,0.9
+2111,6/7/2022,Xã Thạnh Phú,Huyện Vĩnh Cửu,Đồng Nai,1200.0,0.0,20.0,0,Unknow,3.5
+2112,6/7/2022,Phường 12,Quận Bình Thạnh,TPHCM,87.0,11.0,8.0,0,Unknow,12.1
+2113,6/7/2022,Xã Lộc An,Huyện Bảo Lâm,Lâm Đồng,176.0,37.0,5.0,1,Unknow,0.55
+2114,6/7/2022,Thị trấn Lộc Ninh,Huyện Lộc Ninh,Bình Phước,300.0,30.0,10.0,1,Unknow,0.71
+2115,6/7/2022,Xã Hòa Tân Đông,Huyện Đông Hòa,Phú Yên,127.0,25.04,5.0,1,Đông,1.8
+2116,6/7/2022,Xã Vĩnh Thái,TP. Nha Trang,Khánh Hòa,308.0,20.0,16.0,0,Tây,8.2
+2117,6/7/2022,Phường Vĩnh Hòa,TP Nha Trang,Tỉnh Khánh Hòa,265.0,24.0,11.0,0,Unknow,18.55
+2118,6/7/2022,Xã Đồng Tiến,Huyện Đồng Phú,Bình Phước,250.0,0.0,0.0,0,Unknow,0.42
+2119,6/7/2022,Xã Minh Lập,Thị xã Chơn Thành,Bình Phước,200.0,40.0,5.0,1,Unknow,0.84
+2120,6/7/2022,Phường Minh Hưng,Thị xã Chơn Thành,Bình Phước,500.0,50.0,10.0,1,Unknow,0.35
+2121,6/7/2022,Xã Y Tý,Huyện Bát Xát,Lào Cai,469.0,30.0,9.0,1,Unknow,5.0
+2122,6/7/2022,Phường Mũi Né,TP. Phan Thiết,Bình Thuận,190.0,0.0,0.0,0,Unknow,13.0
+2123,6/7/2022,Xã Long Nguyên,Huyện Bàu Bàng,Tỉnh Bình Dương,84.0,0.0,0.0,0,Unknow,0.76
+2124,6/7/2022,phường 13,Gò Vấp,TPHCM,32.0,8.0,4.0,0,Unknow,2.87
+2125,6/7/2022,Phường Thanh Khê Đông,Quận Thanh Khê,TP. Đà Nẵng,105.0,21.0,5.0,0,Unknow,6.2
+2126,6/7/2022,Đường Số 1 Vĩnh Lộc B,Bình Chánh,TPHCM,130.0,26.0,5.0,0,Unknow,1.85
+2127,6/7/2022,Xã Nghĩa Trung,Huyện Bù Đăng,Bình Phước,250.0,50.0,5.0,1,T.Bắc,0.45
+2128,6/7/2022,Xã Hưng Lộc,Huyện Thống Nhất,Đồng Nai,133.0,26.0,5.0,1,Đ.Nam,1.4
+2129,6/7/2022,Phường Mũi Né,TP. Phan Thiết,Bình Thuận,405.0,0.0,0.0,0,Unknow,22.0
+2130,6/7/2022,Phường 9,Quận Phú Nhuận,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,2.29
+2131,6/7/2022,Phường Bình Hưng Hoà A,Quận Bình Tân,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,1.8
+2132,6/7/2022,Xã Phước Vĩnh An,Huyện Củ Chi,TP. Hồ Chí Minh,153.2,5.0,26.0,1,Unknow,3.0
+2133,6/7/2022,Thị trấn Ia Kha,Huyện Ia Grai,Gia Lai,1255.0,66.98,20.0,1,T.Bắc,2.1
+2134,6/7/2022,Đường Triệu Quang Phục,Phường Vĩnh Hòa,TP. Nha Trang,300.0,20.0,15.0,0,Unknow,14.4
+2135,6/7/2022,Đường Triệu Quang Phục,Phường Vĩnh Hòa,TP. Nha Trang,300.0,20.0,15.0,0,Unknow,14.4
+2136,6/7/2022,Phường Thới Hòa,Thị xã Bến Cát,Bình Dương,200.0,10.0,20.0,1,Unknow,0.82
+2137,6/7/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,85.0,17.0,5.0,1,Unknow,1.42
+2138,6/7/2022,Phường Thanh Khê Tây,Quận Thanh Khê,TP. Đà Nẵng,132.0,6.0,22.0,1,Unknow,0.9
+2139,6/6/2022,Xã An Phú,Huyện Mỹ Đức,TP. Hà Nội,132.0,6.0,22.0,0,Unknow,0.9
+2140,6/6/2022,Xã Diên Thọ,Huyện Diên Khánh,tỉnh Khánh Hòa,3140.0,104.6,30.0,0,Unknow,6.23
+2141,6/6/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,0,Unknow,0.9
+2142,6/6/2022,Đường Bình Giã,Phường 11,TP. Vũng Tàu,80.0,16.0,5.0,0,Unknow,1.3
+2143,6/6/2022,Xã Xuân Đông,Huyện Cẩm Mỹ,Đồng Nai,1234.0,0.0,0.0,0,Unknow,1.8
+2144,6/6/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,0.0,0.0,1,Unknow,0.9
+2145,6/6/2022,Phường Hoà Vinh,Huyện Đông Hòa,Phú Yên,140.0,24.0,5.0,1,Đông,1.95
+2146,6/6/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Đông,0.899
+2147,6/6/2022,Tứ Hiệp,Thanh Trì,Hà Nội,62.0,15.0,41.0,0,Unknow,6.7
+2148,6/6/2022,Xã Bàu Cạn,Huyện Long Thành,Đồng Nai,1070.0,0.0,0.0,0,Unknow,2.46
+2149,6/6/2022,Xã Phù Khê,Thị xã Từ Sơn,Bắc Ninh,56.0,0.0,0.0,1,T.Bắc,0.97
+2150,6/6/2022,Đường Phạm Văn Đồng,phường Vĩnh Hòa,TP. Nha Trang,265.0,24.0,11.0,0,Unknow,18.55
+2151,6/6/2022,Phường Tân Phú,TP. Đồng Xoài,Bình Phước,2000.0,5.0,33.0,1,Đông,0.45
+2152,6/6/2022,Xã Phước Thái,Huyện Long Thành,tỉnh Đồng Nai,100.0,21.0,5.0,0,Unknow,2.5
+2153,6/6/2022,Phường Mũi Né,TP. Phan Thiết,Bình Thuận,494.0,0.0,0.0,0,Unknow,12.35
+2154,6/6/2022,Xã Phước Bình,huyện Long Thành,tỉnh Đồng Nai,100.0,20.0,5.0,0,Unknow,1.25
+2155,6/6/2022,Xã Phù Chẩn,Thị xã Từ Sơn,Bắc Ninh,75.0,0.0,0.0,0,Unknow,3.7
+2156,6/6/2022,Phước Thái,Long Thành,Đồng Nai,166.0,24.0,6.5,0,Unknow,1.3
+2157,6/6/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,100.0,20.0,5.0,1,Unknow,1.8
+2158,6/6/2022,Xã Tân Phú,Huyện Tân Sơn,Tỉnh Phú Thọ,100.0,0.0,0.0,0,Unknow,0.995
+2159,6/6/2022,Phường Hóa An,TP. Biên Hòa,Đồng Nai,135.0,0.0,0.0,1,Unknow,3.85
+2160,6/6/2022,Phường Tân Hòa,TP. Buôn Ma Thuột,Đắk Lắk,100.0,5.0,20.0,0,T.Nam,1.9
+2161,6/6/2022,Phường Mỹ Phước,Thị xã Bến Cát,Bình Dương,1000.0,0.0,0.0,0,Unknow,0.65
+2164,6/6/2022,Đường 14,Phường Lê Lợi,TP. Kon Tum,128.0,24.5,5.0,0,Unknow,1.15
+2165,6/6/2022,Đường số 8 Bình Hưng,Bình Chánh,TP.HCM,100.0,20.0,6.0,0,Unknow,4.7
+2166,6/6/2022,Đường ĐT 746 Uyên Hưng,Thị xã Tân Uyên,Bình Dương,636.0,0.0,0.0,0,Unknow,7.6
+2167,6/6/2022,Xã An Tịnh,huyện Trảng Bàng,tỉnh Tây Ninh,513.0,27.0,19.0,0,Unknow,3.52
+2170,6/6/2022,Đường 1 Ea Kao,Buôn Ma Thuột,DakLak,25000.0,125.0,200.0,0,Unknow,10.0
+2171,6/6/2022,Đường 1 Ea Kao,Buôn Ma Thuột,ĐakLak,25000.0,125.0,200.0,0,Unknow,7.3
+2172,6/6/2022,Tân Phú,Cái Răng,TP.Cần Thơ,136.0,16.0,8.5,0,Unknow,3.55
+2173,6/6/2022,Phường Lộc Phát,TP. Bảo Lộc,Lâm Đồng,150.0,30.0,5.0,1,Đ.Nam,0.5
+2174,6/6/2022,Phường 10,Quận Gò Vấp,TP. Hồ Chí Minh,80.0,0.0,0.0,0,Unknow,2.2
+2175,6/6/2022,Xã Thuận Lợi,Huyện Đồng Phú,Bình Phước,230.0,0.0,0.0,0,Unknow,0.42
+2176,6/6/2022,Xã Thuận Lợi,Huyện Đồng Phú,Bình Phước,230.0,0.0,0.0,0,Unknow,0.42
+2180,6/5/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+2182,6/5/2022,Xã Long Phước,TP. Bà Rịa,Bà Rịa - Vũng Tàu,429.0,10.0,42.0,1,Unknow,2.92
+2183,6/5/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,100.0,20.0,5.0,1,Unknow,1.7
+2185,6/5/2022,Phường 15,Quận Gò Vấp,TP. Hồ Chí Minh,110.0,25.0,0.0,1,Unknow,9.3
+2187,6/5/2022,Phường Ngọc Hải,Quận Đồ Sơn,TP. Hải Phòng,100.0,20.0,9.0,0,Unknow,2.65
+2188,6/5/2022,Thị trấn Đức Phong,Huyện Bù Đăng,Bình Phước,2000.0,33.0,5.0,1,Đông,0.45
+2189,6/5/2022,Xã Phước Thạnh,Huyện Củ Chi,TP. Hồ Chí Minh,200.0,0.0,0.0,0,Unknow,0.97
+2191,6/4/2022,Thị trấn Trâu Quỳ,Huyện Gia Lâm,TP. Hà Nội,55.0,0.0,4.5,1,Unknow,3.93
+2192,6/4/2022,Phường Mũi Né,TP. Phan Thiết,Bình Thuận,222.6,0.0,0.0,0,Unknow,2.67
+2195,6/4/2022,Đường 287 Mộ Đạo,Quế Võ,Bắc Ninh,72.0,14.8,4.9,0,Unknow,1.7
+2196,6/4/2022,Xã Hùng An,Bắc Quang,Hà Giang,270.0,0.0,0.0,0,Unknow,1.5
+2198,6/4/2022,Xã Vạn Long,Huyện Vạn Ninh,Khánh Hòa,139.0,0.0,0.0,0,Unknow,1.32
+2199,6/4/2022,Xã Vạn Long,Huyện Vạn Ninh,Khánh Hòa,103.0,0.0,6.0,0,Unknow,1.62
+2200,6/4/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1142.0,0.0,0.0,0,Unknow,3.3
+2201,6/4/2022,Đường 18 Châu Phong,Quế Võ,Bắc Ninh,90.0,19.5,4.6,0,Unknow,1.1
+2202,6/4/2022,Xã Tráng Việt,Huyện Mê Linh,TP. Hà Nội,132.0,6.0,22.0,1,Unknow,0.9
+2203,6/4/2022,Phường An Lạc,Quận Bình Tân,TP. Hồ Chí Minh,100.0,0.0,0.0,1,Unknow,2.44
+2204,6/4/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,5.99,1,Đông,0.899
+2205,6/4/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,270.0,0.0,0.0,0,Unknow,3.0
+2206,6/4/2022,Phường Hoà Vinh,Huyện Đông Hòa,Phú Yên,140.0,24.0,5.0,1,Đông,1.95
+2207,6/4/2022,Phường Hoà Vinh,Huyện Đông Hòa,Phú Yên,140.0,22.0,5.0,1,Đông,1.95
+2209,6/4/2022,Phường 9,Quận 3,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,2.33
+2211,6/4/2022,Phường Hiệp Tân,Quận Tân Phú,TP. Hồ Chí Minh,75.0,0.0,0.0,1,Unknow,1.98
+2212,6/4/2022,Xã Phù Khê,Thị xã Từ Sơn,Bắc Ninh,228.0,0.0,0.0,0,Unknow,2.17
+2213,6/4/2022,Xã Hoàn Sơn,Huyện Tiên Du,Bắc Ninh,72.0,12.0,6.0,1,Unknow,1.7
+2215,6/4/2022,Xã Bàu Cạn,Huyện Long Thành,Đồng Nai,1109.0,0.0,0.0,1,Unknow,2.5
+2216,6/4/2022,Phường Mũi Né,TP. Phan Thiết,Bình Thuận,343.0,0.0,0.0,0,Unknow,7.55
+2217,6/4/2022,Phường 7,Quận Phú Nhuận,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,1.7
+2218,6/4/2022,Phường Bình Trị Đông A,Quận Bình Tân,TP. Hồ Chí Minh,70.0,0.0,0.0,1,Unknow,2.35
+2219,6/4/2022,Xã Sơn Mỹ,Huyện Hàm Tân,Bình Thuận,1000.0,50.0,20.0,1,Bắc,3.8
+2220,6/4/2022,Xã Tân Xuân,Huyện Hàm Tân,Bình Thuận,4181.0,75.0,65.0,1,Đông,5.0
+2221,6/4/2022,Xã Tân Hà,Huyện Hàm Tân,Bình Thuận,12000.0,90.0,134.0,1,Đ.Nam,10.72
+2222,6/4/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.9
+2224,6/3/2022,Xã Sơn Mỹ,Huyện Hàm Tân,Bình Thuận,6075.0,0.0,0.0,1,Unknow,13.0
+2226,6/3/2022,Xã An Tịnh,Huyện Trảng Bàng,Tây Ninh,150.0,0.0,0.0,0,Unknow,0.55
+2227,6/3/2022,Phường IV,TP. Vị Thanh,Hậu Giang,100.0,0.0,0.0,0,Unknow,1.7
+2231,6/3/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+2236,6/3/2022,Thị trấn Trạm Trôi,Huyện Hoài Đức,TP. Hà Nội,90.0,18.0,4.99,1,T.Bắc,7.0
+2237,6/3/2022,Tân Thành,Dương Kinh,Hải Phòng,90.0,20.0,5.0,0,Unknow,1.38
+2239,6/3/2022,Hòa Thọ Đông,Cẩm Lệ,Đà Nẵng,112.0,22.5,5.0,0,Unknow,4.5
+2240,6/3/2022,Phường Trường Thọ,TP. Thủ Đức,TP. Hồ Chí Minh,80.0,16.0,5.0,1,Unknow,1.5
+2241,6/3/2022,Xã Hòa Thạch,Huyện Quốc Oai,TP. Hà Nội,2658.0,80.0,25.0,0,Unknow,14.62
+2242,6/3/2022,Vĩnh Thái,Nha Trang,Khánh Hòa,323.0,19.0,17.0,0,Unknow,11.0
+2243,6/3/2022,Xã Sơn Mỹ,Huyện Hàm Tân,Bình Thuận,1000.0,50.0,20.0,1,Unknow,4.0
+2244,6/3/2022,Thị trấn Củ Chi,Huyện Củ Chi,TP. Hồ Chí Minh,150.0,0.0,0.0,0,Unknow,0.6
+2245,6/3/2022,Đường 4D Tả Van,thị xã SaPa,Lào Cai,931.0,0.0,0.0,0,Unknow,6.3
+2246,6/3/2022,Xã Lộc Quảng,Huyện Bảo Lâm,Lâm Đồng,105.0,0.0,0.0,0,Unknow,0.88
+2247,6/3/2022,Xã Hương Mạc,Thị xã Từ Sơn,Bắc Ninh,237.0,0.0,0.0,0,Unknow,2.45
+2248,6/3/2022,P.Lào Cai,TP.Lào Cai,Lào Cai,273.0,16.0,17.0,0,Unknow,0.22222
+2249,6/3/2022,Thanh Xuân Trung,Thanh Xuân,Hà Nội,46.0,12.0,4.2,0,Unknow,5.2
+2250,6/3/2022,Phù Khê,Từ Sơn,Bắc Ninh,228.0,17.0,13.0,0,Unknow,2.16
+2251,6/3/2022,Diên Phước,Diên Khánh,Khánh Hòa,2374.0,33.0,70.0,0,Unknow,16.62
+2252,6/3/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,85.0,17.0,5.0,1,Unknow,1.4
+2255,6/3/2022,Phường Hóa An,TP. Biên Hòa,Đồng Nai,135.0,18.0,7.0,1,Bắc,3.85
+2256,6/3/2022,Xã Phước Hiệp,Huyện Củ Chi,TP. Hồ Chí Minh,180.0,0.0,0.0,0,Unknow,0.7
+2258,6/3/2022,Xã Bàu Cạn,Huyện Long Thành,Đồng Nai,2499.0,61.0,40.0,0,Unknow,5.9
+2259,6/3/2022,Xã Điện Thọ,Thị xã Điện Bàn,Quảng Nam,856.0,41.0,21.0,1,Đ.Nam,0.89
+2260,6/3/2022,Phường 15,Quận Gò Vấp,TP. Hồ Chí Minh,72.0,18.0,4.0,1,Unknow,5.3
+2261,6/3/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+2262,6/3/2022,Thị trấn Củ Chi,huyện Củ Chi,TP.HCM,100.0,20.0,5.0,0,Unknow,0.755
+2264,6/3/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Đông,0.899
+2265,6/3/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Đông,0.899
+2267,6/2/2022,Thị trấn Thủ Thừa,Huyện Thủ Thừa,Long An,100.0,20.0,5.0,1,Unknow,1.4
+2268,6/2/2022,Xã Tân Hiệp,Huyện Long Thành,Đồng Nai,1143.0,78.0,14.99,1,Unknow,2.7
+2269,6/2/2022,Phường Minh Hưng,Thị xã Chơn Thành,Bình Phước,165.0,30.0,5.0,1,Đông,0.7
+2271,6/2/2022,Phường Thượng Thanh,Quận Long Biên,TP. Hà Nội,50.0,0.0,0.0,1,Unknow,5.5
+2274,6/2/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.9
+2275,6/2/2022,Xã Long Phước,TP. Bà Rịa,Bà Rịa - Vũng Tàu,425.0,42.0,10.0,1,Unknow,2.98
+2276,6/2/2022,Phường Hiệp Bình Chánh,TP. Thủ Đức,TP. Hồ Chí Minh,110.0,28.0,4.0,1,T.Nam,5.7
+2277,6/2/2022,Phường An Phú,TP. Thủ Đức,TP. Hồ Chí Minh,96.0,16.0,6.0,0,Unknow,1.7
+2279,6/2/2022,Xã Phước Đông,Huyện Gò Dầu,Tây Ninh,450.0,0.0,0.0,0,Unknow,1.85
+2280,6/2/2022,Phường Phú Hữu,TP. Thủ Đức,TP. Hồ Chí Minh,100.0,20.0,5.0,0,Unknow,1.9
+2281,6/2/2022,Phường 7,TP. Đà Lạt,Lâm Đồng,3000.0,0.0,0.0,1,Đ.Bắc,11.0
+2282,6/2/2022,Phường 7,TP. Đà Lạt,Lâm Đồng,998.0,43.0,23.4,1,T.Bắc,23.0
+2283,6/2/2022,Xã Xuân Bắc,Huyện Xuân Lộc,Đồng Nai,14610.0,130.0,120.0,1,Bắc,7.0
+2284,6/2/2022,Thị trấn Yên Định,Huyện Hải Hậu,Nam Định,102.0,0.0,0.0,0,Unknow,1.5
+2285,6/2/2022,Xã Sông Trầu,Huyện Trảng Bom,Đồng Nai,1797.0,80.0,18.0,1,Bắc,11.0
+2286,6/2/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+2290,6/2/2022,Phường Khuê Mỹ,Quận Ngũ Hành Sơn,TP. Đà Nẵng,330.0,13.0,26.0,0,Unknow,54.0
+2292,6/2/2022,Xã Diên Thọ,Huyện Diên Khánh,Khánh Hòa,156.0,33.0,6.0,0,Đông,0.77
+2293,6/2/2022,Xã Lộc An,Huyện Bảo Lâm,Lâm Đồng,1018.0,43.0,25.0,1,Unknow,2.2
+2295,6/2/2022,Vĩnh Hòa,Nha Trang,Khánh Hòa,110.0,19.0,6.5,0,Unknow,8.3
+2296,6/2/2022,Đường 23/10 Vĩnh Thạnh,Nha Trang,Khánh Hòa,118.0,18.0,6.0,0,Unknow,1.71
+2299,6/2/2022,Xã Hoàn Sơn,Huyện Tiên Du,Bắc Ninh,71.0,0.0,0.0,0,Unknow,2.25
+2301,6/2/2022,Đường Trần Nguyên Hãn Cam Phúc Bắc,Cam Ranh,Khánh Hòa,352.0,32.0,11.0,0,Unknow,5.5
+2302,6/2/2022,Đường Ngọc Thụy Ngọc Thụy,Long Biên,Hà Nội,248.0,21.0,12.0,0,Unknow,22.0
+2304,6/2/2022,Xã Quy Đức,Huyện Bình Chánh,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,2.35
+2306,6/2/2022,Phường Tân Phú,TP. Đồng Xoài,Bình Phước,165.0,5.0,33.0,1,Đông,0.7
+2308,6/2/2022,Xã Quy Đức,Huyện Bình Chánh,TP. Hồ Chí Minh,123.4,0.0,0.0,1,Đ.Bắc,2.8
+2311,6/2/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,5.98,1,Đông,0.899
+2312,6/1/2022,Phường 5,Quận 8,TP. Hồ Chí Minh,72.0,0.0,0.0,0,Unknow,9.0
+2313,6/1/2022,Phường Tân Hòa,TP. Buôn Ma Thuột,Đắk Lắk,103.0,5.0,20.0,1,T.Nam,1.9
+2314,6/1/2022,Xã Quảng Lợi,Huyện Quảng Điền,Thừa Thiên Huế,156.0,22.0,7.0,1,Nam,0.56
+2315,6/1/2022,Xã Tân Thông Hội,Huyện Củ Chi,TP. Hồ Chí Minh,300.0,0.0,0.0,0,Unknow,3.0
+2317,6/1/2022,Phường Hoà Nghĩa,Quận Dương Kinh,TP. Hải Phòng,116.0,0.0,0.0,0,Unknow,1.74
+2318,6/1/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,264.0,22.0,12.0,1,Unknow,1.8
+2319,6/1/2022,Bình Châu,Xuyên Mộc,Bà Rịa Vũng Tàu,1000.0,50.0,20.0,0,Unknow,0.27
+2320,6/1/2022,Xã An Hòa,Huyện Trảng Bàng,Tây Ninh,180.0,0.0,0.0,0,Unknow,0.6
+2322,6/1/2022,Xã Đạm Bri,TP. Bảo Lộc,Lâm Đồng,253.0,24.0,10.0,1,Unknow,1.57
+2323,6/1/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Đông,0.899
+2325,6/1/2022,Phường Điện Ngọc,Thị xã Điện Bàn,Quảng Nam,153.0,25.0,6.0,0,Unknow,2.6
+2326,6/1/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+2331,6/1/2022,Xã Quy Đức,Huyện Bình Chánh,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Đ.Bắc,2.25
+2332,6/1/2022,Xã Quy Đức,Huyện Bình Chánh,TP. Hồ Chí Minh,123.4,0.0,0.0,1,Unknow,2.8
+2333,6/1/2022,Xã Quy Đức,Huyện Bình Chánh,TP. Hồ Chí Minh,88.0,0.0,0.0,1,Đ.Nam,2.4
+2335,6/1/2022,Thị trấn Đức Phong,Huyện Bù Đăng,Bình Phước,2000.0,33.0,5.0,1,Đông,0.45
+2336,6/1/2022,Phường Mỹ Xuân,Thị xã Phú Mỹ,Bà Rịa - Vũng Tàu,793.0,22.0,43.99,1,Nam,3.0
+2337,6/1/2022,Xã Hoàn Sơn,Huyện Tiên Du,Bắc Ninh,98.0,0.0,0.0,1,Unknow,1.45
+2338,6/1/2022,Xã Phước Bình,Huyện Long Thành,Đồng Nai,1000.0,0.0,0.0,0,Unknow,3.2
+2339,6/1/2022,Phường Ngọc Hải,Quận Đồ Sơn,TP. Hải Phòng,120.0,20.0,6.0,1,Unknow,1.68
+2342,6/1/2022,Xã Xuân Đông,Huyện Cẩm Mỹ,Đồng Nai,1141.0,0.0,0.0,0,Unknow,1.65
+2343,6/1/2022,Xã Phú Lộc,Huyện Krông Năng,Đắk Lắk,132.0,22.0,5.99,1,Unknow,0.8976000000000001
+2344,6/1/2022,Thị trấn Đức Phong,Huyện Bù Đăng,Bình Phước,120.0,5.0,24.0,1,Nam,0.75
+2345,6/1/2022,Xã Sông Trầu,Huyện Trảng Bom,Đồng Nai,1000.0,50.0,20.0,1,Đông,2.0
+2346,6/1/2022,Thị trấn Krông Năng,Huyện Krông Năng,Đắk Lắk,132.0,22.0,6.0,1,Unknow,0.899
+2347,6/1/2022,Xã Điện Hồng,Thị xã Điện Bàn,Quảng Nam,174.0,24.0,7.25,1,Đ.Nam,0.65
+2348,6/1/2022,Xã Đại An,Huyện Đại Lộc,Quảng Nam,755.0,21.0,36.0,1,Đ.Nam,3.5
+2349,6/1/2022,Phường 6,TP. Đà Lạt,Lâm Đồng,450.0,0.0,0.0,1,T.Bắc,22.0
+2350,6/1/2022,Phường IV,TP. Vị Thanh,Hậu Giang,100.0,0.0,0.0,0,Unknow,1.4
+2351,6/1/2022,Phường IV,TP. Vị Thanh,Hậu Giang,100.0,0.0,0.0,0,Unknow,1.4
+2354,6/1/2022,Xã Ninh Xuân,Thị xã Ninh Hòa,Khánh Hòa,155.0,19.0,8.0,0,Đ.Nam,1.28
+2355,6/1/2022,Xã Ninh Phú,Thị xã Ninh Hòa,Khánh Hòa,106.0,15.0,6.0,0,Đ.Bắc,0.9
+2356,6/1/2022,Phường Ninh Giang,Thị xã Ninh Hòa,Khánh Hòa,190.0,16.0,12.0,0,Đông,1.5
+2359,6/1/2022,Phường Tân Chánh Hiệp,Quận 12,TP. Hồ Chí Minh,180.0,20.0,9.0,1,Tây,9.0
+2360,6/1/2022,Phường An Phú,TP. Thủ Đức,TP. Hồ Chí Minh,100.0,0.0,0.0,1,Unknow,1.89
+2361,6/1/2022,Phường Thạnh Lộc,Quận 12,TP. Hồ Chí Minh,80.0,0.0,0.0,1,Unknow,2.2
+2362,6/1/2022,Xã Tân Thông Hội,Huyện Củ Chi,TP. Hồ Chí Minh,150.0,0.0,0.0,0,Unknow,0.45
+2363,6/1/2022,Xã Xuân Thới Sơn,Huyện Hóc Môn,TP. Hồ Chí Minh,48.0,4.0,12.0,1,Unknow,0.36
+2370,5/31/2022,Xã Long Phước,TP. Bà Rịa,Bà Rịa - Vũng Tàu,421.0,42.0,10.0,1,Unknow,2.95
+2373,5/31/2022,Xã Hòa Thạnh,Huyện Châu Thành,Tây Ninh,210.0,0.0,0.0,0,Unknow,0.42
+2375,5/31/2022,Xã Phật Tích,Huyện Tiên Du,Bắc Ninh,1470.0,0.0,0.0,1,Unknow,20.0
