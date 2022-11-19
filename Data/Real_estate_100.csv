@@ -1,4 +1,4 @@
-﻿Price;Location;Spare;Length;Width;Direction;Amenities
+Price;Location;Spare;Length;Width;Direction;Amenities
 800 triệu; Đường 22, Phường Minh Thành, Thị xã Chơn Thành, Bình Phước; 1,000 m²; 20 m; 50 m; --;1
 500 triệu; Đường Quốc Lộ 13, Xã Lộc Thiện, Huyện Lộc Ninh, Bình Phước; 1,000 m²; 100 m; 10 m; --;1
 460 triệu; Xã Phước Đông, Huyện Gò Dầu, Tây Ninh; 382 m²; --; --; --;0
@@ -955,7 +955,7 @@
 1.1 tỷ; Đường 5, Xã Tây Hòa, Huyện Trảng Bom, Đồng Nai; 125 m²; 25 m; 5 m; --;0
 4.6 tỷ; Đường Đỗ Văn Thi, Phường Tam Hòa, TP. Biên Hòa, Đồng Nai; 85 m²; --; 5 m; --;0
 600 triệu; Đường Hội Bài - Châu Pha, Xã Tân Hòa, Thị xã Phú Mỹ, Bà Rịa Vũng Tàu; 100 m²; 5 m; 20 m; --;0
-6.25 tỷ; DT759B Lộc An, Huyện Lộc Ninh, Tỉnh Bình Phước., Xã Lộc An, Huyện Lộc Ninh, Bình Phước; 14,600 m²; --; --; --;0
+6.25 tỷ; DT759B Lộc An, Xã Lộc An, Huyện Lộc Ninh, Bình Phước; 14,600 m²; --; --; --;0
 650 triệu; Phường Lái Thiêu, TP. Thuận An, Bình Dương; 1,700 m²; 65 m; 17.99 m; --;1
 3.8 tỷ; Đường 1 Ninh Diêm, Ninh Hòa, Khánh Hòa; 382 m²; 41 m; 9 m; --;0
 22 tỷ; Nguyễn Văn Tăng, Phường Long Thạnh Mỹ, TP. Thủ Đức, TP. Hồ Chí Minh; 530 m²; 38 m; 15.5 m; --;1
